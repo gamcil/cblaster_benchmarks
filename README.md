@@ -12,6 +12,8 @@ All performance benchmarks were generated using the perf command line utility on
 | ``extract_search_times.py`` | Script for extracting elapsed times from perf stat output |
 | ``perf/*`` | Output of perf stat for database creation and search |
 | ``output/*`` | Search output files for both tools |
+| ``times.csv`` | Search times (s) extracted from perf output using ``extract_search_times.py`` |
+| ``plot_times.R`` | Script used to plot ``times.csv`` |
 
 ## Download Aspergillus genomes from the NCBI using datasets
 The NCBI datasets tool was used to retrieve annotated Aspergillus genome assemblies:
