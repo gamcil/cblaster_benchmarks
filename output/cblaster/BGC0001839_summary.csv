@@ -1,0 +1,502 @@
+cblaster search
+===============
+BGC0001839
+==========
+BGC0001839.1
+------------
+Cluster 1, score 7.2463:
+Query  Subject  Identity  Coverage  E-value    Bitscore  Start  End    Strand
+gene1  gene1    100       100       3.49e-126  356       5117   6268   -     
+gene2  gene2    100       100       3.25e-289  785       10000  11215  -     
+gene3  gene3    100       100       2.9e-296   811       11974  13637  +     
+gene4  gene4    100       100       1.03e-184  511       14641  15445  +     
+
+
+GCA_000002655
+=============
+CM000175.1
+----------
+Cluster 2, score 2.0865:
+Query  Subject       Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene1  AFUA_7G01200  65.7      96        2.25e-70   218       316411  317245  -     
+gene3  AFUA_7G01230  77        94.4      2.77e-231  647       322181  323850  +     
+
+
+GCA_000002855
+=============
+AM270991.1
+----------
+Cluster 3, score 1.0695:
+Query  Subject     Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  An12g01890  87.3      98.4      6.03e-252  695       491176  492782  -     
+
+
+GCA_000011425
+=============
+BN001306.1
+----------
+Cluster 4, score 5.1735:
+Query  Subject     Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene1  ANIA_03377  74        96.6      3.5e-87    261       864247  865087  -     
+gene2  ANIA_10396  93.4      98.4      4.03e-268  736       867876  869829  -     
+gene3  ANIA_03375  90.5      94.4      2.07e-267  738       870137  872020  +     
+
+
+GCA_000149205
+=============
+CH236922.1
+----------
+Cluster 5, score 5.1735:
+Query  Subject   Identity  Coverage  E-value    Bitscore  Start    End      Strand
+gene3  AN3375.2  90.5      94.4      2.07e-267  738       2476126  2477740  -     
+gene2  AN3376.2  93.4      98.4      1.26e-264  736       2478473  2481255  +     
+gene1  AN3377.2  74        96.6      3.5e-87    261       2482917  2483757  +     
+
+
+GCA_000150145
+=============
+DS499601.1
+----------
+Cluster 6, score 1.0647:
+Query  Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene3  AFUB_087810  77        94.4      2.77e-231  647       323876  325545  +     
+
+
+GCA_000731615
+=============
+JHOI01000410.1
+--------------
+Cluster 7, score 1.0648:
+Query  Subject    Identity  Coverage  E-value   Bitscore  Start  End    Strand
+gene3  BA78_1549  77.7      94.4      9.7e-232  648       20072  21747  -     
+
+
+GCA_000986645
+=============
+JZBS01001361.1
+--------------
+Cluster 8, score 1.0253:
+Query  Subject      Identity  Coverage  E-value   Bitscore  Start  End    Strand
+gene1  ARAM_004830  71        96.6      5.94e-84  253       46822  47671  -     
+
+JZBS01001671.1
+--------------
+Cluster 9, score 3.1360:
+Query  Subject      Identity  Coverage  E-value    Bitscore  Start  End   Strand
+gene2  ARAM_007203  89.7      98.4      2.85e-259  713       3051   4630  -     
+gene3  ARAM_007204  78        94.6      5.78e-232  647       5415   7028  +     
+
+
+GCA_000986665
+=============
+JYKN01001613.1
+--------------
+Cluster 10, score 5.1613:
+Query  Subject      Identity  Coverage  E-value    Bitscore  Start  End   Strand
+gene3  AOCH_000891  78        94.6      5.78e-232  647       1610   3223  -     
+gene2  AOCH_000892  89.7      98.4      2.85e-259  713       4014   5593  +     
+gene1  AOCH_000894  71        96.6      5.94e-84   253       8283   9132  +     
+
+
+GCA_001029325
+=============
+KQ087370.1
+----------
+Cluster 11, score 1.0647:
+Query  Subject     Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene3  Y699_08825  77        94.4      2.77e-231  647       320959  322628  +     
+
+
+GCA_001511075
+=============
+CDMC01000008.1
+--------------
+Cluster 12, score 3.0995:
+Query  Subject      Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene1  ASPCAL09759  75.3      97.1      3.91e-93  276       455296  456130  -     
+gene2  ASPCAL09760  91.2      97.9      1e-261    719       458184  461070  -     
+
+
+GCA_001792695
+=============
+LYCR01000145.1
+--------------
+Cluster 13, score 1.0651:
+Query  Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+gene3  ABOM_010888  74.5      94.6      6.34e-233  651       66133  67816  +     
+
+
+GCA_001889945
+=============
+KV878693.1
+----------
+Cluster 14, score 1.0695:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  ASPBRDRAFT_34109  87.5      98.4      6.03e-252  695       654421  655974  +     
+
+
+GCA_001890125
+=============
+KV878127.1
+----------
+Cluster 15, score 7.2162:
+Query  Subject            Identity  Coverage  E-value    Bitscore  Start    End      Strand
+gene1  ASPVEDRAFT_40406   92.4      97.7      1.45e-112  329       3423748  3425358  -     
+gene2  ASPVEDRAFT_166084  96        98.4      1.86e-271  744       3427304  3429711  -     
+gene3  ASPVEDRAFT_40409   95.5      94.6      7.67e-280  770       3429913  3432061  +     
+gene4  ASPVEDRAFT_594352  66        100       7.03e-109  319       3432393  3433792  +     
+
+
+GCA_001890705
+=============
+KV878584.1
+----------
+Cluster 16, score 7.2426:
+Query  Subject            Identity  Coverage  E-value    Bitscore  Start    End      Strand
+gene1  ASPSYDRAFT_30063   99.4      97.7      7.27e-121  346       3317680  3318505  -     
+gene2  ASPSYDRAFT_147964  99.5      98.4      5.74e-282  771       3321539  3323124  -     
+gene3  ASPSYDRAFT_43490   100       100       2.9e-296   811       3323657  3325800  +     
+gene4  ASPSYDRAFT_831262  95.9      100       2.19e-179  498       3326347  3327570  +     
+
+
+GCA_001890745
+=============
+KV878179.1
+----------
+Cluster 17, score 1.0696:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  ASPTUDRAFT_50553  87.8      98.7      1.18e-253  696       690273  691615  +     
+
+
+GCA_001890905
+=============
+KV878974.1
+----------
+Cluster 18, score 1.0223:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene1  ASPACDRAFT_51175  63.7      96        2.66e-72  223       357073  357913  +     
+
+
+GCA_001990825
+=============
+KV907513.1
+----------
+Cluster 19, score 1.0700:
+Query  Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  ASPCADRAFT_409651  88.6      98.4      6.32e-254  700       128856  130454  -     
+
+
+GCA_002234985
+=============
+NKHS01000256.1
+--------------
+Cluster 20, score 1.0647:
+Query  Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+gene3  CDV58_07034  77        94.4      2.77e-231  647       16033  17702  +     
+
+
+GCA_002846915
+=============
+MSFN02000003.1
+--------------
+Cluster 21, score 5.1694:
+Query  Subject            Identity  Coverage  E-value    Bitscore  Start    End      Strand
+gene1  P175DRAFT_0523244  71        96.6      5.94e-84   253       2326866  2327715  -     
+gene2  P175DRAFT_0500930  89.7      98.4      2.85e-259  713       2330270  2332337  -     
+gene3  P175DRAFT_0500932  85        94.6      1.06e-263  728       2332624  2334658  +     
+
+
+GCA_002847465
+=============
+MSZS01000008.1
+--------------
+Cluster 22, score 1.0219:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start    End      Strand
+gene1  P174DRAFT_497268  64.5      96        1.58e-70  219       1476732  1477566  +     
+
+
+GCA_002849105
+=============
+MSFO01000002.1
+--------------
+Cluster 23, score 1.0651:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene3  P170DRAFT_376568  75.2      94.6      1.16e-232  651       722186  723965  -     
+
+
+GCA_003184525
+=============
+MSFK01000025.1
+--------------
+Cluster 24, score 1.0700:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  BO94DRAFT_548842  88.6      98.4      6.32e-254  700       118688  120286  -     
+
+MSFK01000005.1
+--------------
+Cluster 25, score 1.0225:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene1  BO94DRAFT_316997  63.3      96.6      3.96e-73  225       398186  399311  -     
+
+
+GCA_003184535
+=============
+MSFU01000015.1
+--------------
+Cluster 26, score 1.0697:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  BO83DRAFT_379240  88.1      98.4      1.04e-252  697       707935  710299  +     
+
+
+GCA_003184595
+=============
+KZ821362.1
+----------
+Cluster 27, score 1.0697:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  BO96DRAFT_502765  87.5      98.4      1.04e-252  697       477972  479940  -     
+
+
+GCA_003184635
+=============
+KZ826385.1
+----------
+Cluster 28, score 1.0232:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene1  BO78DRAFT_400098  64.5      96.6      9.85e-76  232       171483  172561  +     
+
+
+GCA_003184685
+=============
+KZ825466.1
+----------
+Cluster 29, score 1.0223:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start  End    Strand
+gene1  BP00DRAFT_332808  63.1      96        3.63e-72  223       28939  29779  +     
+
+
+GCA_003184695
+=============
+KZ825312.1
+----------
+Cluster 30, score 1.0225:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene1  BO95DRAFT_449279  63.7      96        4.48e-73  225       755050  755890  +     
+
+
+GCA_003184705
+=============
+KZ825122.1
+----------
+Cluster 31, score 1.0224:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene1  BO99DRAFT_102330  63.1      96        1.81e-72  224       103467  104701  -     
+
+
+GCA_003184745
+=============
+KZ821679.1
+----------
+Cluster 32, score 1.0223:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene1  BO82DRAFT_162599  63.1      96        2.56e-72  223       138646  139842  +     
+
+
+GCA_003184755
+=============
+KZ825054.1
+----------
+Cluster 33, score 1.0696:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start    End      Strand
+gene2  BO85DRAFT_444696  87.8      98.4      2.99e-252  696       2583141  2585400  -     
+
+
+GCA_003184765
+=============
+KZ825002.1
+----------
+Cluster 34, score 1.0225:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start  End    Strand
+gene1  BO66DRAFT_227671  63.7      96        4.48e-73  225       81319  82390  -     
+
+
+GCA_003184785
+=============
+KZ824820.1
+----------
+Cluster 35, score 1.0224:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene1  BO86DRAFT_171572  63.1      96        1.81e-72  224       145846  147080  +     
+
+
+GCA_003184825
+=============
+KZ824648.1
+----------
+Cluster 36, score 1.0225:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene1  BO72DRAFT_430647  63.7      96        4.48e-73  225       172830  173670  +     
+
+
+GCA_003184835
+=============
+KZ824543.1
+----------
+Cluster 37, score 1.0696:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  BO79DRAFT_208204  87.8      98.4      2.99e-252  696       493319  495412  +     
+
+
+GCA_003184845
+=============
+KZ824447.1
+----------
+Cluster 38, score 1.0226:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene1  BO80DRAFT_128231  63.9      96.6      1.85e-73  226       252050  253423  -     
+
+KZ824464.1
+----------
+Cluster 39, score 1.0698:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start  End   Strand
+gene2  BO80DRAFT_458244  88.3      98.4      2.57e-253  698       3853   5447  +     
+
+
+GCA_003184865
+=============
+KZ824285.1
+----------
+Cluster 40, score 1.0224:
+Query  Subject           Identity  Coverage  E-value   Bitscore  Start  End    Strand
+gene1  BO97DRAFT_405708  63.7      96        1.81e-72  224       72784  73718  -     
+
+
+GCA_003184925
+=============
+KZ821628.1
+----------
+Cluster 41, score 1.0696:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  BO88DRAFT_488870  87.8      98.4      2.99e-252  696       152652  154694  -     
+
+
+GCA_003344505
+=============
+KZ851853.1
+----------
+Cluster 42, score 1.0695:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  M752DRAFT_276332  87.3      98.4      6.03e-252  695       810331  812354  +     
+
+
+GCA_003344705
+=============
+KZ851913.1
+----------
+Cluster 43, score 1.0695:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene2  M747DRAFT_370089  87.3      98.4      6.03e-252  695       286279  288233  +     
+
+
+GCA_003369625
+=============
+PVWQ01000003.1
+--------------
+Cluster 44, score 5.1725:
+Query  Subject        Identity  Coverage  E-value    Bitscore  Start    End      Strand
+gene1  DSM5745_03751  70.2      97.7      2.32e-85   256       3432890  3433730  -     
+gene2  DSM5745_03753  92.8      98.4      1.57e-265  729       3436704  3438277  -     
+gene3  DSM5745_03754  91.4      94.6      3.05e-268  740       3439057  3440690  +     
+
+
+GCA_009176345
+=============
+ML732311.1
+----------
+Cluster 45, score 1.0651:
+Query  Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+gene3  BDV29DRAFT_181328  74.6      94.6      6.97e-233  651       53604  55759  -     
+
+
+GCA_009193445
+=============
+ML743557.1
+----------
+Cluster 46, score 1.0650:
+Query  Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene3  BDV38DRAFT_237185  77.2      94.6      1.88e-232  650       287393  289581  +     
+
+
+GCA_009193465
+=============
+ML742070.1
+----------
+Cluster 47, score 1.0646:
+Query  Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+gene3  BDV25DRAFT_152571  78.2      94.6      5.38e-231  646       44889  46976  +     
+
+
+GCA_009193485
+=============
+ML738589.1
+----------
+Cluster 48, score 1.0647:
+Query  Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene3  BDV40DRAFT_253065  78.8      94.6      4.71e-231  647       569608  571841  -     
+
+
+GCA_009193585
+=============
+ML737684.1
+----------
+Cluster 49, score 1.0647:
+Query  Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+gene3  BDV27DRAFT_11094  80        94.6      2.34e-231  647       69933  72106  +     
+
+
+GCA_009193595
+=============
+ML736293.1
+----------
+Cluster 50, score 1.0654:
+Query  Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+gene3  BDV26DRAFT_270562  79.5      94.6      4.29e-234  654       60389  62512  +     
+
+
+GCA_009193665
+=============
+ML735785.1
+----------
+Cluster 51, score 1.0647:
+Query  Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+gene3  BDV36DRAFT_265211  80        94.6      4.71e-231  647       115758  117948  -     
+
+
+GCA_015844325
+=============
+VCAU01000001.1
+--------------
+Cluster 52, score 1.0697:
+Query  Subject       Identity  Coverage  E-value   Bitscore  Start   End     Strand
+gene2  FE257_000093  87.2      98.4      9.7e-253  697       245255  246841  -     
+
+
+GCA_016861865
+=============
+AP024445.1
+----------
+Cluster 53, score 7.2176:
+Query  Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+gene1  APUU_31414A  93.6      97.7      1.36e-114  330       3530645  3531476  -     
+gene2  APUU_31416A  97.3      98.4      1.23e-276  757       3534267  3535852  -     
+gene3  APUU_31417S  93.9      100       8.5e-277   763       3536612  3538299  +     
+gene4  APUU_31418S  64.8      100       1.77e-111  326       3539133  3539937  +     
+
+
+GCA_018340605
+=============
+BHVY01000008.1
+--------------
+Cluster 54, score 1.0645:
+Query  Subject        Identity  Coverage  E-value    Bitscore  Start    End      Strand
+gene3  Asppvi_010688  77.1      94.4      1.08e-230  645       1760352  1762023  -     

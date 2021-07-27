@@ -1,0 +1,544 @@
+cblaster search
+===============
+GCA_000011425
+=============
+BN001301.1
+----------
+Cluster 1, score 1.0177:
+Query       Subject     Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08516  ANIA_06338  31.6      88.7      3.58e-48  177       480152  482232  -     
+
+BN001305.1
+----------
+Cluster 2, score 9.4942:
+Query       Subject     Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08513  ANIA_08513  100       100       0          1903      732112  735025  -     
+ANIA_08514  ANIA_08514  100       100       5.67e-311  843       735414  736807  +     
+ANIA_08518  ANIA_08518  100       100       1.21e-259  708       737457  738525  +     
+ANIA_08516  ANIA_08516  100       100       0          879       738741  740460  +     
+ANIA_08520  ANIA_08520  100       100       1.84e-222  609       740486  741871  -     
+
+
+GCA_000149205
+=============
+CH236926.1
+----------
+Cluster 3, score 1.0177:
+Query       Subject   Identity  Coverage  E-value   Bitscore  Start    End      Strand
+ANIA_08516  AN6338.2  31.6      88.7      3.58e-48  177       1721606  1723478  +     
+
+CH236931.1
+----------
+Cluster 4, score 14.7049:
+Query       Subject   Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08513  AN8513.2  100       100       0          1903      757948  760861  -     
+ANIA_08514  AN8514.2  100       100       5.67e-311  843       761250  762643  +     
+ANIA_08518  AN8515.2  100       100       1.21e-259  708       763293  764361  +     
+ANIA_08516  AN8516.2  100       100       0          879       764577  766251  +     
+ANIA_08520  AN8517.2  100       100       1.84e-222  609       766322  767707  -     
+ANIA_08518  AN8518.2  100       100       1.21e-259  708       768446  769514  +     
+ANIA_08516  AN8519.2  92.4      100       3.87e-289  790       769730  771403  +     
+ANIA_08520  AN8520.2  100       100       1.84e-222  609       771474  772859  -     
+
+
+GCA_000149615
+=============
+CH476609.1
+----------
+Cluster 5, score 3.0664:
+Query       Subject     Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08514  ATEG_09980  45.4      98.6      2.95e-130  386       110922  112339  +     
+ANIA_08518  ATEG_09981  47.6      100       3.18e-89   278       112524  113970  -     
+
+CH476594.1
+----------
+Cluster 6, score 3.1643:
+Query       Subject     Identity  Coverage  E-value    Bitscore  Start    End      Strand
+ANIA_08513  ATEG_00700  65.9      98.5      0          1246      1968772  1971661  -     
+ANIA_08514  ATEG_00702  48.3      98.1      1.21e-134  397       1973829  1975238  -     
+
+
+GCA_000239835
+=============
+DF126447.1
+----------
+Cluster 7, score 1.0173:
+Query       Subject     Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08516  AKAW_00293  30.5      88.7      9.97e-47  173       950449  952409  +     
+
+
+GCA_001204775
+=============
+JNOM01000009.1
+--------------
+Cluster 8, score 1.0741:
+Query       Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+ANIA_08513  ANOM_000859  45.8      96.3      2.95e-254  741       61641  64422  -     
+
+JNOM01000015.1
+--------------
+Cluster 9, score 1.0292:
+Query       Subject      Identity  Coverage  E-value  Bitscore  Start   End     Strand
+ANIA_08518  ANOM_001453  46.3      100       3e-95    292       102760  103849  -     
+
+
+GCA_001511075
+=============
+CDMC01000002.1
+--------------
+Cluster 10, score 1.1258:
+Query       Subject      Identity  Coverage  E-value  Bitscore  Start    End      Strand
+ANIA_08513  ASPCAL03227  84.6      75.2      0        1258      4117301  4119506  -     
+
+
+GCA_001602395
+=============
+BCWF01000021.1
+--------------
+Cluster 11, score 1.0173:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start    End      Strand
+ANIA_08516  RIB2604_02104050  30.5      88.7      9.97e-47  173       1124757  1126717  -     
+
+
+GCA_001792695
+=============
+LYCR01000017.1
+--------------
+Cluster 12, score 1.0293:
+Query       Subject      Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08518  ABOM_002197  46.3      100       7.48e-96  293       310720  311809  +     
+
+
+GCA_001890125
+=============
+KV878128.1
+----------
+Cluster 13, score 1.0180:
+Query       Subject            Identity  Coverage  E-value  Bitscore  Start    End      Strand
+ANIA_08516  ASPVEDRAFT_130015  31.2      88.7      3.4e-49  180       1786871  1788763  -     
+
+KV878129.1
+----------
+Cluster 14, score 7.2912:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+ANIA_08513  ASPVEDRAFT_41546   70.9      100       0          1366      57513  60604  -     
+ANIA_08514  ASPVEDRAFT_192414  77.2      99.5      5.39e-236  654       61224  62715  +     
+ANIA_08518  ASPVEDRAFT_41548   50.7      100       1.56e-112  334       63209  64563  +     
+ANIA_08516  ASPVEDRAFT_192418  66.3      98.6      2.28e-197  558       65054  66816  +     
+
+
+GCA_001890705
+=============
+KV878586.1
+----------
+Cluster 15, score 1.0179:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start    End      Strand
+ANIA_08516  ASPSYDRAFT_150752  30.5      88.7      6.57e-49  179       1781330  1783229  -     
+
+KV878587.1
+----------
+Cluster 16, score 7.2929:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start    End      Strand
+ANIA_08516  ASPSYDRAFT_79508  68.1      98.6      3.05e-201  568       1538438  1540128  -     
+ANIA_08518  ASPSYDRAFT_46405  51        100       6.18e-114  338       1540788  1542222  -     
+ANIA_08514  ASPSYDRAFT_46406  78.2      99.5      1.2e-239   664       1542592  1544235  -     
+ANIA_08513  ASPSYDRAFT_46407  71.4      98.4      0          1359      1544701  1548018  +     
+
+KV878608.1
+----------
+Cluster 17, score 1.0134:
+Query       Subject           Identity  Coverage  E-value  Bitscore  Start  End    Strand
+ANIA_08520  ASPSYDRAFT_52715  41.7      51        2.7e-35  134       22761  24299  -     
+
+
+GCA_001890905
+=============
+KV878972.1
+----------
+Cluster 18, score 1.0736:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start    End      Strand
+ANIA_08513  ASPACDRAFT_113982  44.9      98.2      2.76e-252  736       1913275  1916368  +     
+
+
+GCA_002749805
+=============
+NEXV01000592.1
+--------------
+Cluster 19, score 1.0286:
+Query       Subject       Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08518  AARAC_002673  46.1      100       5.49e-93  286       113445  114534  +     
+
+
+GCA_002849105
+=============
+MSFO01000001.1
+--------------
+Cluster 20, score 1.0182:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start    End      Strand
+ANIA_08516  P170DRAFT_470322  31.1      96.4      2.08e-50  182       3779585  3781283  +     
+
+MSFO01000007.1
+--------------
+Cluster 21, score 9.2865:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start    End      Strand
+ANIA_08513  P170DRAFT_365047  69.4      100       0          1331      2798615  2801480  -     
+ANIA_08514  P170DRAFT_415228  55.3      99.8      3.03e-170  488       2802427  2803857  +     
+ANIA_08518  P170DRAFT_429405  47.3      100       5.9e-100   302       2804914  2805868  +     
+ANIA_08516  P170DRAFT_479193  64.8      98.6      9.78e-188  533       2806918  2808649  +     
+ANIA_08520  P170DRAFT_365428  60.1      51.7      1.11e-65   211       2809138  2810182  -     
+
+
+GCA_003184535
+=============
+MSFU01000008.1
+--------------
+Cluster 22, score 1.0173:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start  End    Strand
+ANIA_08516  BO83DRAFT_377016  30.5      88.7      9.97e-47  173       94879  97446  -     
+
+
+GCA_003184545
+=============
+MSFL01000027.1
+--------------
+Cluster 23, score 1.0176:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08516  BO70DRAFT_365148  31.4      88.7      1.33e-47  176       426122  428461  -     
+
+MSFL01000039.1
+--------------
+Cluster 24, score 1.0732:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08513  BO70DRAFT_400530  43.8      98.2      1.17e-250  732       236262  239040  +     
+
+
+GCA_003184585
+=============
+KZ821272.1
+----------
+Cluster 25, score 1.0717:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08513  BP01DRAFT_408710  44.1      98        7.14e-245  717       100855  104339  +     
+
+
+GCA_003184625
+=============
+KZ821454.1
+----------
+Cluster 26, score 1.0175:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08516  BO87DRAFT_375028  30.8      88.7      2.69e-47  175       362552  364973  +     
+
+
+GCA_003184635
+=============
+KZ826319.1
+----------
+Cluster 27, score 1.0290:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08518  BO78DRAFT_393563  47        100       1.32e-94  290       465209  466646  +     
+
+
+GCA_003184645
+=============
+KZ825867.1
+----------
+Cluster 28, score 1.0729:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08513  BO71DRAFT_379168  43.2      97.4      5.72e-250  729       117983  120716  -     
+
+
+GCA_003184695
+=============
+KZ825379.1
+----------
+Cluster 29, score 1.0735:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08513  BO95DRAFT_251986  44.8      98.2      6.27e-252  735       195942  199132  -     
+
+
+GCA_003184705
+=============
+KZ825146.1
+----------
+Cluster 30, score 1.0727:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08513  BO99DRAFT_413581  44.7      98        7.44e-249  727       206484  209262  +     
+
+
+GCA_003184745
+=============
+KZ821686.1
+----------
+Cluster 31, score 1.0732:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08513  BO82DRAFT_352396  44.6      98.2      8.25e-251  732       315771  319051  -     
+
+
+GCA_003184765
+=============
+KZ825021.1
+----------
+Cluster 32, score 1.0736:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+ANIA_08513  BO66DRAFT_248168  44.9      98.2      4.44e-252  736       56979  60326  -     
+
+
+GCA_003184825
+=============
+KZ824655.1
+----------
+Cluster 33, score 1.0733:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+ANIA_08513  BO72DRAFT_162699  44.7      98.2      5.01e-251  733       75637  79026  -     
+
+
+GCA_003184835
+=============
+KZ824537.1
+----------
+Cluster 34, score 1.0174:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08516  BO79DRAFT_206957  30.5      88.7      3.74e-47  174       971499  973842  -     
+
+
+GCA_003184865
+=============
+KZ824296.1
+----------
+Cluster 35, score 1.0726:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08513  BO97DRAFT_456602  44.1      98.2      2.37e-248  726       348278  351240  -     
+
+
+GCA_003184925
+=============
+KZ821614.1
+----------
+Cluster 36, score 1.0174:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start    End      Strand
+ANIA_08516  BO88DRAFT_354867  30.8      88.7      6.41e-47  174       1372026  1373983  +     
+
+
+GCA_003369625
+=============
+PVWQ01000002.1
+--------------
+Cluster 37, score 1.0177:
+Query       Subject        Identity  Coverage  E-value   Bitscore  Start    End      Strand
+ANIA_08516  DSM5745_02057  31        88.7      2.58e-48  177       1649695  1651568  -     
+
+
+GCA_003589665
+=============
+MVGC01000053.1
+--------------
+Cluster 38, score 1.0115:
+Query       Subject       Identity  Coverage  E-value   Bitscore  Start  End    Strand
+ANIA_08520  PHISCL_02408  36.2      50.3      3.66e-28  115       45428  46427  +     
+
+
+GCA_003698115
+=============
+RAQS01000039.1
+--------------
+Cluster 39, score 1.0115:
+Query       Subject      Identity  Coverage  E-value  Bitscore  Start  End    Strand
+ANIA_08520  PHISP_01512  34.9      50.3      6.7e-28  115       14068  15538  +     
+
+RAQS01000157.1
+--------------
+Cluster 40, score 1.0119:
+Query       Subject      Identity  Coverage  E-value   Bitscore  Start  End    Strand
+ANIA_08520  PHISP_04359  37.6      50.3      1.58e-29  119       21802  23230  +     
+
+
+GCA_003709025
+=============
+QQZZ01000064.1
+--------------
+Cluster 41, score 1.0289:
+Query       Subject      Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08518  CA14_010938  46.1      100       4.83e-94  289       193790  194879  -     
+
+
+GCA_009176345
+=============
+ML732410.1
+----------
+Cluster 42, score 7.2852:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+ANIA_08513  BDV29DRAFT_195847  70.9      98.5      0          1348      3728   6614   -     
+ANIA_08514  BDV29DRAFT_162605  71.2      99.5      5.7e-221   617       7797   9238   +     
+ANIA_08518  BDV29DRAFT_162606  50.1      100       7.74e-108  322       10395  11346  +     
+ANIA_08516  BDV29DRAFT_195850  68.3      98.6      2.08e-200  565       12339  14107  +     
+
+
+GCA_009176385
+=============
+ML735009.1
+----------
+Cluster 43, score 1.0284:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08518  BDV34DRAFT_158727  46.1      100       3.11e-92  284       132563  133885  +     
+
+
+GCA_009176395
+=============
+ML734269.1
+----------
+Cluster 44, score 1.0300:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08518  BDV32DRAFT_118961  47.5      100       1.44e-98  300       461202  463293  -     
+
+
+GCA_009176455
+=============
+ML732786.1
+----------
+Cluster 45, score 1.0292:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08518  BDV30DRAFT_86428  46.1      100       2.12e-95  292       385294  386829  +     
+
+
+GCA_009193465
+=============
+ML742036.1
+----------
+Cluster 46, score 1.0916:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+ANIA_08513  BDV25DRAFT_136593  51        98.4      3.36e-317  916       10133  15681  +     
+
+
+GCA_009193485
+=============
+ML738667.1
+----------
+Cluster 47, score 1.0291:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start  End    Strand
+ANIA_08518  BDV40DRAFT_314364  45.8      100       1.38e-95  291       77875  78826  -     
+
+
+GCA_009193505
+=============
+ML738313.1
+----------
+Cluster 48, score 1.0280:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08518  BDV41DRAFT_194886  45.8      100       9.99e-91  280       177701  179174  +     
+
+
+GCA_009193525
+=============
+ML741842.1
+----------
+Cluster 49, score 1.0291:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08518  BDV39DRAFT_196571  46.1      100       9.73e-96  291       143776  144727  -     
+
+
+GCA_009193565
+=============
+ML739098.1
+----------
+Cluster 50, score 1.0283:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start  End    Strand
+ANIA_08518  BDV28DRAFT_157056  44.7      100       1.49e-92  283       84988  85942  +     
+
+
+GCA_009193645
+=============
+ML736743.1
+----------
+Cluster 51, score 1.0300:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start   End     Strand
+ANIA_08518  BDV37DRAFT_278966  47.5      100       1.44e-98  300       376889  377978  -     
+
+
+GCA_009932835
+=============
+BLJY01000003.1
+--------------
+Cluster 52, score 3.1640:
+Query       Subject                Identity  Coverage  E-value    Bitscore  Start    End      Strand
+ANIA_08513  ATEIFO6365_0003069000  65.8      98.5      0          1243      1949018  1951907  -     
+ANIA_08514  ATEIFO6365_0003069200  48.3      98.1      8.56e-135  397       1954004  1955413  -     
+
+BLJY01000015.1
+--------------
+Cluster 53, score 3.0656:
+Query       Subject                Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08514  ATEIFO6365_0015002100  45.2      98.6      1.77e-126  376       105247  106664  +     
+ANIA_08518  ATEIFO6365_0015002200  47.9      100       3.98e-91   280       106848  107784  -     
+
+
+GCA_013340325
+=============
+BLWE01000007.1
+--------------
+Cluster 54, score 1.0174:
+Query       Subject     Identity  Coverage  E-value   Bitscore  Start    End      Strand
+ANIA_08516  AtWU_05898  30.5      88.7      3.74e-47  174       2823771  2825732  +     
+
+
+GCA_015844325
+=============
+VCAU01000094.1
+--------------
+Cluster 55, score 9.3179:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08520  FE257_012848  66.9      51        6.01e-74   232       94719   96171   +     
+ANIA_08516  FE257_012849  64        98.6      1.49e-187  533       96296   97968   -     
+ANIA_08518  FE257_012850  54.2      99.7      3.48e-112  333       98244   99204   -     
+ANIA_08514  FE257_012851  78.3      99.5      1.15e-240  666       99753   101193  -     
+ANIA_08513  FE257_012852  74        98.6      0          1415      101931  104817  +     
+
+
+GCA_016808415
+=============
+JAAWWR010000002.1
+-----------------
+Cluster 56, score 3.0659:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start    End      Strand
+ANIA_08518  HFD88_005914  47.6      100       3.98e-91   280       2203508  2204444  +     
+ANIA_08514  HFD88_005915  44.7      98.6      1.09e-127  379       2204629  2206046  -     
+
+JAAWWR010000005.1
+-----------------
+Cluster 57, score 1.0717:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End     Strand
+ANIA_08513  HFD88_000907  42.5      97.9      4.27e-245  717       98734  101512  +     
+
+JAAWWR010000007.1
+-----------------
+Cluster 58, score 3.1634:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start   End     Strand
+ANIA_08514  HFD88_006227  47.8      98.1      1.97e-133  394       911383  912788  +     
+ANIA_08513  HFD88_006229  65.6      98.5      0          1240      914869  917758  +     
+
+
+GCA_016861625
+=============
+AP024426.1
+----------
+Cluster 59, score 1.0173:
+Query       Subject       Identity  Coverage  E-value   Bitscore  Start    End      Strand
+ANIA_08516  AKAW2_21160S  30.5      88.7      9.97e-47  173       3542956  3544916  +     
+
+
+GCA_016861865
+=============
+AP024447.1
+----------
+Cluster 60, score 1.0182:
+Query       Subject      Identity  Coverage  E-value   Bitscore  Start    End      Strand
+ANIA_08516  APUU_51301A  31.6      88.7      4.71e-50  182       3443383  3445276  -     
+
+AP024450.1
+----------
+Cluster 61, score 7.2970:
+Query       Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+ANIA_08513  APUU_80009A  72.5      100       0          1390      39837  42726  -     
+ANIA_08514  APUU_80010S  78.7      99.5      1.32e-243  674       43451  44864  +     
+ANIA_08518  APUU_80011S  50.4      100       2.83e-113  336       45520  46474  +     
+ANIA_08516  APUU_80012S  67.7      98.6      5.5e-202   570       47180  48798  +     

@@ -1,0 +1,697 @@
+cblaster search
+===============
+AB436628
+========
+AB436628.1
+----------
+Cluster 1, score 18.1183:
+Query       Subject     Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23995.1  BAH23995.1  100       100       0          4398      320    6956   -     
+BAH23996.1  BAH23996.1  100       100       0          1144      8499   10454  -     
+BAH23997.1  BAH23997.1  100       100       2.23e-253  691       11205  12319  +     
+BAH23998.1  BAH23998.1  100       100       0          954       13038  14502  +     
+BAH23999.1  BAH23999.1  100       100       0          1068      14682  16263  -     
+BAH24000.1  BAH24000.1  100       100       9.03e-216  592       17138  18014  -     
+BAH24001.1  BAH24001.1  100       100       0          1011      19108  20921  -     
+BAH24002.1  BAH24002.1  100       100       0          891       21648  22997  +     
+BAH24003.1  BAH24003.1  100       100       8.21e-142  434       23313  25356  -     
+
+
+GCA_000002655
+=============
+CM000176.1
+----------
+Cluster 2, score 18.1091:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23995.1  AFUA_8G00170  99.6      100       0          4384      20853  27489  -     
+BAH23996.1  AFUA_8G00190  100       100       0          1144      29032  30987  -     
+BAH23997.1  AFUA_8G00200  99.7      100       2.61e-252  689       31737  32851  +     
+BAH23998.1  AFUA_8G00210  100       100       0          954       33250  35034  +     
+BAH23999.1  AFUA_8G00220  100       100       0          1068      35214  36795  -     
+BAH24000.1  AFUA_8G00230  99.3      100       1.82e-215  591       37671  38547  -     
+BAH24001.1  AFUA_8G00240  99.8      94.2      0          952       39660  41454  -     
+BAH24002.1  AFUA_8G00250  99.5      100       0          887       42181  43530  +     
+BAH24003.1  AFUA_8G00260  99.1      100       4.9e-137   422       43834  45877  -     
+
+
+GCA_000149645
+=============
+DS027694.1
+----------
+Cluster 3, score 15.9695:
+Query       Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23995.1  NFIA_093690  88.6      99.9      0          3873      11994  18633  -     
+BAH23996.1  NFIA_093700  92.3      98        0          1045      20324  22247  -     
+BAH23997.1  NFIA_093710  93.6      100       8.04e-234  645       22748  24139  +     
+BAH23998.1  NFIA_093720  94.6      100       0          905       24576  26351  +     
+BAH23999.1  NFIA_093730  89.9      99.4      0          962       26531  28112  -     
+BAH24000.1  NFIA_093740  94.5      100       7.04e-204  562       29274  30150  -     
+BAH24001.1  NFIA_093750  92.7      100       0          932       31247  33060  -     
+BAH24002.1  NFIA_093760  93.9      92        9.27e-283  771       33831  35013  +     
+
+
+GCA_000150145
+=============
+DS499600.1
+----------
+Cluster 4, score 18.1167:
+Query       Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAH24003.1  AFUB_086280  100       100       8.21e-142  434       1887314  1889357  +     
+BAH24002.1  AFUB_086290  100       100       0          891       1889673  1891022  -     
+BAH24001.1  AFUB_086300  100       100       0          1011      1891749  1893562  +     
+BAH24000.1  AFUB_086310  100       100       9.03e-216  592       1894656  1895532  +     
+BAH23999.1  AFUB_086320  100       100       0          1068      1896408  1897989  +     
+BAH23998.1  AFUB_086330  100       100       0          954       1898169  1899633  -     
+BAH23997.1  AFUB_086340  99.1      100       4.02e-250  686       1900352  1901740  -     
+BAH23996.1  AFUB_086350  100       100       0          1144      1902217  1904172  +     
+BAH23995.1  AFUB_086360  99.8      100       0          4387      1905715  1912351  +     
+
+
+GCA_000731615
+=============
+JHOI01000399.1
+--------------
+Cluster 5, score 18.1066:
+Query       Subject    Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23995.1  BA78_6117  99.6      100       0          4380      6035   12671  -     
+BAH23996.1  BA78_6114  99.6      100       0          1137      14214  16169  -     
+BAH23997.1  BA78_6116  100       100       2.23e-253  691       16920  18034  +     
+BAH23998.1  BA78_6120  99.6      100       0          951       18433  20217  +     
+BAH23999.1  BA78_6121  99.6      100       0          1063      20397  21978  -     
+BAH24000.1  BA78_6113  100       100       9.03e-216  592       22863  23739  -     
+BAH24001.1  BA78_6119  98.7      94.2      0          943       24852  26646  -     
+BAH24002.1  BA78_6115  99.5      100       0          887       27372  28721  +     
+BAH24003.1  BA78_6112  99.1      100       4.9e-137   422       29037  31080  -     
+
+
+GCA_001029325
+=============
+KQ087367.1
+----------
+Cluster 6, score 18.1095:
+Query       Subject     Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAH24003.1  Y699_05943  99        100       7.63e-136  419       1846714  1848757  +     
+BAH24002.1  Y699_05944  99.5      100       0          887       1849073  1850422  -     
+BAH24001.1  Y699_05945  99        100       0          1002      1851148  1852961  +     
+BAH24000.1  Y699_05946  99.3      100       1.82e-215  591       1854055  1854931  +     
+BAH23999.1  Y699_05947  99.4      100       0          1062      1855816  1857397  +     
+BAH23998.1  Y699_05948  99.4      100       0          946       1857577  1859041  -     
+BAH23997.1  Y699_05949  98.5      100       3.85e-248  681       1859760  1861148  -     
+BAH23996.1  Y699_05950  99.6      98        0          1115      1861658  1863580  +     
+BAH23995.1  Y699_05951  99.9      100       0          4392      1865123  1871759  +     
+
+
+GCA_001445615
+=============
+BCLY01000017.1
+--------------
+Cluster 7, score 1.0352:
+Query       Subject   Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAH24003.1  ALT_9669  93.1      100       3.57e-110  352       2009567  2011610  +     
+
+
+GCA_001696595
+=============
+MBFL02000118.1
+--------------
+Cluster 8, score 15.9401:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24002.1  BBP40_000896  92.7      100       2.68e-304  827       65976  67324  -     
+BAH24001.1  BBP40_000897  87.8      98.2      0          898       68080  69872  +     
+BAH24000.1  BBP40_000898  95.2      100       1.48e-205  566       71046  71922  +     
+BAH23999.1  BBP40_000899  88.5      97.9      0          933       72878  74504  +     
+BAH23998.1  BBP40_000900  92.7      100       0          881       74629  76086  -     
+BAH23997.1  BBP40_000903  90.6      100       9.95e-228  629       80859  82247  -     
+BAH23996.1  BBP40_000904  90.1      90        0          930       82875  84670  +     
+BAH23995.1  BBP40_000905  86.1      99.2      0          3737      86433  93028  +     
+
+
+GCA_002234955
+=============
+NKHT01000215.1
+--------------
+Cluster 9, score 18.0920:
+Query       Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  CDV57_07685  99.1      100       4.9e-137   422       2299   4342   +     
+BAH24002.1  CDV57_07686  99.5      92        1.42e-300  816       4810   5995   -     
+BAH24001.1  CDV57_07687  99.2      100       0          1004      6721   8534   +     
+BAH24000.1  CDV57_07688  99        100       3.02e-214  588       9628   10504  +     
+BAH23999.1  CDV57_07689  99.4      100       0          1062      11380  12961  +     
+BAH23998.1  CDV57_07690  99.1      100       0          944       13141  14605  -     
+BAH23997.1  CDV57_07691  98.8      100       2.32e-249  684       15324  16712  -     
+BAH23996.1  CDV57_07692  99.4      90        0          1012      17357  19144  +     
+BAH23995.1  CDV57_07693  99.9      99.9      0          4388      20693  27323  +     
+
+
+GCA_002234985
+=============
+NKHS01000214.1
+--------------
+Cluster 10, score 16.0535:
+Query       Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24002.1  CDV58_07263  99.5      92        3.48e-301  818       4812   5997   -     
+BAH24001.1  CDV58_07264  100       100       0          1011      6724   8537   +     
+BAH24000.1  CDV58_07265  100       100       9.03e-216  592       9631   10507  +     
+BAH23999.1  CDV58_07266  99.4      100       0          1061      11385  12966  +     
+BAH23998.1  CDV58_07267  100       100       0          954       13146  14610  -     
+BAH23997.1  CDV58_07268  99.1      100       4.02e-250  686       15329  16717  -     
+BAH23996.1  CDV58_07269  100       90        0          1021      17362  19149  +     
+BAH23995.1  CDV58_07270  100       99.9      0          4392      20698  27328  +     
+
+
+GCA_002749805
+=============
+NEXV01000096.1
+--------------
+Cluster 11, score 1.0326:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAH24000.1  AARAC_000583  60.5      93.1      4.99e-111  326       428242  429106  +     
+
+NEXV01000414.1
+--------------
+Cluster 12, score 1.0583:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24002.1  AARAC_006322  64.2      100       1.26e-207  583       31627  32967  -     
+
+
+GCA_002847465
+=============
+MSZS01000003.1
+--------------
+Cluster 13, score 4.1635:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23999.1  P174DRAFT_479619  44.7      90.7      9.65e-135  404       46746  48614  -     
+BAH23997.1  P174DRAFT_449391  71.7      100       1.8e-175   497       48989  50691  -     
+BAH23996.1  P174DRAFT_510751  65.6      96.2      1.35e-263  734       51146  53309  +     
+
+
+GCA_002849105
+=============
+MSFO01000001.1
+--------------
+Cluster 14, score 3.1265:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAH23997.1  P170DRAFT_506400  71.3      99.4      1.44e-172  490       6570501  6572162  -     
+BAH23996.1  P170DRAFT_453124  67.6      97.1      4.02e-279  775       6572601  6574547  +     
+
+
+GCA_003184695
+=============
+KZ825327.1
+----------
+Cluster 15, score 1.0618:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24001.1  BO95DRAFT_358011  62.9      98.2      5.05e-219  618       34899  36782  +     
+
+
+GCA_003184825
+=============
+KZ824627.1
+----------
+Cluster 16, score 1.0617:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAH24001.1  BO72DRAFT_520129  62.9      98.2      2.04e-218  617       257683  259569  +     
+
+
+GCA_003426965
+=============
+QUQM01000002.1
+--------------
+Cluster 17, score 1.0396:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAH23998.1  ATNIH1004_001001  47.8      89.4      3.83e-133  396       3088739  3090209  -     
+
+
+GCA_004798825
+=============
+SOSA01000115.1
+--------------
+Cluster 18, score 1.0426:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23998.1  EYZ11_004134  47        97.8      1.24e-144  426       56546  57983  +     
+
+
+GCA_009193505
+=============
+ML738352.1
+----------
+Cluster 19, score 3.1115:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23998.1  BDV41DRAFT_590308  62.7      99.1      6.94e-215  604       46874  48309  +     
+BAH23999.1  BDV41DRAFT_566446  54.1      89.2      2.38e-176  511       49033  50599  -     
+
+
+GCA_009193545
+=============
+ML737117.1
+----------
+Cluster 20, score 1.0584:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAH24002.1  BDV24DRAFT_158892  64.4      100       3.12e-208  584       404257  405597  +     
+
+
+GCA_010723975
+=============
+BLKD01000121.1
+--------------
+Cluster 21, score 1.0346:
+Query       Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  IFM47457_11086  92.6      100       8.15e-108  346       24999  27042  +     
+
+
+GCA_010724135
+=============
+BLKE01000385.1
+--------------
+Cluster 22, score 1.0347:
+Query       Subject        Identity  Coverage  E-value    Bitscore  Start  End   Strand
+BAH24000.1  IFM5058_10452  60.1      98.3      7.98e-119  347       2419   3286  +     
+
+
+GCA_010724255
+=============
+BLKF01000007.1
+--------------
+Cluster 23, score 3.1053:
+Query       Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23999.1  IFM51744_01373  55.4      97        1.52e-194  558       14504  16097  -     
+BAH23998.1  IFM51744_01374  59.3      90.5      1.53e-172  495       17771  19022  -     
+
+
+GCA_010724335
+=============
+BLKG01000027.1
+--------------
+Cluster 24, score 15.9345:
+Query       Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24002.1  IFM53868_03452  91.9      92        4.21e-279  762       2607   3789   -     
+BAH24001.1  IFM53868_03453  91.7      100       0          919       4586   6402   +     
+BAH24000.1  IFM53868_03454  93.5      100       6.74e-202  557       7615   8491   +     
+BAH23999.1  IFM53868_03455  86.7      99.8      0          929       9570   11151  +     
+BAH23998.1  IFM53868_03456  91.6      100       0          875       11346  12805  -     
+BAH23997.1  IFM53868_03458  91.2      100       8.55e-229  632       17041  18438  -     
+BAH23996.1  IFM53868_03459  89.7      90        0          934       19121  20918  +     
+BAH23995.1  IFM53868_03460  85.4      99.9      0          3737      22595  29342  +     
+
+BLKG01000129.1
+--------------
+Cluster 25, score 1.0347:
+Query       Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24000.1  IFM53868_08547  60.1      98.3      7.98e-119  347       77190  78057  -     
+
+
+GCA_010724455
+=============
+BLKH01000123.1
+--------------
+Cluster 26, score 1.0346:
+Query       Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  IFM58399_10076  92.6      100       8.15e-108  346       21008  23051  -     
+
+
+GCA_010724575
+=============
+BLKI01000116.1
+--------------
+Cluster 27, score 1.0346:
+Query       Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  IFM60648_10071  92.6      100       8.15e-108  346       22587  24630  -     
+
+
+GCA_010724635
+=============
+BLKJ01000077.1
+--------------
+Cluster 28, score 1.0346:
+Query       Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  IFM61392_09321  92.6      100       8.15e-108  346       28755  30798  -     
+
+
+GCA_010724795
+=============
+BLKK01000289.1
+--------------
+Cluster 29, score 1.0347:
+Query       Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24000.1  IFM61606_08569  60.1      98.3      7.98e-119  347       28925  29792  -     
+
+BLKK01000383.1
+--------------
+Cluster 30, score 13.5608:
+Query       Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23996.1  IFM61606_09450  89.7      90        0          933       780    2577   -     
+BAH23997.1  IFM61606_09451  91.2      100       8.55e-229  632       3284   4681   +     
+BAH23998.1  IFM61606_09453  91.6      100       0          875       8917   10376  +     
+BAH23999.1  IFM61606_09454  86.7      99.8      0          931       10571  12152  -     
+BAH24000.1  IFM61606_09455  93.5      100       6.74e-202  557       13232  14108  -     
+BAH24001.1  IFM61606_09456  91.7      100       0          919       15321  17137  -     
+BAH24002.1  IFM61606_09457  91.6      92        1.71e-278  761       17934  19116  +     
+
+
+GCA_012656115
+=============
+JAAAQC010000210.1
+-----------------
+Cluster 31, score 18.1082:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  CNMCM8686_003031  90.7      100       9.58e-138  422       2300   4343   +     
+BAH24002.1  CNMCM8686_003032  99.5      92        3.48e-301  818       4811   5996   -     
+BAH24001.1  CNMCM8686_003033  100       100       0          1011      6723   8536   +     
+BAH24000.1  CNMCM8686_003034  100       100       9.03e-216  592       9630   10506  +     
+BAH23999.1  CNMCM8686_003035  100       100       0          1068      11381  12962  +     
+BAH23998.1  CNMCM8686_003036  100       100       0          954       13142  14606  -     
+BAH23997.1  CNMCM8686_003037  98.8      100       1.64e-249  684       15325  16713  -     
+BAH23996.1  CNMCM8686_003038  100       100       0          1144      17190  19145  +     
+BAH23995.1  CNMCM8686_003039  99.8      100       0          4389      20688  27324  +     
+
+
+GCA_012656125
+=============
+JAAAQD010000038.1
+-----------------
+Cluster 32, score 18.1096:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAH24003.1  CNMCM8689_005594  100       100       8.21e-142  434       117245  119288  +     
+BAH24002.1  CNMCM8689_005595  100       92        2.98e-302  821       119768  120953  -     
+BAH24001.1  CNMCM8689_005596  100       100       0          1011      121680  123493  +     
+BAH24000.1  CNMCM8689_005597  100       100       9.03e-216  592       124587  125463  +     
+BAH23999.1  CNMCM8689_005598  99.6      100       0          1063      126341  127922  +     
+BAH23998.1  CNMCM8689_005599  100       100       0          954       128102  129566  -     
+BAH23997.1  CNMCM8689_005600  99.1      100       4.02e-250  686       130285  131673  -     
+BAH23996.1  CNMCM8689_005601  99.8      100       0          1140      132150  134105  +     
+BAH23995.1  CNMCM8689_005602  100       100       0          4395      135648  142284  +     
+
+
+GCA_012656165
+=============
+JAAAQB010000177.1
+-----------------
+Cluster 33, score 18.1050:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23995.1  CNMCM8812_001756  99.5      100       0          4380      18012  24648  -     
+BAH23996.1  CNMCM8812_001757  99.6      100       0          1138      26191  28146  -     
+BAH23997.1  CNMCM8812_001758  98.8      100       2.32e-249  684       28623  30011  +     
+BAH23998.1  CNMCM8812_001759  99.4      100       0          946       30730  32194  +     
+BAH23999.1  CNMCM8812_001760  99.4      100       0          1062      32374  33955  -     
+BAH24000.1  CNMCM8812_001761  99.3      100       1.82e-215  591       34840  35716  -     
+BAH24001.1  CNMCM8812_001762  99.8      100       0          1009      36810  38623  -     
+BAH24002.1  CNMCM8812_001763  99.5      92        3.48e-301  818       39350  40535  +     
+BAH24003.1  CNMCM8812_001764  90.7      100       9.58e-138  422       41003  43046  -     
+
+
+GCA_012656185
+=============
+JAAAQA010000189.1
+-----------------
+Cluster 34, score 18.1043:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23995.1  CNMCM8714_001958  99.5      100       0          4380      18043  24679  -     
+BAH23996.1  CNMCM8714_001959  99.6      100       0          1137      26222  28177  -     
+BAH23997.1  CNMCM8714_001960  99.1      100       4.02e-250  686       28654  30042  +     
+BAH23998.1  CNMCM8714_001961  99.6      100       0          948       30761  32225  +     
+BAH23999.1  CNMCM8714_001962  99.4      100       0          1062      32405  33986  -     
+BAH24000.1  CNMCM8714_001963  99        100       3.02e-214  588       34862  35738  -     
+BAH24001.1  CNMCM8714_001964  99.2      100       0          1004      36832  38645  -     
+BAH24002.1  CNMCM8714_001965  99.5      92        1.42e-300  816       39371  40556  +     
+BAH24003.1  CNMCM8714_001966  99.1      100       4.9e-137   422       41024  43067  -     
+
+
+GCA_012656215
+=============
+JAAAPZ010000214.1
+-----------------
+Cluster 35, score 18.1038:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23995.1  CNMCM8057_002861  99.5      100       0          4380      18016  24652  -     
+BAH23996.1  CNMCM8057_002862  99.6      100       0          1138      26195  28150  -     
+BAH23997.1  CNMCM8057_002863  98.8      100       2.32e-249  684       28627  30015  +     
+BAH23998.1  CNMCM8057_002864  99.4      100       0          946       30734  32198  +     
+BAH23999.1  CNMCM8057_002865  99.4      100       0          1062      32378  33959  -     
+BAH24000.1  CNMCM8057_002866  98.6      100       2.49e-213  586       34835  35711  -     
+BAH24001.1  CNMCM8057_002867  99.2      100       0          1004      36806  38619  -     
+BAH24002.1  CNMCM8057_002868  99.5      92        1.42e-300  816       39345  40530  +     
+BAH24003.1  CNMCM8057_002869  99.1      100       4.9e-137   422       40998  43041  -     
+
+
+GCA_012656225
+=============
+JAAAPY010000018.1
+-----------------
+Cluster 36, score 1.0502:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24002.1  CNMCM8980_003083  76.3      76.1      1.76e-177  502       76645  77691  +     
+
+
+GCA_012656285
+=============
+JAAAPX010000167.1
+-----------------
+Cluster 37, score 7.6015:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23998.1  CNMCM6805_002577  93.2      82.8      1.46e-267  734       61     1231   -     
+BAH23997.1  CNMCM6805_002579  90.6      100       2.85e-227  628       5635   7025   -     
+BAH23996.1  CNMCM6805_002580  89        88        0          901       7675   9526   +     
+BAH23995.1  CNMCM6805_002581  86        99.9      0          3752      11204  17843  +     
+
+JAAAPX010000248.1
+-----------------
+Cluster 38, score 2.1138:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23996.1  CNMCM6805_004602  67.9      89.8      6.5e-263   732       8361   10229  -     
+BAH23999.1  CNMCM6805_004604  44        92.6      1.97e-134  406       13026  14748  +     
+
+JAAAPX010000318.1
+-----------------
+Cluster 39, score 7.3135:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24002.1  CNMCM6805_005706  92.9      92        5.13e-280  764       2125   3307   -     
+BAH24001.1  CNMCM6805_005707  89.3      100       0          889       4140   5949   +     
+BAH24000.1  CNMCM6805_005708  94.8      100       8.21e-203  559       7188   8064   +     
+BAH23999.1  CNMCM6805_005709  86.8      99.4      0          923       9154   10735  +     
+
+JAAAPX010000032.1
+-----------------
+Cluster 40, score 1.0502:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24002.1  CNMCM6805_005810  76.3      76.1      1.76e-177  502       34057  35103  +     
+
+
+GCA_012656295
+=============
+JAAAPW010000015.1
+-----------------
+Cluster 41, score 1.0732:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+BAH23996.1  CNMCM6457_002376  67.9      89.8      6.5e-263  732       240325  242193  -     
+
+
+GCA_012656325
+=============
+JAAAPV010000018.1
+-----------------
+Cluster 42, score 1.0347:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  CNMCM5878_003275  92.4      100       4.14e-108  347       80723  82766  -     
+
+JAAAPV010000201.1
+-----------------
+Cluster 43, score 1.0495:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23997.1  CNMCM5878_003787  71.7      100       1.47e-174  495       10348  11727  +     
+
+
+GCA_012656335
+=============
+JAAAPU010000119.1
+-----------------
+Cluster 44, score 1.0362:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  CNMCM8927_000727  92.9      100       7.24e-114  362       71047  73090  +     
+
+
+GCA_012656375
+=============
+JAAAPT010000095.1
+-----------------
+Cluster 45, score 1.0362:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  CNMCM8694_009510  92.9      100       7.24e-114  362       42540  44583  -     
+
+
+GCA_012656395
+=============
+JAAAPS010000041.1
+-----------------
+Cluster 46, score 1.0362:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  CNMCM8060_006276  92.9      100       7.24e-114  362       71047  73090  +     
+
+Cluster 47, score 1.0362:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAH24003.1  CNMCM8060_006289  92.9      100       7.24e-114  362       120736  122779  -     
+
+
+GCA_012656435
+=============
+JAAAPP010000015.1
+-----------------
+Cluster 48, score 1.0349:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+BAH24003.1  CNMCM6069_002373  93.1      100       5.4e-109  349       240164  242207  +     
+
+
+GCA_012656445
+=============
+JAAAPR010000128.1
+-----------------
+Cluster 49, score 1.0362:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  CNMCM7927_001185  92.9      100       7.24e-114  362       71091  73134  +     
+
+
+GCA_012656455
+=============
+JAAAPQ010000014.1
+-----------------
+Cluster 50, score 1.0349:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+BAH24003.1  CNMCM6936_001933  93.1      100       5.4e-109  349       240189  242232  +     
+
+
+GCA_013421405
+=============
+SPNV01000211.1
+--------------
+Cluster 51, score 1.0362:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24003.1  ETB97_004589  93.7      100       5.29e-114  362       39319  41365  -     
+
+
+GCA_014281895
+=============
+JACBAE010001238.1
+-----------------
+Cluster 52, score 1.0634:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24001.1  CNMCM5623_002223  62.9      95        3.24e-225  634       8845   10614  +     
+
+JACBAE010001208.1
+-----------------
+Cluster 53, score 15.9320:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23995.1  CNMCM5623_002985  85.6      100       0          3744      7958   14603  -     
+BAH23996.1  CNMCM5623_002986  88.8      89.1      0          905       16936  18789  -     
+BAH23997.1  CNMCM5623_002987  90.9      100       6.02e-229  632       19428  20816  +     
+BAH23998.1  CNMCM5623_002988  93.5      100       0          891       21542  22997  +     
+BAH23999.1  CNMCM5623_002989  87.6      99.4      0          939       23285  24866  -     
+BAH24000.1  CNMCM5623_002990  94.2      100       4.95e-204  562       25533  26409  -     
+BAH24001.1  CNMCM5623_002991  86        100       0          892       27589  29387  -     
+BAH24002.1  CNMCM5623_002992  90.6      92.5      7.31e-267  755       30136  35992  +     
+
+
+GCA_014281915
+=============
+JACBAG010001817.1
+-----------------
+Cluster 54, score 1.0632:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH24001.1  CNMCM7691_000508  62.7      95        2.64e-224  632       21653  23422  +     
+
+JACBAG010001811.1
+-----------------
+Cluster 55, score 15.9315:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23995.1  CNMCM7691_000696  85.6      100       0          3740      34657  41302  -     
+BAH23996.1  CNMCM7691_000697  88.8      89.1      0          905       43636  45489  -     
+BAH23997.1  CNMCM7691_000698  90.9      100       4.17e-228  632       45913  47518  +     
+BAH23998.1  CNMCM7691_000699  93.3      100       0          890       48245  49700  +     
+BAH23999.1  CNMCM7691_000700  87.8      99.4      0          940       49988  51569  -     
+BAH24000.1  CNMCM7691_000701  94.5      100       1.73e-204  563       52218  53094  -     
+BAH24001.1  CNMCM7691_000702  86        100       0          892       54274  56084  -     
+BAH24002.1  CNMCM7691_000703  90.4      92.5      5.91e-266  753       56832  62732  +     
+
+
+GCA_015844325
+=============
+VCAU01000072.1
+--------------
+Cluster 56, score 1.0488:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23997.1  FE257_011101  69.9      100       6.96e-172  488       22614  24011  +     
+
+
+GCA_016748045
+=============
+WHVT01000082.1
+--------------
+Cluster 57, score 15.9766:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAH23995.1  GB937_010266  88.6      99.9      0          3878      35430  42069  -     
+BAH23996.1  GB937_010270  92.5      98        0          1047      43761  45684  -     
+BAH23997.1  GB937_010261  93.6      100       8.04e-234  645       46185  47576  +     
+BAH23998.1  GB937_010264  94.6      100       0          905       48217  49788  +     
+BAH23999.1  GB937_010271  89.9      99.4      0          962       49968  51549  -     
+BAH24000.1  GB937_010267  94.5      100       7.04e-204  562       52711  53587  -     
+BAH24001.1  GB937_010269  92.7      100       0          932       54684  56497  -     
+BAH24002.1  GB937_010273  93.7      100       1.69e-307  835       57268  58617  +     
+
+
+GCA_016861865
+=============
+AP024444.1
+----------
+Cluster 58, score 1.1880:
+Query       Subject      Identity  Coverage  E-value  Bitscore  Start    End      Strand
+BAH23995.1  APUU_22028S  47.7      97.2      0        1880      5034453  5041170  +     
+
+
+GCA_018340605
+=============
+BHVY01000006.1
+--------------
+Cluster 59, score 1.3601:
+Query       Subject        Identity  Coverage  E-value  Bitscore  Start    End      Strand
+BAH23995.1  Asppvi_009294  84.7      97.3      0        3601      2466015  2472483  -     
+
+
+GCA_018404265
+=============
+BOPL01000013.1
+--------------
+Cluster 60, score 15.9476:
+Query       Subject        Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAH23995.1  Aspvir_002834  86.2      99.6      0          3759      199867  206485  -     
+BAH23996.1  Aspvir_002835  91        97.3      0          1024      208266  210183  -     
+BAH23997.1  Aspvir_002836  90.6      100       4.71e-226  625       210642  212029  +     
+BAH23998.1  Aspvir_002837  92.9      100       0          885       212789  214244  +     
+BAH23999.1  Aspvir_002838  88.1      99.4      0          944       214428  216009  -     
+BAH24000.1  Aspvir_002839  94.5      100       9.99e-204  561       217002  217878  -     
+BAH24001.1  Aspvir_002840  91.1      100       0          917       219049  220869  -     
+BAH24002.1  Aspvir_002841  91.9      92        8.49e-279  761       221619  222801  +     
+
+
+HM622670
+========
+HM622670.1
+----------
+Cluster 61, score 1.1875:
+Query       Subject     Identity  Coverage  E-value  Bitscore  Start  End    Strand
+BAH23995.1  ADM34138.1  47.4      97.2      0        1875      10786  17509  +     
+
+
+JQ708194
+========
+JQ708194.1
+----------
+Cluster 62, score 1.1883:
+Query       Subject     Identity  Coverage  E-value  Bitscore  Start  End    Strand
+BAH23995.1  AGC83576.1  47.9      97.2      0        1883      9102   15780  +     
+
+
+MT457561
+========
+MT457561.1
+----------
+Cluster 63, score 1.1929:
+Query       Subject     Identity  Coverage  E-value  Bitscore  Start  End    Strand
+BAH23995.1  QKG86306.1  48.1      97.7      0        1929      18234  24993  +     

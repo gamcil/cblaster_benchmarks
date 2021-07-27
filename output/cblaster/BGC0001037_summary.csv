@@ -1,0 +1,333 @@
+cblaster search
+===============
+GCA_000002655
+=============
+CM000176.1
+----------
+Cluster 1, score 10.1177:
+Query         Subject       Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00530  AFUA_8G00530  100       100       0          907       115217  116555  -     
+AFUA_8G00540  AFUA_8G00540  100       100       0          7888      117017  129323  +     
+AFUA_8G00550  AFUA_8G00550  100       100       1.67e-201  554       129557  130427  -     
+AFUA_8G00560  AFUA_8G00560  100       100       0          1068      130965  132714  +     
+AFUA_8G00570  AFUA_8G00570  100       100       4.73e-279  760       132802  134016  -     
+
+
+GCA_000002715
+=============
+DS027004.1
+----------
+Cluster 2, score 3.1651:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFUA_8G00570  ACLA_004740  90.9      99.7      1.98e-255  700       1215189  1216399  +     
+AFUA_8G00560  ACLA_004750  90.2      98.3      0          951       1216492  1218173  -     
+
+
+GCA_000150145
+=============
+DS499600.1
+----------
+Cluster 3, score 10.1093:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFUA_8G00570  AFUB_086000  100       100       4.73e-279  760       1814697  1815911  +     
+AFUA_8G00560  AFUB_086010  99.8      98.3      0          1049      1815999  1817870  -     
+AFUA_8G00550  AFUB_086020  100       100       1.67e-201  554       1818286  1819156  +     
+AFUA_8G00540  AFUB_086030  99.3      100       0          7823      1819390  1831696  -     
+AFUA_8G00530  AFUB_086040  100       100       0          907       1832156  1833494  +     
+
+
+GCA_000731615
+=============
+JHOI01000601.1
+--------------
+Cluster 4, score 10.1126:
+Query         Subject    Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00570  BA78_2492  100       100       4.73e-279  760       106894  108108  +     
+AFUA_8G00560  BA78_2477  99.6      100       0          1065      108196  109945  -     
+AFUA_8G00550  BA78_2513  100       100       1.67e-201  554       110483  111353  +     
+AFUA_8G00540  BA78_2521  99.3      100       0          7840      111587  123892  -     
+AFUA_8G00530  BA78_2498  100       100       0          907       124354  125692  +     
+
+
+GCA_001029325
+=============
+KQ087367.1
+----------
+Cluster 5, score 10.0986:
+Query         Subject     Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFUA_8G00570  Y699_05917  100       100       4.73e-279  760       1770086  1771300  +     
+AFUA_8G00560  Y699_05918  97.9      100       0          1058      1771388  1773137  -     
+AFUA_8G00550  Y699_05919  99.6      100       4.78e-201  553       1773675  1774545  +     
+AFUA_8G00540  Y699_05920  98.1      100       0          7708      1774779  1787185  -     
+AFUA_8G00530  Y699_05921  100       100       0          907       1787645  1788983  +     
+
+
+GCA_001078395
+=============
+BBXM02000007.1
+--------------
+Cluster 6, score 9.9959:
+Query         Subject     Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00530  Aud_008737  94.2      100       1.82e-317  862       158505  159843  -     
+AFUA_8G00540  Aud_008738  86.9      99.9      0          6900      160338  172646  +     
+AFUA_8G00550  Aud_008739  93.4      100       2.16e-188  521       172904  173771  -     
+AFUA_8G00560  Aud_008740  92.1      98.3      0          969       174364  176040  +     
+AFUA_8G00570  Aud_008741  91.7      99.7      5.09e-258  707       176134  177344  -     
+
+
+GCA_002234955
+=============
+NKHT01000072.1
+--------------
+Cluster 7, score 10.1067:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFUA_8G00570  CDV57_04361  100       100       4.73e-279  760       36898  38112  +     
+AFUA_8G00560  CDV57_04362  94.7      100       0          1002      38200  39949  -     
+AFUA_8G00550  CDV57_04363  99.6      100       4.78e-201  553       40487  41357  +     
+AFUA_8G00540  CDV57_04364  99.5      100       0          7845      41591  53897  -     
+AFUA_8G00530  CDV57_04365  100       100       0          907       54357  55695  +     
+
+
+GCA_002234985
+=============
+NKHS01000054.1
+--------------
+Cluster 8, score 10.1071:
+Query         Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFUA_8G00530  CDV58_03071  100       100       0          907       51744  53082  -     
+AFUA_8G00540  CDV58_03072  99.5      100       0          7848      53542  65848  +     
+AFUA_8G00550  CDV58_03073  100       100       1.67e-201  554       66082  66952  -     
+AFUA_8G00560  CDV58_03074  94.7      100       0          1002      67490  69239  +     
+AFUA_8G00570  CDV58_03075  100       100       4.73e-279  760       69327  70541  -     
+
+
+GCA_002847465
+=============
+MSZS01000008.1
+--------------
+Cluster 9, score 10.0058:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00530  P174DRAFT_445031  94.8      100       9.12e-318  863       224404  225970  -     
+AFUA_8G00540  P174DRAFT_434415  88.6      100       0          6990      226277  238576  +     
+AFUA_8G00550  P174DRAFT_506840  94.8      100       5.53e-191  528       238747  239833  -     
+AFUA_8G00560  P174DRAFT_515220  89.9      100       0          960       240055  242036  +     
+AFUA_8G00570  P174DRAFT_445034  93.5      100       5.56e-262  717       242023  243372  -     
+
+
+GCA_010723835
+=============
+BLKC01000033.1
+--------------
+Cluster 10, score 9.9942:
+Query         Subject         Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00570  IFM46972_05449  91.7      99.7      5.09e-258  707       198864  200074  +     
+AFUA_8G00560  IFM46972_05450  93.9      94.4      0          958       200168  201902  -     
+AFUA_8G00550  IFM46972_05451  93.4      100       2.16e-188  521       202437  203304  +     
+AFUA_8G00540  IFM46972_05452  86.8      99.9      0          6895      203562  215870  -     
+AFUA_8G00530  IFM46972_05453  93.9      100       6.38e-317  861       216362  217700  +     
+
+
+GCA_010724135
+=============
+BLKE01000053.1
+--------------
+Cluster 11, score 9.9919:
+Query         Subject        Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFUA_8G00570  IFM5058_03769  91.7      99.7      5.09e-258  707       55728  56938  +     
+AFUA_8G00560  IFM5058_03770  93.8      93.4      0          952       57032  58763  -     
+AFUA_8G00550  IFM5058_03771  94.1      100       3.2e-190   526       59297  60164  +     
+AFUA_8G00540  IFM5058_03772  86.5      99.9      0          6876      60422  72718  -     
+AFUA_8G00530  IFM5058_03773  93.7      100       7.02e-316  858       73212  74550  +     
+
+
+GCA_010724255
+=============
+BLKF01000023.1
+--------------
+Cluster 12, score 9.9961:
+Query         Subject         Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00570  IFM51744_03629  91.9      99.7      3.08e-259  710       160308  161518  +     
+AFUA_8G00560  IFM51744_03630  93.9      94.4      0          957       161612  163346  -     
+AFUA_8G00550  IFM51744_03631  94.5      100       5.53e-191  528       163877  164744  +     
+AFUA_8G00540  IFM51744_03632  86.8      99.9      0          6903      165002  177310  -     
+AFUA_8G00530  IFM51744_03633  94.4      100       9.12e-318  863       177804  179142  +     
+
+
+GCA_010724335
+=============
+BLKG01000009.1
+--------------
+Cluster 13, score 9.9949:
+Query         Subject         Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00570  IFM53868_01502  91.7      99.7      5.09e-258  707       299583  300793  +     
+AFUA_8G00560  IFM53868_01503  94.1      94.4      0          959       300887  302618  -     
+AFUA_8G00550  IFM53868_01504  93.4      100       2.16e-188  521       303156  304023  +     
+AFUA_8G00540  IFM53868_01505  86.7      99.9      0          6899      304281  316589  -     
+AFUA_8G00530  IFM53868_01506  94.4      100       9.12e-318  863       317083  318421  +     
+
+
+GCA_010724795
+=============
+BLKK01000030.1
+--------------
+Cluster 14, score 9.9932:
+Query         Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFUA_8G00530  IFM61606_02168  93.9      100       6.38e-317  861       47659  48997  -     
+AFUA_8G00540  IFM61606_02169  86.6      99.9      0          6884      49491  61799  +     
+AFUA_8G00550  IFM61606_02170  93.4      100       2.16e-188  521       62057  62924  -     
+AFUA_8G00560  IFM61606_02171  94.1      94.4      0          959       63459  65193  +     
+AFUA_8G00570  IFM61606_02172  91.7      99.7      5.09e-258  707       65287  66497  -     
+
+
+GCA_012656115
+=============
+JAAAQC010000059.1
+-----------------
+Cluster 15, score 10.1078:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFUA_8G00530  CNMCM8686_007139  100       100       0          907       51569  52907  -     
+AFUA_8G00540  CNMCM8686_007140  99.6      100       0          7853      53367  65673  +     
+AFUA_8G00550  CNMCM8686_007141  100       100       1.67e-201  554       65907  66777  -     
+AFUA_8G00560  CNMCM8686_007142  94.8      100       0          1004      67315  69064  +     
+AFUA_8G00570  CNMCM8686_007143  100       100       1.31e-274  760       69152  72013  -     
+
+
+GCA_012656125
+=============
+JAAAQD010000038.1
+-----------------
+Cluster 16, score 10.1072:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFUA_8G00570  CNMCM8689_005569  100       100       1.31e-274  760       42926  45787  +     
+AFUA_8G00560  CNMCM8689_005570  94.7      100       0          1002      45875  47624  -     
+AFUA_8G00550  CNMCM8689_005571  100       100       1.67e-201  554       48162  49032  +     
+AFUA_8G00540  CNMCM8689_005572  99.5      100       0          7849      49266  61572  -     
+AFUA_8G00530  CNMCM8689_005573  100       100       0          907       62032  63370  +     
+
+
+GCA_012656165
+=============
+JAAAQB010000041.1
+-----------------
+Cluster 17, score 10.1077:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFUA_8G00570  CNMCM8812_005548  100       100       6.64e-279  760       44537  45778  +     
+AFUA_8G00560  CNMCM8812_005549  94.7      100       0          1002      45866  47615  -     
+AFUA_8G00550  CNMCM8812_005550  99.6      100       4.78e-201  553       48153  49023  +     
+AFUA_8G00540  CNMCM8812_005551  99.6      100       0          7855      49257  61563  -     
+AFUA_8G00530  CNMCM8812_005552  100       100       0          907       62023  63361  +     
+
+
+GCA_012656185
+=============
+JAAAQA010000039.1
+-----------------
+Cluster 18, score 10.1071:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFUA_8G00570  CNMCM8714_005316  100       100       1.31e-274  760       35228  38089  +     
+AFUA_8G00560  CNMCM8714_005317  94.7      100       0          1002      38177  39926  -     
+AFUA_8G00550  CNMCM8714_005318  99.6      100       4.78e-201  553       40464  41334  +     
+AFUA_8G00540  CNMCM8714_005319  99.5      100       0          7849      41568  53874  -     
+AFUA_8G00530  CNMCM8714_005320  100       100       0          907       54334  55672  +     
+
+
+GCA_012656215
+=============
+JAAAPZ010000050.1
+-----------------
+Cluster 19, score 10.1076:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFUA_8G00570  CNMCM8057_006772  100       100       1.31e-274  760       42899  45760  +     
+AFUA_8G00560  CNMCM8057_006773  94.7      100       0          1002      45848  47597  -     
+AFUA_8G00550  CNMCM8057_006774  99.6      100       6.8e-201   553       48135  49005  +     
+AFUA_8G00540  CNMCM8057_006775  99.7      100       0          7854      49239  61545  -     
+AFUA_8G00530  CNMCM8057_006776  100       100       0          907       62007  63345  +     
+
+
+GCA_012656225
+=============
+JAAAPY010000018.1
+-----------------
+Cluster 20, score 6.9216:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00530  CNMCM8980_003115  94.8      100       0          867       184508  185846  -     
+AFUA_8G00540  CNMCM8980_003116  89.7      100       0          7146      186335  198643  +     
+AFUA_8G00550  CNMCM8980_003117  94.5      100       6.45e-190  525       198886  199756  -     
+AFUA_8G00570  CNMCM8980_003119  96.3      90.9      3.97e-247  678       202138  203252  -     
+
+
+GCA_012656285
+=============
+JAAAPX010000032.1
+-----------------
+Cluster 21, score 10.0164:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00530  CNMCM6805_005842  94.8      100       0          867       141919  143257  -     
+AFUA_8G00540  CNMCM6805_005843  89.7      100       0          7146      143746  156054  +     
+AFUA_8G00550  CNMCM6805_005844  94.5      100       6.45e-190  525       156297  157167  -     
+AFUA_8G00560  CNMCM6805_005845  93.9      94.4      0          948       157715  159458  +     
+AFUA_8G00570  CNMCM6805_005846  96.3      90.9      3.97e-247  678       159552  160666  -     
+
+
+GCA_012656295
+=============
+JAAAPW010000015.1
+-----------------
+Cluster 22, score 7.9483:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00530  CNMCM6457_002335  94.8      100       0          867       130155  131493  -     
+AFUA_8G00540  CNMCM6457_002336  89.7      100       0          7143      131982  144290  +     
+AFUA_8G00550  CNMCM6457_002337  94.5      100       6.45e-190  525       144533  145403  -     
+AFUA_8G00560  CNMCM6457_002338  93.9      94.4      0          948       145951  147694  +     
+
+
+GCA_012656325
+=============
+JAAAPV010000018.1
+-----------------
+Cluster 23, score 10.0179:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00530  CNMCM5878_003305  94.6      100       0          866       175460  176798  -     
+AFUA_8G00540  CNMCM5878_003306  89.3      100       0          7112      177287  189593  +     
+AFUA_8G00550  CNMCM5878_003307  94.1      100       1.85e-189  524       189836  190706  -     
+AFUA_8G00560  CNMCM5878_003308  94.1      94.4      0          948       191253  192996  +     
+AFUA_8G00570  CNMCM5878_003309  95.6      99.7      1.05e-266  729       193090  194303  -     
+
+
+GCA_014281895
+=============
+JACBAE010001402.1
+-----------------
+Cluster 24, score 9.9944:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFUA_8G00530  CNMCM5623_007423  94.4      100       0          864       15096  16434  -     
+AFUA_8G00540  CNMCM5623_007424  86.8      99.9      0          6892      16924  29237  +     
+AFUA_8G00550  CNMCM5623_007425  92.6      100       3.07e-188  521       29471  30338  -     
+AFUA_8G00560  CNMCM5623_007426  94.5      94.4      0          960       30907  32610  +     
+AFUA_8G00570  CNMCM5623_007427  91.4      99.7      5.09e-258  707       32704  33913  -     
+
+
+GCA_014281915
+=============
+JACBAG010001925.1
+-----------------
+Cluster 25, score 9.9967:
+Query         Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFUA_8G00570  CNMCM7691_006563  91.7      99.7      8.81e-259  709       327295  328504  +     
+AFUA_8G00560  CNMCM7691_006564  94.5      94.4      0          959       328598  330324  -     
+AFUA_8G00550  CNMCM7691_006565  93        100       3.73e-189  523       330864  331738  +     
+AFUA_8G00540  CNMCM7691_006566  86.9      99.9      0          6914      331972  344281  -     
+AFUA_8G00530  CNMCM7691_006567  94.2      100       1.82e-317  862       344771  346109  +     
+
+
+GCA_018340605
+=============
+BHVY01000007.1
+--------------
+Cluster 26, score 9.9928:
+Query         Subject        Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFUA_8G00570  Asppvi_010062  90.6      99.7      4.87e-256  702       2136260  2137476  +     
+AFUA_8G00560  Asppvi_010063  93.9      94.4      0          954       2137570  2139294  -     
+AFUA_8G00550  Asppvi_010064  93.4      100       3.73e-189  523       2139835  2140708  +     
+AFUA_8G00540  Asppvi_010065  86.5      100       0          6884      2140944  2153258  -     
+AFUA_8G00530  Asppvi_010066  94.6      100       0          865       2153683  2155021  +     

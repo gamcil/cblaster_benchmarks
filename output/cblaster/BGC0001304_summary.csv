@@ -1,0 +1,365 @@
+cblaster search
+===============
+GCA_000006275
+=============
+AAIH03000235.1
+--------------
+Cluster 1, score 9.6550:
+Query        Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFLA_108540  AFLA_006786  100       100       2.02e-301  819       1142160  1143402  -     
+AFLA_108550  AFLA_006787  99.8      100       0          3484      1144761  1150207  -     
+AFLA_108560  AFLA_006788  100       100       1.81e-307  834       1151757  1153225  +     
+AFLA_108570  AFLA_006789  89        100       4.39e-185  513       1153808  1154883  -     
+AFLA_108580  AFLA_006790  94.2      100       0          900       1155494  1157437  -     
+
+
+GCA_000184455
+=============
+BA000051.1
+----------
+Cluster 2, score 6.5748:
+Query        Subject         Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFLA_108540  AO090023000443  99.8      100       3.34e-300  816       1125762  1127004  -     
+AFLA_108550  AO090023000444  97.4      100       0          3381      1128363  1133810  -     
+AFLA_108560  AO090023000445  99        100       2.03e-304  826       1135338  1136806  +     
+AFLA_108580  AO090023000447  97.8      78.1      5.6e-264   725       1139074  1140340  -     
+
+
+GCA_000269785
+=============
+AKHY01000182.1
+--------------
+Cluster 3, score 6.5709:
+Query        Subject       Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108540  Ao3042_08996  98.3      100       1.52e-296  806       919054  920549  -     
+AFLA_108550  Ao3042_08997  97.1      100       0          3362      921851  927297  -     
+AFLA_108560  Ao3042_08998  98.5      100       1.94e-302  821       928825  930293  +     
+AFLA_108580  Ao3042_09000  97.3      78.1      5.35e-262  720       932550  933816  -     
+
+
+GCA_000691885
+=============
+AMCJ01000111.1
+--------------
+Cluster 4, score 6.5709:
+Query        Subject       Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108540  AO1008_07873  98.3      100       1.52e-296  806       156319  157814  -     
+AFLA_108550  AO1008_07874  97.1      100       0          3362      159116  164562  -     
+AFLA_108560  AO1008_07875  98.5      100       1.94e-302  821       166090  167558  +     
+AFLA_108580  AO1008_07877  97.3      78.1      5.35e-262  720       169815  171081  -     
+
+
+GCA_000952835
+=============
+JZDT01000145.1
+--------------
+Cluster 5, score 9.6439:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFLA_108540  AFLA70_152g002220  99.8      100       5.78e-301  818       4812   6054   -     
+AFLA_108550  AFLA70_152g002231  98.3      100       0          3438      7413   12859  -     
+AFLA_108560  AFLA70_152g002241  95.9      100       4.03e-295  803       14394  15863  +     
+AFLA_108570  AFLA70_152g002251  82.5      100       7.61e-170  474       16446  17521  -     
+AFLA_108580  AFLA70_152g002261  91.8      100       0          906       18120  20054  -     
+
+
+GCA_001204775
+=============
+JNOM01000090.1
+--------------
+Cluster 6, score 5.4124:
+Query        Subject      Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFLA_108570  ANOM_005101  64.2      99.6      7.33e-133  381       34176  35251  +     
+AFLA_108560  ANOM_005102  82.2      100       3.21e-253  697       35791  37261  -     
+AFLA_108550  ANOM_005103  86.6      100       0          3046      38552  44224  +     
+
+
+GCA_002007945
+=============
+MKZY01000001.1
+--------------
+Cluster 7, score 6.5912:
+Query        Subject         Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFLA_108540  OAory_01026310  99.8      100       3.34e-300  816       1099131  1100373  -     
+AFLA_108550  OAory_01026320  97        100       0          3370      1101732  1107179  -     
+AFLA_108560  OAory_01026330  99        100       2.03e-304  826       1108707  1110175  +     
+AFLA_108570  OAory_01026340  87.2      93.4      5.88e-164  478       1110758  1114386  -     
+AFLA_108580  OAory_01026340  93.5      97.7      0          900       1110758  1114386  -     
+
+
+GCA_002443195
+=============
+NWUI02000366.1
+--------------
+Cluster 8, score 9.6517:
+Query        Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFLA_108540  AFGD_001206  99.8      100       5.78e-301  818       1166704  1167946  -     
+AFLA_108550  AFGD_001207  98.5      100       0          3438      1169302  1174748  -     
+AFLA_108560  AFGD_001208  99.3      100       1.74e-305  829       1176277  1177745  +     
+AFLA_108570  AFGD_001209  86.5      100       1.45e-182  507       1178328  1179403  -     
+AFLA_108580  AFGD_001210  93.9      100       0          925       1180013  1181953  -     
+
+
+GCA_002443215
+=============
+NWUG02001330.1
+--------------
+Cluster 9, score 9.6511:
+Query        Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFLA_108540  COH21_011131  100       100       2.02e-301  819       18527  19769  -     
+AFLA_108550  COH21_011132  98.2      100       0          3434      21128  26574  -     
+AFLA_108560  COH21_011133  99.3      100       1.74e-305  829       28102  29570  +     
+AFLA_108570  COH21_011134  86.5      100       1.45e-182  507       30153  31228  -     
+AFLA_108580  COH21_011135  93.7      100       0          922       31838  33778  -     
+
+
+GCA_002456175
+=============
+NWUH02000123.1
+--------------
+Cluster 10, score 9.6511:
+Query        Subject       Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108540  COH20_000923  100       100       2.02e-301  819       188117  189359  -     
+AFLA_108550  COH20_000924  98.2      100       0          3434      190718  196164  -     
+AFLA_108560  COH20_000925  99.3      100       1.74e-305  829       197692  199160  +     
+AFLA_108570  COH20_000926  86.5      100       1.45e-182  507       199743  200818  -     
+AFLA_108580  COH20_000927  93.7      100       0          922       201428  203368  -     
+
+
+GCA_002749805
+=============
+NEXV01000613.1
+--------------
+Cluster 11, score 6.5348:
+Query        Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFLA_108550  AARAC_004980  94        100       0          3305      31948  37397  -     
+AFLA_108560  AARAC_004981  94.6      100       6.39e-292  795       38861  40331  +     
+AFLA_108570  AARAC_004982  79        99.6      3.67e-161  452       40914  41975  -     
+AFLA_108540  AARAC_004986  97.1      100       1.4e-292   796       52319  53561  +     
+
+
+GCA_003709025
+=============
+QQZZ01000144.1
+--------------
+Cluster 12, score 9.6547:
+Query        Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFLA_108540  CA14_003543  100       100       2.02e-301  819       1173775  1175017  -     
+AFLA_108550  CA14_003544  99.1      100       0          3465      1176376  1181822  -     
+AFLA_108560  CA14_003545  99.5      100       2.11e-306  831       1183350  1184818  +     
+AFLA_108570  CA14_003546  85.8      100       6.87e-181  503       1185401  1186476  -     
+AFLA_108580  CA14_003547  94.3      100       0          929       1187086  1189026  -     
+
+
+GCA_009017415
+=============
+CP044620.1
+----------
+Cluster 13, score 9.6601:
+Query        Subject        Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFLA_108540  F9C07_4589     100       100       2.02e-301  819       1176669  1177911  -     
+AFLA_108550  F9C07_2281654  99.8      100       0          3484      1178221  1185780  -     
+AFLA_108560  F9C07_2281655  100       100       1.81e-307  834       1186097  1187859  +     
+AFLA_108570  F9C07_2281656  89        100       4.39e-185  513       1188140  1189484  -     
+AFLA_108580  F9C07_2281657  98.1      100       0          951       1189569  1192117  -     
+
+
+GCA_009176365
+=============
+ML733087.1
+----------
+Cluster 14, score 1.0300:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFLA_108570  BDW43DRAFT_312058  52.5      95.8      3.71e-101  300       56178  57255  -     
+
+
+GCA_009176375
+=============
+ML734571.1
+----------
+Cluster 15, score 9.6278:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108540  BDV35DRAFT_344924  98.8      100       3.21e-298  811       297853  299206  -     
+AFLA_108550  BDV35DRAFT_402405  97.9      100       0          3412      300530  305988  -     
+AFLA_108560  BDV35DRAFT_378173  97.1      100       7.54e-302  820       307526  308994  +     
+AFLA_108570  BDV35DRAFT_402407  89.6      100       7.18e-181  502       309577  310652  -     
+AFLA_108580  BDV35DRAFT_378175  98.6      78.1      5.03e-267  733       311260  312526  -     
+
+
+GCA_009176385
+=============
+ML734951.1
+----------
+Cluster 16, score 9.6001:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108540  BDV34DRAFT_190362  96.9      100       5.69e-292  795       349931  351354  -     
+AFLA_108550  BDV34DRAFT_233342  93.8      100       0          3293      352674  358123  -     
+AFLA_108560  BDV34DRAFT_210903  92.6      100       1.13e-287  784       359640  361109  +     
+AFLA_108570  BDV34DRAFT_222577  80.6      100       2.8e-162   455       361680  362757  -     
+AFLA_108580  BDV34DRAFT_210904  90.8      78.1      1e-243     674       363378  364644  -     
+
+
+GCA_009176395
+=============
+ML734281.1
+----------
+Cluster 17, score 3.1101:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108570  BDV32DRAFT_148566  67.2      99.6      1.19e-136  390       106568  107642  -     
+AFLA_108580  BDV32DRAFT_137441  73.6      97.7      1.21e-255  711       108198  110203  -     
+
+
+GCA_009176405
+=============
+ML733392.1
+----------
+Cluster 18, score 9.5853:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108580  BDV33DRAFT_229142  90.2      78.1      4.08e-243  672       108373  109639  +     
+AFLA_108570  BDV33DRAFT_197815  74.5      99.6      1.76e-152  431       110265  111341  +     
+AFLA_108560  BDV33DRAFT_229143  91.9      100       3.77e-286  780       111917  113386  -     
+AFLA_108550  BDV33DRAFT_229148  91.2      100       0          3176      114326  120369  +     
+AFLA_108540  BDV33DRAFT_162769  96.6      100       1.63e-291  794       121723  123205  +     
+
+
+GCA_009176455
+=============
+ML732859.1
+----------
+Cluster 19, score 9.6153:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFLA_108540  BDV30DRAFT_217712  97.1      100       4e-292     795       40934  42269  -     
+AFLA_108550  BDV30DRAFT_251865  96.5      100       0          3385      43514  49029  -     
+AFLA_108560  BDV30DRAFT_230334  93.3      100       5.83e-290  790       50553  52022  +     
+AFLA_108570  BDV30DRAFT_230335  89.2      99.6      2.73e-174  485       52605  53679  -     
+AFLA_108580  BDV30DRAFT_230336  94.6      78.1      1.81e-253  698       54290  55556  -     
+
+
+GCA_009193445
+=============
+ML743658.1
+----------
+Cluster 20, score 9.5762:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFLA_108540  BDV38DRAFT_264224  94.4      100       4.1e-285   778       19288  20664  -     
+AFLA_108550  BDV38DRAFT_290084  87.6      100       0          3078      20957  26877  -     
+AFLA_108560  BDV38DRAFT_290086  85.4      98.3      3.13e-254  699       28342  29852  +     
+AFLA_108570  BDV38DRAFT_275894  75.5      99.6      1.23e-149  423       30430  31512  -     
+AFLA_108580  BDV38DRAFT_288639  76.4      99.8      4.11e-284  784       32118  34082  -     
+
+
+GCA_009193485
+=============
+ML738608.1
+----------
+Cluster 21, score 1.0777:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFLA_108540  BDV40DRAFT_260492  94.2      100       8.28e-285  777       53196  54506  +     
+
+
+GCA_009193505
+=============
+ML738292.1
+----------
+Cluster 22, score 9.5895:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108540  BDV41DRAFT_516487  97.3      100       6.93e-293  797       101692  103211  -     
+AFLA_108550  BDV41DRAFT_583628  92        100       0          3206      104375  109823  -     
+AFLA_108560  BDV41DRAFT_583631  92.4      100       1.32e-284  776       111054  112905  +     
+AFLA_108570  BDV41DRAFT_570189  80.2      100       3.8e-160   449       113388  114465  -     
+AFLA_108580  BDV41DRAFT_583633  90.2      78.1      2.74e-241  667       115000  116352  -     
+
+
+GCA_009193525
+=============
+ML741761.1
+----------
+Cluster 23, score 9.5967:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108580  BDV39DRAFT_165070  88        77.9      4.09e-238  660       198658  200139  +     
+AFLA_108570  BDV39DRAFT_198585  78.3      99.6      3.67e-161  452       200625  201702  +     
+AFLA_108560  BDV39DRAFT_211802  93.3      100       1.67e-289  789       202236  203705  -     
+AFLA_108550  BDV39DRAFT_211803  93.6      100       0          3274      204623  210686  +     
+AFLA_108540  BDV39DRAFT_165075  96.1      100       6.64e-291  792       211519  212996  +     
+
+
+GCA_009193545
+=============
+ML737191.1
+----------
+Cluster 24, score 8.5987:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108540  BDV24DRAFT_141288  96.6      100       4.67e-291  793       91140   92552   -     
+AFLA_108580  BDV24DRAFT_178371  87.5      78.1      6.75e-237  657       100969  102237  +     
+AFLA_108570  BDV24DRAFT_154971  82.3      99.6      9.78e-163  456       102860  103921  +     
+AFLA_108560  BDV24DRAFT_154972  92.8      100       6.8e-289   787       104504  105974  -     
+AFLA_108550  BDV24DRAFT_168017  93.7      100       0          3294      107438  113276  +     
+
+
+GCA_009193585
+=============
+ML737675.1
+----------
+Cluster 25, score 9.5789:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+AFLA_108580  BDV27DRAFT_165457  80.6      100       9.1e-285   784       74118  76146  +     
+AFLA_108570  BDV27DRAFT_165459  76.2      99.6      1.5e-150   425       76603  77739  +     
+AFLA_108560  BDV27DRAFT_146112  85.9      100       5.73e-263  721       78320  79791  -     
+AFLA_108550  BDV27DRAFT_165461  87.9      100       0          3071      81333  86779  +     
+AFLA_108540  BDV27DRAFT_129902  95.4      100       8.4e-289   788       87495  88945  +     
+
+
+GCA_009193605
+=============
+ML735230.1
+----------
+Cluster 26, score 1.0603:
+Query        Subject            Identity  Coverage  E-value   Bitscore  Start  End    Strand
+AFLA_108580  BDV23DRAFT_170250  60.6      99.2      2.3e-213  603       52078  54023  -     
+
+
+GCA_009193645
+=============
+ML736738.1
+----------
+Cluster 27, score 1.0390:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108570  BDV37DRAFT_277677  67.2      99.6      1.19e-136  390       790116  791190  -     
+
+
+GCA_009193665
+=============
+ML735737.1
+----------
+Cluster 28, score 9.5833:
+Query        Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+AFLA_108580  BDV36DRAFT_296071  78.8      100       4.38e-283  780       105663  107602  +     
+AFLA_108570  BDV36DRAFT_256745  73.8      99.6      9.7e-150   424       108142  109322  +     
+AFLA_108560  BDV36DRAFT_309406  86.3      100       2e-263     723       109862  111333  -     
+AFLA_108550  BDV36DRAFT_309409  89        100       0          3116      112273  118454  +     
+AFLA_108540  BDV36DRAFT_256751  95.6      100       7.74e-290  790       119076  120501  +     
+
+
+GCA_014117465
+=============
+CP059868.1
+----------
+Cluster 29, score 9.6597:
+Query        Subject       Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFLA_108540  G4B84_004582  100       100       2.02e-301  819       1175595  1176837  -     
+AFLA_108550  G4B84_004583  99.8      100       0          3484      1178196  1183642  -     
+AFLA_108560  G4B84_004584  100       100       1.81e-307  834       1185192  1186660  +     
+AFLA_108570  G4B84_004585  89        100       4.39e-185  513       1187243  1188318  -     
+AFLA_108580  G4B84_004586  96.1      100       0          947       1188929  1190872  -     
+
+
+GCA_014117485
+=============
+CP059860.1
+----------
+Cluster 30, score 9.6548:
+Query        Subject       Identity  Coverage  E-value    Bitscore  Start    End      Strand
+AFLA_108540  G4B11_004643  100       100       2.02e-301  819       1164122  1165364  -     
+AFLA_108550  G4B11_004644  99.3      100       0          3469      1166723  1172169  -     
+AFLA_108560  G4B11_004645  99.5      100       2.11e-306  831       1173697  1175165  +     
+AFLA_108570  G4B11_004646  86.9      100       8.13e-181  502       1175748  1176823  -     
+AFLA_108580  G4B11_004647  94.1      100       0          927       1177433  1179376  -     

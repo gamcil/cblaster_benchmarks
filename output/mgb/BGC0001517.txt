@@ -1,0 +1,3679 @@
+ClusterBlast scores for /home/chooilab/Documents/cblaster_benchmarks/mgb/Multigeneblast/../../queries/BGC0001517.gbk
+
+Table of genes, locations, strands and annotations of query cluster:
+XP_001217687.1	8990	9503	+	hypothetical_protein	ATEG_09065	
+XP_001217688.1	11537	13075	+	hypothetical_protein	ATEG_09066	
+XP_001217689.1	14045	15300	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	ATEG_09067	
+XP_001217690.1	17286	24405	+	hypothetical_protein	ATEG_09068	
+
+
+Significant hits: 
+1. CH476607_0	Aspergillus terreus NIH2624 scaffold_14 genomic scaffold, whole genome shotgun sequence.
+
+2. JAAWWR010000009_3	Aspergillus terreus strain ATCC 20542 scaffold_1, whole genome shotgun sequence.
+
+3. BLJY01000009_0	Aspergillus terreus IFO 6365 DNA, contig_0009, whole genome shotgun sequence.
+
+4. VCAU01000025_0	Aspergillus nanangensis strain MST-FP2251 scaffold_25, whole genome shotgun sequence.
+
+5. MSFO01000011_0	Aspergillus steynii IBT 23096 P170scaffold_11, whole genome shotgun sequence.
+
+6. KZ824334_0	Aspergillus homomorphus CBS 101889 unplaced genomic scaffold BO97scaffold_68, whole genome shotgun sequence.
+
+7. KZ824949_0	Aspergillus aculeatinus CBS 121060 unplaced genomic scaffold BO66scaffold_17, whole genome shotgun sequence.
+
+8. KZ825560_0	Aspergillus indologenus CBS 114.80 unplaced genomic scaffold BP00scaffold_98, whole genome shotgun sequence.
+
+9. KZ824818_0	Aspergillus japonicus CBS 114.51 unplaced genomic scaffold BO86scaffold_49, whole genome shotgun sequence.
+
+10. KZ825150_0	Aspergillus violaceofuscus CBS 115571 unplaced genomic scaffold BO99scaffold_50, whole genome shotgun sequence.
+
+11. KZ825395_0	Aspergillus brunneoviolaceus CBS 621.78 unplaced genomic scaffold BO95scaffold_86, whole genome shotgun sequence.
+
+12. KZ821677_1	Aspergillus uvarum CBS 121591 unplaced genomic scaffold BO82scaffold_4, whole genome shotgun sequence.
+
+13. KZ824683_0	Aspergillus fijiensis CBS 313.89 unplaced genomic scaffold BO72scaffold_63, whole genome shotgun sequence.
+
+14. MVGC01000040_0	Aspergillus sclerotialis strain CBS 366.77 Contig00040, whole genome shotgun sequence.
+
+15. KZ821252_0	Aspergillus saccharolyticus JOP 1030-1 unplaced genomic scaffold BP01scaffold_35, whole genome shotgun sequence.
+
+16. KV878988_0	Aspergillus aculeatus ATCC 16872 unplaced genomic scaffold ASPACscaffold_19, whole genome shotgun sequence.
+
+17. MSFL01000043_0	Aspergillus heteromorphus CBS 117.55 BO70scaffold_43, whole genome shotgun sequence.
+
+18. KZ826027_0	Aspergillus ellipticus CBS 707.79 unplaced genomic scaffold BO71scaffold_231, whole genome shotgun sequence.
+
+19. RAQS01000002_0	Aspergillus sp. HF37 contig00002, whole genome shotgun sequence.
+
+20. MSFL01000004_0	Aspergillus heteromorphus CBS 117.55 BO70scaffold_4, whole genome shotgun sequence.
+
+21. KV878898_0	Aspergillus glaucus CBS 516.65 unplaced genomic scaffold ASPGLscaffold_11, whole genome shotgun sequence.
+
+22. ML733399_0	Aspergillus novoparasiticus strain CBS 126849 unplaced genomic scaffold BDV33scaffold_9, whole genome shotgun sequence.
+
+23. KZ821677_0	Aspergillus uvarum CBS 121591 unplaced genomic scaffold BO82scaffold_4, whole genome shotgun sequence.
+
+24. MSFM01000006_0	Aspergillus campestris IBT 28561 P168scaffold_6, whole genome shotgun sequence.
+
+25. KZ825055_0	Aspergillus piperis CBS 112811 unplaced genomic scaffold BO85scaffold_2, whole genome shotgun sequence.
+
+26. BDHI01000015_0	Aspergillus awamori DNA, contig: Aawm15, strain: IFM 58123, whole genome shotgun sequence.
+
+27. ML743551_1	Aspergillus pseudotamarii strain CBS 117625 unplaced genomic scaffold BDV38scaffold_1, whole genome shotgun sequence.
+
+28. ACJE01000015_1	Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+
+29. KZ825105_0	Aspergillus violaceofuscus CBS 115571 unplaced genomic scaffold BO99scaffold_5, whole genome shotgun sequence.
+
+30. ML735693_0	Aspergillus pseudocaelatus strain CBS 117616 unplaced genomic scaffold BDV36scaffold_7, whole genome shotgun sequence.
+
+31. BBXM02000001_0	Aspergillus udagawae IFM 46973 DNA, scaffold_1, whole genome shotgun sequence.
+
+32. MSFM01000006_1	Aspergillus campestris IBT 28561 P168scaffold_6, whole genome shotgun sequence.
+
+33. ML743551_0	Aspergillus pseudotamarii strain CBS 117625 unplaced genomic scaffold BDV38scaffold_1, whole genome shotgun sequence.
+
+34. ML735693_1	Aspergillus pseudocaelatus strain CBS 117616 unplaced genomic scaffold BDV36scaffold_7, whole genome shotgun sequence.
+
+35. KV878210_0	Aspergillus wentii DTO 134E9 unplaced genomic scaffold ASPWEscaffold_2, whole genome shotgun sequence.
+
+36. BCLY01000016_1	Aspergillus lentulus DNA, contig: Alt16, strain: IFM 54703, whole genome shotgun sequence.
+
+37. JAAWWR010000009_1	Aspergillus terreus strain ATCC 20542 scaffold_1, whole genome shotgun sequence.
+
+38. BDHI01000015_1	Aspergillus awamori DNA, contig: Aawm15, strain: IFM 58123, whole genome shotgun sequence.
+
+39. BBXM02000006_1	Aspergillus udagawae IFM 46973 DNA, scaffold_6, whole genome shotgun sequence.
+
+40. JAAWWR010000007_1	Aspergillus terreus strain ATCC 20542 contig_7, whole genome shotgun sequence.
+
+41. KV878125_2	Aspergillus versicolor CBS 583.65 unplaced genomic scaffold ASPVEscaffold_1, whole genome shotgun sequence.
+
+42. KV878210_1	Aspergillus wentii DTO 134E9 unplaced genomic scaffold ASPWEscaffold_2, whole genome shotgun sequence.
+
+43. BBXM02000001_1	Aspergillus udagawae IFM 46973 DNA, scaffold_1, whole genome shotgun sequence.
+
+44. KV878176_0	Aspergillus tubingensis CBS 134.48 unplaced genomic scaffold ASPTUscaffold_1, whole genome shotgun sequence.
+
+45. ACJE01000015_0	Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+
+46. CP059858_1	Aspergillus flavus strain AF13 chromosome 1.
+
+47. CP044619_0	Aspergillus flavus strain NRRL 3357 chromosome 1.
+
+48. BA000049_1	Aspergillus oryzae RIB40 DNA, chromosome 1.
+
+49. AAIH03000072_0	Aspergillus flavus NRRL3357 Scaffold01, whole genome shotgun sequence.
+
+50. KZ825055_1	Aspergillus piperis CBS 112811 unplaced genomic scaffold BO85scaffold_2, whole genome shotgun sequence.
+
+51. AP024435_0	Aspergillus luchuensis RIB2601 DNA, chromosome 2, nearly complete sequence.
+
+52. KV907503_1	Aspergillus carbonarius ITEM 5010 unplaced genomic scaffold ASPCAscaffold_11, whole genome shotgun sequence.
+
+53. KV907503_0	Aspergillus carbonarius ITEM 5010 unplaced genomic scaffold ASPCAscaffold_11, whole genome shotgun sequence.
+
+54. KV878970_1	Aspergillus aculeatus ATCC 16872 unplaced genomic scaffold ASPACscaffold_1, whole genome shotgun sequence.
+
+55. KV878211_0	Aspergillus wentii DTO 134E9 unplaced genomic scaffold ASPWEscaffold_3, whole genome shotgun sequence.
+
+56. AP024419_0	Aspergillus chevalieri M1 DNA, chromosome 4, nearly complete sequence.
+
+57. BLJY01000002_1	Aspergillus terreus IFO 6365 DNA, contig_0002, whole genome shotgun sequence.
+
+58. JAAWWR010000009_2	Aspergillus terreus strain ATCC 20542 scaffold_1, whole genome shotgun sequence.
+
+59. MSFN02000002_1	Aspergillus ochraceoroseus IBT 24754 P175scaffold_2, whole genome shotgun sequence.
+
+60. BN001308_1	TPA_asm: Aspergillus nidulans FGSC A4 chromosome VIII.
+
+61. CH236920_0	Aspergillus nidulans FGSC A4 chromosome VIII scaffold_1, whole genome shotgun sequence.
+
+62. KV878210_2	Aspergillus wentii DTO 134E9 unplaced genomic scaffold ASPWEscaffold_2, whole genome shotgun sequence.
+
+63. JAAWWR010000009_0	Aspergillus terreus strain ATCC 20542 scaffold_1, whole genome shotgun sequence.
+
+64. BA000049_0	Aspergillus oryzae RIB40 DNA, chromosome 1.
+
+65. CP059858_0	Aspergillus flavus strain AF13 chromosome 1.
+
+66. CP044619_1	Aspergillus flavus strain NRRL 3357 chromosome 1.
+
+67. AAIH03000072_1	Aspergillus flavus NRRL3357 Scaffold01, whole genome shotgun sequence.
+
+68. MSZS01000009_0	Aspergillus novofumigatus IBT 16806 P174scaffold_9, whole genome shotgun sequence.
+
+69. BHVY01000002_1	Aspergillus pseudoviridinutans IFM 55266 DNA, scaffold_2, whole genome shotgun sequence.
+
+70. KV878125_0	Aspergillus versicolor CBS 583.65 unplaced genomic scaffold ASPVEscaffold_1, whole genome shotgun sequence.
+
+71. BCLY01000016_2	Aspergillus lentulus DNA, contig: Alt16, strain: IFM 54703, whole genome shotgun sequence.
+
+72. DS027688_1	Neosartorya fischeri NRRL 181 1099437636249 genomic scaffold, whole genome shotgun sequence.
+
+73. AP024435_1	Aspergillus luchuensis RIB2601 DNA, chromosome 2, nearly complete sequence.
+
+74. VCAU01000004_0	Aspergillus nanangensis strain MST-FP2251 scaffold_4, whole genome shotgun sequence.
+
+75. BLKG01000053_0	Aspergillus udagawae IFM 53868 DNA, scaffold_53, whole genome shotgun sequence.
+
+76. BLKF01000166_0	Aspergillus udagawae IFM 51744 DNA, scaffold_166, whole genome shotgun sequence.
+
+77. BLKE01000078_0	Aspergillus udagawae IFM 5058 DNA, scaffold_78, whole genome shotgun sequence.
+
+78. KK088412_1	Aspergillus ruber CBS 135680 unplaced genomic scaffold scaffold00002, whole genome shotgun sequence.
+
+79. KV878176_1	Aspergillus tubingensis CBS 134.48 unplaced genomic scaffold ASPTUscaffold_1, whole genome shotgun sequence.
+
+80. KV878125_1	Aspergillus versicolor CBS 583.65 unplaced genomic scaffold ASPVEscaffold_1, whole genome shotgun sequence.
+
+81. BN001308_0	TPA_asm: Aspergillus nidulans FGSC A4 chromosome VIII.
+
+82. KV878970_0	Aspergillus aculeatus ATCC 16872 unplaced genomic scaffold ASPACscaffold_1, whole genome shotgun sequence.
+
+83. JXNT01000005_1	Aspergillus cristatus strain GZAAS20.1005 Scaffold_Scf_5, whole genome shotgun sequence.
+
+84. KK088412_0	Aspergillus ruber CBS 135680 unplaced genomic scaffold scaffold00002, whole genome shotgun sequence.
+
+85. JXNT01000005_0	Aspergillus cristatus strain GZAAS20.1005 Scaffold_Scf_5, whole genome shotgun sequence.
+
+86. JAAWWR010000007_0	Aspergillus terreus strain ATCC 20542 contig_7, whole genome shotgun sequence.
+
+87. QQZZ01000032_1	Aspergillus flavus strain CA14 contig_3, whole genome shotgun sequence.
+
+88. NWUH02000291_0	Aspergillus flavus strain NRRL 118543 contig_12, whole genome shotgun sequence.
+
+89. MSFN02000002_0	Aspergillus ochraceoroseus IBT 24754 P175scaffold_2, whole genome shotgun sequence.
+
+90. ML743552_0	Aspergillus pseudotamarii strain CBS 117625 unplaced genomic scaffold BDV38scaffold_2, whole genome shotgun sequence.
+
+91. MKZY01000003_1	Aspergillus oryzae strain BCC7051 OAory_C02, whole genome shotgun sequence.
+
+92. CP059869_1	Aspergillus flavus NRRL3357 chromosome 4.
+
+93. CP059861_1	Aspergillus flavus strain AF13 chromosome 4.
+
+94. CP044618_1	Aspergillus flavus strain NRRL 3357 chromosome 4.
+
+95. AAIH03000093_1	Aspergillus flavus NRRL3357 Scaffold03, whole genome shotgun sequence.
+
+96. DS027688_0	Neosartorya fischeri NRRL 181 1099437636249 genomic scaffold, whole genome shotgun sequence.
+
+97. BLJY01000002_0	Aspergillus terreus IFO 6365 DNA, contig_0002, whole genome shotgun sequence.
+
+98. BHVY01000002_0	Aspergillus pseudoviridinutans IFM 55266 DNA, scaffold_2, whole genome shotgun sequence.
+
+99. BCLY01000016_0	Aspergillus lentulus DNA, contig: Alt16, strain: IFM 54703, whole genome shotgun sequence.
+
+100. BBXM02000006_0	Aspergillus udagawae IFM 46973 DNA, scaffold_6, whole genome shotgun sequence.
+
+101. KZ825105_1	Aspergillus violaceofuscus CBS 115571 unplaced genomic scaffold BO99scaffold_5, whole genome shotgun sequence.
+
+102. CH236920_1	Aspergillus nidulans FGSC A4 chromosome VIII scaffold_1, whole genome shotgun sequence.
+
+103. KV878211_1	Aspergillus wentii DTO 134E9 unplaced genomic scaffold ASPWEscaffold_3, whole genome shotgun sequence.
+
+104. AP024419_1	Aspergillus chevalieri M1 DNA, chromosome 4, nearly complete sequence.
+
+105. MSZS01000009_1	Aspergillus novofumigatus IBT 16806 P174scaffold_9, whole genome shotgun sequence.
+
+106. NWUH02000291_1	Aspergillus flavus strain NRRL 118543 contig_12, whole genome shotgun sequence.
+
+107. MKZY01000003_0	Aspergillus oryzae strain BCC7051 OAory_C02, whole genome shotgun sequence.
+
+108. CP059861_0	Aspergillus flavus strain AF13 chromosome 4.
+
+109. QQZZ01000032_0	Aspergillus flavus strain CA14 contig_3, whole genome shotgun sequence.
+
+110. CP059869_0	Aspergillus flavus NRRL3357 chromosome 4.
+
+111. CP044618_0	Aspergillus flavus strain NRRL 3357 chromosome 4.
+
+112. AAIH03000093_0	Aspergillus flavus NRRL3357 Scaffold03, whole genome shotgun sequence.
+
+113. ML743552_1	Aspergillus pseudotamarii strain CBS 117625 unplaced genomic scaffold BDV38scaffold_2, whole genome shotgun sequence.
+
+114. ML743551_2	Aspergillus pseudotamarii strain CBS 117625 unplaced genomic scaffold BDV38scaffold_1, whole genome shotgun sequence.
+
+
+
+Details:
+
+>>
+
+1. CH476607_0
+Source: Aspergillus terreus NIH2624 scaffold_14 genomic scaffold, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 5
+MultiGeneBlast score: 5.5
+Cumulative Blast bit score: 7369
+
+Table of genes, locations, strands and annotations of subject cluster:
+EAU30193	140662	141983	-	predicted_protein	ATEG_09056
+EAU30194	142496	143618	+	predicted_protein	ATEG_09057
+EAU30195	144834	146218	-	predicted_protein	ATEG_09058
+EAU30196	147868	149424	+	predicted_protein	ATEG_09059
+EAU30197	150399	151728	+	conserved_hypothetical_protein	ATEG_09060
+EAU30198	152315	154117	-	hypothetical_protein	ATEG_09061
+EAU30199	154486	156087	+	conserved_hypothetical_protein	ATEG_09062
+EAU30200	158579	159091	+	predicted_protein	ATEG_09063
+EAU30201	159864	167038	-	predicted_protein	ATEG_09064
+EAU30202	168854	169367	+	predicted_protein	ATEG_09065
+EAU30203	171401	172939	+	predicted_protein	ATEG_09066
+EAU30204	173909	175164	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	ATEG_09067
+EAU30205	177150	184269	+	predicted_protein	ATEG_09068
+EAU30206	184697	185848	+	aryl-alcohol_dehydrogenase	ATEG_09069
+EAU30207	186010	186606	-	predicted_protein	ATEG_09070
+EAU30208	187903	189525	-	conserved_hypothetical_protein	ATEG_09071
+EAU30209	190855	191573	-	predicted_protein	ATEG_09072
+EAU30210	192937	194040	+	hypothetical_protein	ATEG_09073
+EAU30211	194371	196380	-	conserved_hypothetical_protein	ATEG_09074
+EAU30212	197784	200512	+	conserved_hypothetical_protein	ATEG_09075
+EAU30213	201885	203620	+	hypothetical_protein	ATEG_09076
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	EAU30202	100	282	100.0	2e-75	
+XP_001217688.1	EAU30203	100	407	100.0	1e-112	
+XP_001217689.1	EAU30204	100	780	100.0	0.0	
+XP_001217690.1	EAU30205	100	4778	100.0	0.0	
+XP_001217690.1	EAU30201	36	1122	84.1352405722	0.0	
+
+
+
+>>
+
+2. JAAWWR010000009_3
+Source: Aspergillus terreus strain ATCC 20542 scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 5
+MultiGeneBlast score: 5.5
+Cumulative Blast bit score: 6839
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAG2413063	4510105	4511067	-	hypothetical_protein	HFD88_010622
+KAG2413064	4511370	4512833	-	hypothetical_protein	HFD88_010623
+KAG2413065	4514239	4516248	+	hypothetical_protein	HFD88_010624
+KAG2413066	4516579	4517682	-	hypothetical_protein	HFD88_010625
+KAG2413067	4520313	4520614	+	hypothetical_protein	HFD88_010626
+KAG2413068	4521199	4522821	+	hypothetical_protein	HFD88_010627
+KAG2413069	4524101	4524696	+	hypothetical_protein	HFD88_010628
+KAG2413070	4524858	4526009	-	aryl-alcohol_dehydrogenase	HFD88_010629
+KAG2413071	4526437	4533555	-	hypothetical_protein	HFD88_010630
+KAG2413072	4535527	4536781	+	phospho-2-dehydro-3-deoxyheptonate_aldolase	HFD88_010631
+KAG2413073	4537747	4538835	-	hypothetical_protein	HFD88_010632
+KAG2413074	4540829	4541774	-	hypothetical_protein	HFD88_010633
+KAG2413075	4543456	4550777	+	hypothetical_protein	HFD88_010634
+KAG2413076	4553728	4554533	+	hypothetical_protein	HFD88_010635
+KAG2413077	4554568	4556171	-	hypothetical_protein	HFD88_010636
+KAG2413078	4556542	4558344	+	hypothetical_protein	HFD88_010637
+KAG2413079	4558555	4560423	-	hypothetical_protein	HFD88_010638
+KAG2413080	4561226	4562783	-	hypothetical_protein	HFD88_010639
+KAG2413081	4564448	4565840	+	hypothetical_protein	HFD88_010640
+KAG2413082	4567057	4568179	-	hypothetical_protein	HFD88_010641
+KAG2413083	4568691	4569452	+	hypothetical_protein	HFD88_010642
+KAG2413084	4570290	4571765	-	hypothetical_protein	HFD88_010643
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	KAG2413074	100	236	82.962962963	2e-61	
+XP_001217688.1	KAG2413073	51	124	74.1116751269	2e-27	
+XP_001217689.1	KAG2413072	99	777	100.0	0.0	
+XP_001217690.1	KAG2413071	95	4585	101.863892501	0.0	
+XP_001217690.1	KAG2413075	37	1117	77.8933680104	0.0	
+
+
+
+>>
+
+3. BLJY01000009_0
+Source: Aspergillus terreus IFO 6365 DNA, contig_0009, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 6676
+
+Table of genes, locations, strands and annotations of subject cluster:
+GFF18874	595157	595944	+	glutathione-S-transferase_theta	ATEIFO6365_0009023700
+GFF18875	596227	597206	+	hypothetical_protein	ATEIFO6365_0009023800
+GFF18876	597612	600074	+	6-phosphofructokinase_alpha_subunit	ATEIFO6365_0009023900
+GFF18877	601131	604065	-	DUF221-domain-containing_protein	ATEIFO6365_0009024000
+GFF18878	605774	607362	-	hypothetical_protein	ATEIFO6365_0009024100
+GFF18879	608465	611475	+	DNA_replication_licensing_factor_mcm6	ATEIFO6365_0009024200
+GFF18880	612258	614478	+	SNF2_family_helicase	ATEIFO6365_0009024300
+GFF18881	614918	622036	-	amino_acid_adenylation	ATEIFO6365_0009024400
+GFF18882	624026	625280	+	phospho-2-dehydro-3-deoxyheptonate_aldolase	ATEIFO6365_0009024500
+GFF18883	629282	630227	-	hypothetical_protein	ATEIFO6365_0009024600
+GFF18884	631883	639195	+	acetyl-CoA_synthetase-like_protein	ATEIFO6365_0009024700
+GFF18885	642151	642670	+	hypothetical_protein	ATEIFO6365_0009024800
+GFF18886	648063	651259	-	dihydropyrimidinase	ATEIFO6365_0009024900
+GFF18887	651632	653434	+	carbon-nitrogen_hydrolase	ATEIFO6365_0009025000
+GFF18888	653647	655514	-	NCS1_allantoate_transporter	ATEIFO6365_0009025100
+GFF18889	656313	657869	-	FAD_binding_monooxygenase	ATEIFO6365_0009025200
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	GFF18883	100	236	82.962962963	2e-61	
+XP_001217689.1	GFF18882	99	777	100.0	0.0	
+XP_001217690.1	GFF18881	94	4545	101.863892501	0.0	
+XP_001217690.1	GFF18884	35	1118	83.918508886	0.0	
+
+
+
+>>
+
+4. VCAU01000025_0
+Source: Aspergillus nanangensis strain MST-FP2251 scaffold_25, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 6068
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAF9890559	43166	44205	+	hypothetical_protein	FE257_005690
+KAF9890560	44532	44746	-	hypothetical_protein	FE257_005691
+KAF9890561	50517	51638	-	hypothetical_protein	FE257_005692
+KAF9890562	53564	55510	+	hypothetical_protein	FE257_005693
+KAF9890563	56119	57745	+	hypothetical_protein	FE257_005694
+KAF9890564	58884	59485	+	hypothetical_protein	FE257_005695
+KAF9890565	59612	60760	-	hypothetical_protein	FE257_005696
+KAF9890566	61199	68313	-	hypothetical_protein	FE257_005697
+KAF9890567	70395	71660	+	hypothetical_protein	FE257_005698
+KAF9890568	72660	74228	-	hypothetical_protein	FE257_005699
+KAF9890569	75765	76706	-	hypothetical_protein	FE257_005700
+KAF9890570	78272	85607	+	hypothetical_protein	FE257_005701
+KAF9890571	86009	87815	+	hypothetical_protein	FE257_005702
+KAF9890572	89844	91455	-	hypothetical_protein	FE257_005703
+KAF9890573	91863	93653	+	hypothetical_protein	FE257_005704
+KAF9890574	93960	94276	-	hypothetical_protein	FE257_005705
+KAF9890575	96397	97611	-	hypothetical_protein	FE257_005706
+KAF9890576	99230	100320	+	hypothetical_protein	FE257_005707
+KAF9890577	100795	101689	+	hypothetical_protein	FE257_005708
+KAF9890578	102488	102718	-	hypothetical_protein	FE257_005709
+KAF9890579	104108	105202	+	hypothetical_protein	FE257_005710
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	KAF9890569	92	222	82.962962963	2e-57	
+XP_001217689.1	KAF9890567	89	711	100.0	0.0	
+XP_001217690.1	KAF9890566	81	4021	101.820546164	0.0	
+XP_001217690.1	KAF9890570	37	1114	77.7199826615	0.0	
+
+
+
+>>
+
+5. MSFO01000011_0
+Source: Aspergillus steynii IBT 23096 P170scaffold_11, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 5693
+
+Table of genes, locations, strands and annotations of subject cluster:
+PLB43387	1008712	1009127	+	hypothetical_protein	P170DRAFT_481335
+PLB43388	1010062	1013413	-	hypothetical_protein	P170DRAFT_514616
+PLB43389	1013891	1014340	+	hypothetical_protein	P170DRAFT_514617
+PLB43390	1014569	1016176	+	permease_of_the_major_facilitator_superfamily	P170DRAFT_394939
+PLB43391	1016429	1018166	-	amino_acid_permease	P170DRAFT_469005
+PLB43392	1020423	1022464	+	putative_GMC_oxidoreductase	P170DRAFT_419315
+PLB43393	1024100	1024622	+	hypothetical_protein	P170DRAFT_514621
+PLB43394	1025348	1026493	-	aryl-alcohol_dehydrogenase	P170DRAFT_469008
+PLB43395	1026984	1034098	-	amino_acid_adenylation	P170DRAFT_469009
+PLB43396	1036203	1037581	+	phospho-2-dehydro-3-deoxyheptonate_aldolase	P170DRAFT_370104
+PLB43397	1038501	1040103	-	hypothetical_protein	P170DRAFT_441799
+PLB43398	1041449	1042368	-	hypothetical_protein	P170DRAFT_451417
+PLB43399	1043891	1051231	+	acetyl-CoA_synthetase-like_protein	P170DRAFT_469010
+PLB43400	1052044	1053683	-	hypothetical_protein	P170DRAFT_370456
+PLB43401	1054713	1056165	+	hypothetical_protein	P170DRAFT_514626
+PLB43402	1056680	1057738	-	hypothetical_protein	P170DRAFT_441803
+PLB43403	1058445	1058740	+	hypothetical_protein	P170DRAFT_481350
+PLB43404	1059597	1061613	+	ferric_reductase	P170DRAFT_451421
+PLB43405	1062214	1062735	+	hypothetical_protein	P170DRAFT_441804
+PLB43406	1063078	1064492	-	hypothetical_protein	P170DRAFT_486322
+PLB43407	1064660	1066542	+	MFS_general_substrate_transporter	P170DRAFT_77041
+PLB43408	1066733	1068238	-	putative_phosphatidylglycerol_specific phospholipase	P170DRAFT_441805
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	PLB43398	80	194	82.962962963	8e-49	
+XP_001217689.1	PLB43396	84	671	99.7361477573	0.0	
+XP_001217690.1	PLB43395	74	3689	101.733853489	0.0	
+XP_001217690.1	PLB43399	36	1139	80.9276116168	0.0	
+
+
+
+>>
+
+6. KZ824334_0
+Source: Aspergillus homomorphus CBS 101889 unplaced genomic scaffold BO97scaffold_68, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 5549
+
+Table of genes, locations, strands and annotations of subject cluster:
+RAL07330	1753	3070	+	hypothetical_protein	BO97DRAFT_446930
+RAL07331	3397	5118	-	tannase	BO97DRAFT_418624
+RAL07332	7602	8780	-	acetylornithine_deacetylase	BO97DRAFT_463856
+RAL07333	9000	9497	+	hypothetical_protein	BO97DRAFT_429372
+RAL07334	10664	11279	+	hypothetical_protein	BO97DRAFT_418626
+RAL07335	11639	18961	-	acetyl-CoA_synthetase-like_protein	BO97DRAFT_446932
+RAL07336	19584	20180	-	hypothetical_protein	BO97DRAFT_253583
+RAL07337	20480	21409	+	hypothetical_protein	BO97DRAFT_463860
+RAL07338	22898	24392	+	hypothetical_protein	BO97DRAFT_418629
+RAL07339	25224	26490	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	BO97DRAFT_429377
+RAL07340	28298	35414	+	acetyl-CoA_synthetase-like_protein	BO97DRAFT_463864
+RAL07341	35903	37099	+	aryl-alcohol_dehydrogenase	BO97DRAFT_463872
+RAL07342	37166	38826	-	putative_MFS_transporter	BO97DRAFT_446934
+RAL07343	39575	40442	-	hypothetical_protein	BO97DRAFT_473729
+RAL07344	41163	42286	+	hypothetical_protein	BO97DRAFT_446936
+RAL07345	42779	44068	-	hypothetical_protein	BO97DRAFT_253674
+RAL07346	46664	47239	-	hypothetical_protein	BO97DRAFT_446939
+RAL07347	47643	48498	-	hypothetical_protein	BO97DRAFT_378712
+RAL07348	50126	50602	-	hypothetical_protein	BO97DRAFT_253693
+RAL07349	51010	52731	+	hypothetical_protein	BO97DRAFT_378714
+RAL07350	52985	53520	-	hypothetical_protein	BO97DRAFT_429389
+RAL07351	54630	56840	-	SET_domain_protein	BO97DRAFT_473733
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RAL07337	83	202	82.962962963	2e-51	
+XP_001217689.1	RAL07339	84	667	99.7361477573	0.0	
+XP_001217690.1	RAL07340	71	3553	102.080624187	0.0	
+XP_001217690.1	RAL07335	35	1127	84.0052015605	0.0	
+
+
+
+>>
+
+7. KZ824949_0
+Source: Aspergillus aculeatinus CBS 121060 unplaced genomic scaffold BO66scaffold_17, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 5506
+
+Table of genes, locations, strands and annotations of subject cluster:
+RAH71292	131585	133369	-	hypothetical_protein	BO66DRAFT_371736
+RAH71293	133792	134781	+	S-adenosyl-L-methionine-dependent methyltransferase	BO66DRAFT_470480
+RAH71294	136245	137083	+	hypothetical_protein	BO66DRAFT_410467
+RAH71295	137531	138121	+	Rieske_[2Fe-2S]_domain_protein	BO66DRAFT_470483
+RAH71296	139535	139765	+	hypothetical_protein	BO66DRAFT_390921
+RAH71297	140398	141702	+	hypothetical_protein	BO66DRAFT_390922
+RAH71298	142395	143509	-	hypothetical_protein	BO66DRAFT_347258
+RAH71299	144224	145086	+	hypothetical_protein	BO66DRAFT_427946
+RAH71300	145743	147412	+	putative_MFS_transporter	BO66DRAFT_319934
+RAH71301	147493	148710	-	Aldo/keto_reductase	BO66DRAFT_448494
+RAH71302	149196	156345	-	amino_acid_adenylation	BO66DRAFT_470489
+RAH71303	158274	159570	+	phospho-2-dehydro-3-deoxyheptonate_aldolase	BO66DRAFT_437326
+RAH71304	163307	164359	-	hypothetical_protein	BO66DRAFT_400480
+RAH71305	165974	173320	+	acetyl-CoA_synthetase-like_protein	BO66DRAFT_437329
+RAH71306	173716	174338	-	hypothetical_protein	BO66DRAFT_400482
+RAH71307	176139	177998	+	ankyrin	BO66DRAFT_390924
+RAH71308	178821	179735	+	hypothetical_protein	BO66DRAFT_437332
+RAH71309	180499	183548	+	hypothetical_protein	BO66DRAFT_437333
+RAH71310	184249	186016	-	MFS_general_substrate_transporter	BO66DRAFT_320105
+RAH71311	186871	187594	+	Arabinanase/levansucrase/invertase	BO66DRAFT_410479
+RAH71312	188336	189655	-	GPI_anchored_protein	BO66DRAFT_320251
+RAH71313	190473	191943	+	glycosyl_hydrolase_family_88_protein	BO66DRAFT_410481
+RAH71314	192174	194659	-	hypothetical_protein	BO66DRAFT_371759
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RAH71304	80	197	82.962962963	9e-50	
+XP_001217689.1	RAH71303	85	678	99.7361477573	0.0	
+XP_001217690.1	RAH71302	71	3524	102.427394885	0.0	
+XP_001217690.1	RAH71305	36	1107	81.5778066753	0.0	
+
+
+
+>>
+
+8. KZ825560_0
+Source: Aspergillus indologenus CBS 114.80 unplaced genomic scaffold BP00scaffold_98, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 5485
+
+Table of genes, locations, strands and annotations of subject cluster:
+PYI27863	48344	50239	-	beta-xylosidase	BP00DRAFT_482261
+PYI27864	50975	52727	+	MFS_general_substrate_transporter	BP00DRAFT_378633
+PYI27865	54465	55973	-	hypothetical_protein	BP00DRAFT_352512
+PYI27866	58061	59620	+	hypothetical_protein	BP00DRAFT_278499
+PYI27867	60751	61728	-	NAD(P)-binding_protein	BP00DRAFT_459863
+PYI27868	61998	63035	-	hypothetical_protein	BP00DRAFT_428935
+PYI27869	63903	64533	+	hypothetical_protein	BP00DRAFT_278540
+PYI27870	64569	65190	+	hypothetical_protein	BP00DRAFT_404076
+PYI27871	65432	72957	-	acetyl-CoA_synthetase-like_protein	BP00DRAFT_449853
+PYI27872	74395	75404	+	hypothetical_protein	BP00DRAFT_482300
+PYI27873	76800	78305	+	hypothetical_protein	BP00DRAFT_449855
+PYI27874	79151	80451	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	BP00DRAFT_482304
+PYI27875	82359	89508	+	amino_acid_adenylation	BP00DRAFT_459867
+PYI27876	90005	91210	+	aryl-alcohol_dehydrogenase	BP00DRAFT_278611
+PYI27877	91306	92988	-	putative_MFS_transporter	BP00DRAFT_352509
+PYI27878	93702	94561	-	hypothetical_protein	BP00DRAFT_278594
+PYI27879	95222	96325	+	hypothetical_protein	BP00DRAFT_459870
+PYI27880	97240	98307	-	hypothetical_protein	BP00DRAFT_428938
+PYI27881	98661	99423	-	hypothetical_protein	BP00DRAFT_278628
+PYI27882	100511	101108	-	Rieske_[2Fe-2S]_domain_protein	BP00DRAFT_428940
+PYI27883	101536	102692	-	hypothetical_protein	BP00DRAFT_428941
+PYI27884	103751	104735	-	S-adenosyl-L-methionine-dependent methyltransferase	BP00DRAFT_418538
+PYI27885	105192	106962	+	hypothetical_protein	BP00DRAFT_404098
+PYI27886	107262	109444	-	Clavaminate_synthase-like_protein	BP00DRAFT_497748
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	PYI27872	80	197	82.962962963	6e-50	
+XP_001217689.1	PYI27874	83	669	100.0	0.0	
+XP_001217690.1	PYI27875	70	3496	102.557433897	0.0	
+XP_001217690.1	PYI27871	36	1123	83.1382748158	0.0	
+
+
+
+>>
+
+9. KZ824818_0
+Source: Aspergillus japonicus CBS 114.51 unplaced genomic scaffold BO86scaffold_49, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 5472
+
+Table of genes, locations, strands and annotations of subject cluster:
+RAH79126	142996	145112	+	Clavaminate_synthase-like_protein	BO86DRAFT_421059
+RAH79127	145377	147150	-	hypothetical_protein	BO86DRAFT_436581
+RAH79128	147602	148585	+	S-adenosyl-L-methionine-dependent methyltransferase	BO86DRAFT_411848
+RAH79129	150067	150936	+	hypothetical_protein	BO86DRAFT_421062
+RAH79130	151369	151964	+	Rieske_[2Fe-2S]_domain_protein	BO86DRAFT_391271
+RAH79131	153066	153551	+	hypothetical_protein	BO86DRAFT_158384
+RAH79132	154279	154938	+	hypothetical_protein	BO86DRAFT_381580
+RAH79133	156016	157113	-	hypothetical_protein	BO86DRAFT_391274
+RAH79134	157837	158696	+	hypothetical_protein	BO86DRAFT_411855
+RAH79135	159405	161087	+	putative_MFS_transporter	BO86DRAFT_367390
+RAH79136	161180	162385	-	aryl-alcohol_dehydrogenase	BO86DRAFT_319143
+RAH79137	162898	170046	-	hypothetical_protein	BO86DRAFT_436606
+RAH79138	171948	173249	+	phospho-2-dehydro-3-deoxyheptonate_aldolase	BO86DRAFT_402162
+RAH79139	174071	175577	-	hypothetical_protein	BO86DRAFT_402163
+RAH79140	177028	177957	-	hypothetical_protein	BO86DRAFT_402164
+RAH79141	179452	187855	+	acetyl-CoA_synthetase-like_protein	BO86DRAFT_402165
+RAH79142	188225	189202	+	NAD(P)-binding_protein	BO86DRAFT_367395
+RAH79143	190989	191939	-	hypothetical_protein	BO86DRAFT_458039
+RAH79144	193562	195089	+	hypothetical_protein	BO86DRAFT_411860
+RAH79145	195114	196598	+	hypothetical_protein	BO86DRAFT_402169
+RAH79146	197038	198714	-	MFS_general_substrate_transporter	BO86DRAFT_421073
+RAH79147	199567	201462	+	glycosyl_hydrolase_family_43_protein	BO86DRAFT_367399
+RAH79148	202051	203364	-	GPI_anchored_protein	BO86DRAFT_319204
+RAH79149	204249	205693	+	glycosyl_hydrolase_family_88_protein	BO86DRAFT_421076
+RAH79150	205945	208423	-	hypothetical_protein	BO86DRAFT_367400
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RAH79140	81	199	82.962962963	3e-50	
+XP_001217689.1	RAH79138	83	669	100.0	0.0	
+XP_001217690.1	RAH79137	71	3479	100.563502384	0.0	
+XP_001217690.1	RAH79141	36	1125	83.0949284785	0.0	
+
+
+
+>>
+
+10. KZ825150_0
+Source: Aspergillus violaceofuscus CBS 115571 unplaced genomic scaffold BO99scaffold_50, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 5470
+
+Table of genes, locations, strands and annotations of subject cluster:
+PYI17915	197940	198566	+	hypothetical_protein	BO99DRAFT_184722
+PYI17916	200676	201653	-	NAD(P)-binding_protein	BO99DRAFT_403968
+PYI17917	202371	204230	-	ankyrin	BO99DRAFT_387815
+PYI17918	205695	206316	+	hypothetical_protein	BO99DRAFT_474704
+PYI17919	206704	214040	-	acetyl-CoA_synthetase-like_protein	BO99DRAFT_444327
+PYI17920	215534	216542	+	hypothetical_protein	BO99DRAFT_423636
+PYI17921	217914	219418	+	hypothetical_protein	BO99DRAFT_434109
+PYI17922	220240	221541	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	BO99DRAFT_413910
+PYI17923	223444	230592	+	hypothetical_protein	BO99DRAFT_482937
+PYI17924	231108	232313	+	aryl-alcohol_dehydrogenase	BO99DRAFT_462619
+PYI17925	232406	234088	-	putative_MFS_transporter	BO99DRAFT_363342
+PYI17926	234797	235656	-	hypothetical_protein	BO99DRAFT_444331
+PYI17927	236380	237477	+	hypothetical_protein	BO99DRAFT_403972
+PYI17928	238649	239215	-	hypothetical_protein	BO99DRAFT_184819
+PYI17929	239921	240406	-	hypothetical_protein	BO99DRAFT_184823
+PYI17930	241505	242094	-	Rieske_[2Fe-2S]_domain_protein	BO99DRAFT_482941
+PYI17931	242533	243405	-	hypothetical_protein	BO99DRAFT_423644
+PYI17932	244844	245827	-	S-adenosyl-L-methionine-dependent methyltransferase	BO99DRAFT_403976
+PYI17933	246279	248049	+	hypothetical_protein	BO99DRAFT_462634
+PYI17934	248313	250426	-	Clavaminate_synthase-like_protein	BO99DRAFT_462641
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	PYI17920	81	199	82.962962963	2e-50	
+XP_001217689.1	PYI17922	83	664	100.0	0.0	
+XP_001217690.1	PYI17923	71	3480	100.563502384	0.0	
+XP_001217690.1	PYI17919	36	1127	83.0949284785	0.0	
+
+
+
+>>
+
+11. KZ825395_0
+Source: Aspergillus brunneoviolaceus CBS 621.78 unplaced genomic scaffold BO95scaffold_86, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 5458
+
+Table of genes, locations, strands and annotations of subject cluster:
+RAH41025	69978	71297	+	GPI_anchored_protein	BO95DRAFT_507554
+RAH41026	72428	73183	-	hypothetical_protein	BO95DRAFT_456907
+RAH41027	74044	75811	+	MFS_general_substrate_transporter	BO95DRAFT_374129
+RAH41028	77597	78970	-	hypothetical_protein	BO95DRAFT_374119
+RAH41029	81715	82160	-	hypothetical_protein	BO95DRAFT_468215
+RAH41030	83245	84187	-	hypothetical_protein	BO95DRAFT_507559
+RAH41031	84390	86282	-	ankyrin	BO95DRAFT_447312
+RAH41032	88086	88708	+	hypothetical_protein	BO95DRAFT_485768
+RAH41033	89103	96446	-	acetyl-CoA_synthetase-like_protein	BO95DRAFT_423475
+RAH41034	96807	97085	-	hypothetical_protein	BO95DRAFT_278438
+RAH41035	98091	98858	+	hypothetical_protein	BO95DRAFT_325144
+RAH41036	100454	101969	+	hypothetical_protein	BO95DRAFT_468220
+RAH41037	102831	104114	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	BO95DRAFT_468221
+RAH41038	106035	113197	+	amino_acid_adenylation	BO95DRAFT_507576
+RAH41039	113692	114912	+	Aldo/keto_reductase	BO95DRAFT_507591
+RAH41040	114995	116661	-	putative_MFS_transporter	BO95DRAFT_399108
+RAH41041	117308	118173	-	hypothetical_protein	BO95DRAFT_518252
+RAH41042	118905	120019	+	hypothetical_protein	BO95DRAFT_423485
+RAH41043	120719	122023	-	hypothetical_protein	BO95DRAFT_436150
+RAH41044	122738	123001	-	hypothetical_protein	BO95DRAFT_278529
+RAH41045	124296	124886	-	hypothetical_protein	BO95DRAFT_399113
+RAH41046	125326	126191	-	hypothetical_protein	BO95DRAFT_374144
+RAH41047	127610	128600	-	S-adenosyl-L-methionine-dependent methyltransferase	BO95DRAFT_485775
+RAH41048	129027	130811	+	hypothetical_protein	BO95DRAFT_507610
+RAH41049	131530	132615	-	hypothetical_protein	BO95DRAFT_468233
+RAH41050	133040	133513	+	hypothetical_protein	BO95DRAFT_468234
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RAH41035	81	185	75.5555555556	4e-46	
+XP_001217689.1	RAH41037	84	675	99.7361477573	0.0	
+XP_001217690.1	RAH41038	71	3489	102.600780234	0.0	
+XP_001217690.1	RAH41033	38	1109	74.4256610316	0.0	
+
+
+
+>>
+
+12. KZ821677_1
+Source: Aspergillus uvarum CBS 121591 unplaced genomic scaffold BO82scaffold_4, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 5458
+
+Table of genes, locations, strands and annotations of subject cluster:
+PYH86190	423184	425671	+	hypothetical_protein	BO82DRAFT_428658
+PYH86191	425928	427378	-	glycosyl_hydrolase_family_88_protein	BO82DRAFT_418540
+PYH86192	428234	429586	+	chondroitin_AC/alginate_lyase	BO82DRAFT_301069
+PYH86193	430064	431870	-	beta-xylosidase	BO82DRAFT_273445
+PYH86194	432883	434658	+	MFS_general_substrate_transporter	BO82DRAFT_388867
+PYH86195	435425	436696	-	NAD(P)-binding_protein	BO82DRAFT_428661
+PYH86196	436843	438717	-	ankyrin	BO82DRAFT_350468
+PYH86197	440466	441087	+	hypothetical_protein	BO82DRAFT_388869
+PYH86198	441477	448808	-	acetyl-CoA_synthetase-like_protein	BO82DRAFT_418569
+PYH86199	450439	451367	+	hypothetical_protein	BO82DRAFT_418571
+PYH86200	452849	454366	+	hypothetical_protein	BO82DRAFT_397943
+PYH86201	455236	456529	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	BO82DRAFT_418573
+PYH86202	458491	465639	+	amino_acid_adenylation	BO82DRAFT_380358
+PYH86203	466184	467389	+	aryl-alcohol_dehydrogenase	BO82DRAFT_388872
+PYH86204	467485	469159	-	putative_MFS_transporter	BO82DRAFT_350470
+PYH86205	469908	470767	-	hypothetical_protein	BO82DRAFT_428668
+PYH86206	471493	472592	+	hypothetical_protein	BO82DRAFT_326339
+PYH86207	473297	474595	-	hypothetical_protein	BO82DRAFT_397950
+PYH86208	475258	475603	-	hypothetical_protein	BO82DRAFT_350475
+PYH86209	476946	477540	-	Rieske_[2Fe-2S]_domain_protein	BO82DRAFT_350477
+PYH86210	477942	480854	-	S-adenosyl-L-methionine-dependent methyltransferase	BO82DRAFT_388877
+PYH86211	481290	483054	+	hypothetical_protein	BO82DRAFT_418590
+PYH86212	483614	484538	+	succinate_dehydrogenase/fumarate_reductase_flavo protein	BO82DRAFT_361065
+PYH86213	485431	485796	+	hypothetical_protein	BO82DRAFT_428676
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	PYH86199	80	198	82.962962963	3e-50	
+XP_001217689.1	PYH86201	83	672	100.0	0.0	
+XP_001217690.1	PYH86202	70	3491	102.427394885	0.0	
+XP_001217690.1	PYH86198	36	1097	76.2462071955	0.0	
+
+
+
+>>
+
+13. KZ824683_0
+Source: Aspergillus fijiensis CBS 313.89 unplaced genomic scaffold BO72scaffold_63, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 5440
+
+Table of genes, locations, strands and annotations of subject cluster:
+RAK73168	106264	107479	+	alpha-galactosidase/alpha-n- acetylgalactosaminidase	BO72DRAFT_471852
+RAK73169	108097	108915	-	FAS1_domain-containing_protein	BO72DRAFT_519211
+RAK73170	109317	110676	+	chondroitin_AC/alginate_lyase	BO72DRAFT_531284
+RAK73171	111395	113889	+	hypothetical_protein	BO72DRAFT_531285
+RAK73172	114120	115588	-	glycosyl_hydrolase_family_88_protein	BO72DRAFT_519214
+RAK73173	116362	118086	+	hypothetical_protein	BO72DRAFT_500301
+RAK73174	118723	119154	-	hypothetical_protein	BO72DRAFT_531286
+RAK73175	121068	122927	-	ankyrin	BO72DRAFT_452005
+RAK73176	124731	125353	+	hypothetical_protein	BO72DRAFT_452006
+RAK73177	125748	133091	-	acetyl-CoA_synthetase-like_protein	BO72DRAFT_248787
+RAK73178	133452	133739	-	hypothetical_protein	BO72DRAFT_248788
+RAK73179	134707	135747	+	hypothetical_protein	BO72DRAFT_519220
+RAK73180	137093	138607	+	hypothetical_protein	BO72DRAFT_500307
+RAK73181	139469	140752	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	BO72DRAFT_387742
+RAK73182	142652	149811	+	hypothetical_protein	BO72DRAFT_519233
+RAK73183	150297	151526	+	Aldo/keto_reductase	BO72DRAFT_519251
+RAK73184	151606	153275	-	putative_MFS_transporter	BO72DRAFT_438077
+RAK73185	153927	154789	-	hypothetical_protein	BO72DRAFT_489207
+RAK73186	155522	156636	+	hypothetical_protein	BO72DRAFT_489208
+RAK73187	157324	158631	-	hypothetical_protein	BO72DRAFT_500314
+RAK73188	159229	159609	-	hypothetical_protein	BO72DRAFT_500315
+RAK73189	160900	161490	-	Rieske_[2Fe-2S]_domain_protein	BO72DRAFT_531296
+RAK73190	161940	162805	-	hypothetical_protein	BO72DRAFT_480449
+RAK73191	164228	165218	-	S-adenosyl-L-methionine-dependent methyltransferase	BO72DRAFT_531299
+RAK73192	165643	167427	+	hypothetical_protein	BO72DRAFT_519275
+RAK73193	168209	169177	-	hypothetical_protein	BO72DRAFT_500321
+RAK73194	169654	170133	+	hypothetical_protein	BO72DRAFT_500322
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RAK73179	80	197	82.962962963	8e-50	
+XP_001217689.1	RAK73181	84	676	99.7361477573	0.0	
+XP_001217690.1	RAK73182	71	3459	100.693541396	0.0	
+XP_001217690.1	RAK73177	38	1108	74.122236671	0.0	
+
+
+
+>>
+
+14. MVGC01000040_0
+Source: Aspergillus sclerotialis strain CBS 366.77 Contig00040, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 5217
+
+Table of genes, locations, strands and annotations of subject cluster:
+RJE25690	15886	17366	+	acyl-CoA_dehydrogenase	PHISCL_01953
+RJE25691	17429	17861	-	HD_domain_protein	PHISCL_01954
+RJE25692	20657	21835	+	hypothetical_protein	PHISCL_01955
+RJE25693	21937	22922	-	Phytanoyl-CoA_dioxygenase_PhyH	PHISCL_01956
+RJE25694	23728	25249	+	Metabolite_transport_protein	PHISCL_01957
+RJE25695	25587	26687	+	Protein_phosphatase_2C	PHISCL_01958
+RJE25696	27241	28866	+	Major_Facilitator_Superfamily	PHISCL_01959
+RJE25697	29597	30181	-	hypothetical_protein	PHISCL_01960
+RJE25698	30332	30886	-	hypothetical_protein	PHISCL_01961
+RJE25699	31538	32534	+	hypothetical_protein	PHISCL_01962
+RJE25700	35583	42929	-	nonribosomal_peptide_synthase	PHISCL_01963
+RJE25701	43021	43470	+	hypothetical_protein	PHISCL_01964
+RJE25702	44216	45120	+	hypothetical_protein	PHISCL_01965
+RJE25703	48824	50069	-	hypothetical_protein	PHISCL_01966
+RJE25704	51510	58640	+	Non-ribosomal_peptide	PHISCL_01967
+RJE25705	59868	61850	+	GAL4	PHISCL_01968
+RJE25706	61919	63360	-	Oxidoreductase	PHISCL_01969
+RJE25707	63371	63892	-	Oxidoreductase	PHISCL_01970
+RJE25708	64114	64965	+	hypothetical_protein	PHISCL_01971
+RJE25709	66570	68541	+	B-zip_transcription_factor	PHISCL_01972
+RJE25710	70490	71788	-	hypothetical_protein	PHISCL_01973
+RJE25711	72875	74939	-	hypothetical_protein	PHISCL_01974
+RJE25712	75153	76918	+	Ribosome_biogenesis_protein_Noc4	PHISCL_01975
+RJE25713	77082	78203	-	hypothetical_protein	PHISCL_01976
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RJE25702	76	192	82.962962963	3e-48	
+XP_001217689.1	RJE25703	81	640	98.1530343008	0.0	
+XP_001217690.1	RJE25704	65	3229	102.470741222	0.0	
+XP_001217690.1	RJE25700	37	1156	78.0234070221	0.0	
+
+
+
+>>
+
+15. KZ821252_0
+Source: Aspergillus saccharolyticus JOP 1030-1 unplaced genomic scaffold BP01scaffold_35, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 4238
+
+Table of genes, locations, strands and annotations of subject cluster:
+PYH42439	272368	275744	+	hypothetical_protein	BP01DRAFT_394301
+PYH42440	275991	276693	-	hypothetical_protein	BP01DRAFT_385542
+PYH42441	278194	278658	+	NTF2-like_protein	BP01DRAFT_135614
+PYH42442	279111	279561	+	hypothetical_protein	BP01DRAFT_135652
+PYH42443	280308	281261	-	alpha/beta-hydrolase	BP01DRAFT_418048
+PYH42444	282240	282810	+	hypothetical_protein	BP01DRAFT_359520
+PYH42445	286237	287933	+	putative_MFS_transporter	BP01DRAFT_394308
+PYH42446	288013	289227	-	aryl-alcohol_dehydrogenase	BP01DRAFT_405153
+PYH42447	289680	296805	-	amino_acid_adenylation	BP01DRAFT_425658
+PYH42448	298622	299894	+	phospho-2-dehydro-3-deoxyheptonate_aldolase	BP01DRAFT_303403
+PYH42449	300592	302071	-	hypothetical_protein	BP01DRAFT_385552
+PYH42450	303610	304152	-	hypothetical_protein	BP01DRAFT_263374
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	PYH42450	72	92	43.7037037037	3e-18	
+XP_001217689.1	PYH42448	83	654	99.4722955145	0.0	
+XP_001217690.1	PYH42447	71	3492	101.950585176	0.0	
+
+
+
+>>
+
+16. KV878988_0
+Source: Aspergillus aculeatus ATCC 16872 unplaced genomic scaffold ASPACscaffold_19, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 4102
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJJ95593	63812	65588	-	hypothetical_protein	ASPACDRAFT_47483
+OJJ95594	66003	66992	+	hypothetical_protein	ASPACDRAFT_81751
+OJJ95595	68172	69336	+	hypothetical_protein	ASPACDRAFT_47485
+OJJ95596	69792	70396	+	hypothetical_protein	ASPACDRAFT_64092
+OJJ95597	71733	73983	+	hypothetical_protein	ASPACDRAFT_47487
+OJJ95598	74670	75784	-	glycosyltransferase_family_25_protein	ASPACDRAFT_64094
+OJJ95599	76515	77374	+	hypothetical_protein	ASPACDRAFT_126400
+OJJ95600	78102	79771	+	hypothetical_protein	ASPACDRAFT_35823
+OJJ95601	79827	81038	-	hypothetical_protein	ASPACDRAFT_1875712
+OJJ95602	83128	87879	-	hypothetical_protein	ASPACDRAFT_394
+OJJ95603	90629	91933	+	hypothetical_protein	ASPACDRAFT_35979
+OJJ95604	92785	94312	-	hypothetical_protein	ASPACDRAFT_126403
+OJJ95605	95783	96713	-	hypothetical_protein	ASPACDRAFT_1859863
+OJJ95606	98342	105685	+	hypothetical_protein	ASPACDRAFT_64101
+OJJ95607	106064	106686	-	hypothetical_protein	ASPACDRAFT_81757
+OJJ95608	108483	109273	+	hypothetical_protein	ASPACDRAFT_126406
+OJJ95609	109810	111563	-	hypothetical_protein	ASPACDRAFT_1875721
+OJJ95610	112416	114259	+	hypothetical_protein	ASPACDRAFT_47500
+OJJ95611	114852	116173	-	hypothetical_protein	ASPACDRAFT_47501
+OJJ95612	117038	118501	+	hypothetical_protein	ASPACDRAFT_35660
+OJJ95613	118765	121259	-	hypothetical_protein	ASPACDRAFT_1859870
+OJJ95614	122043	123403	-	hypothetical_protein	ASPACDRAFT_47504
+OJJ95615	123806	124634	+	hypothetical_protein	ASPACDRAFT_47505
+OJJ95616	125248	126572	-	glycoside_hydrolase_family_27_protein	ASPACDRAFT_54946
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	OJJ95605	80	196	82.962962963	1e-49	
+XP_001217689.1	OJJ95603	84	650	99.7361477573	0.0	
+XP_001217690.1	OJJ95602	67	2139	68.7472908539	0.0	
+XP_001217690.1	OJJ95606	37	1117	76.9830949285	0.0	
+
+
+
+>>
+
+17. MSFL01000043_0
+Source: Aspergillus heteromorphus CBS 117.55 BO70scaffold_43, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.5
+Cumulative Blast bit score: 1293
+
+Table of genes, locations, strands and annotations of subject cluster:
+PWY66708	2603	4000	-	hypothetical_protein	BO70DRAFT_400691
+PWY66709	5833	6796	-	hypothetical_protein	BO70DRAFT_301477
+PWY66710	8582	16503	+	acetyl-CoA_synthetase-like_protein	BO70DRAFT_400693
+PWY66711	16721	17443	-	hypothetical_protein	BO70DRAFT_400694
+PWY66712	17907	19394	+	phosphatidylglycerol_specific_phospholipase	BO70DRAFT_400695
+PWY66713	20707	22845	+	MFS_general_substrate_transporter	BO70DRAFT_383023
+PWY66714	24547	26310	-	amino_acid_permease	BO70DRAFT_345629
+PWY66715	27268	28355	-	hypothetical_protein	BO70DRAFT_271787
+PWY66716	29893	31060	-	RTA1_domain_protein	BO70DRAFT_345636
+PWY66717	34944	35259	+	hypothetical_protein	BO70DRAFT_400700
+PWY66718	35359	36042	-	Metallo-dependent_hydrolase	BO70DRAFT_400701
+PWY66719	36379	37141	+	hypothetical_protein	BO70DRAFT_400702
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	PWY66709	63	152	85.1851851852	2e-36	
+XP_001217688.1	PWY66708	49	53	27.9187817259	4e-06	
+XP_001217690.1	PWY66710	36	1088	82.2280017339	0.0	
+
+
+
+>>
+
+18. KZ826027_0
+Source: Aspergillus ellipticus CBS 707.79 unplaced genomic scaffold BO71scaffold_231, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.0
+Cumulative Blast bit score: 5582
+
+Table of genes, locations, strands and annotations of subject cluster:
+PYH89476	1614	1919	+	hypothetical_protein	BO71DRAFT_336589
+PYH89477	2468	9735	-	acetyl-CoA_synthetase-like_protein	BO71DRAFT_389547
+PYH89478	11277	12174	+	hypothetical_protein	BO71DRAFT_363365
+PYH89479	14451	15326	+	hypothetical_protein	BO71DRAFT_434750
+PYH89480	15959	17294	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	BO71DRAFT_465070
+PYH89481	17496	18291	-	hypothetical_protein	BO71DRAFT_434752
+PYH89482	18884	25989	+	hypothetical_protein	BO71DRAFT_465073
+PYH89483	26678	27829	+	aryl-alcohol_dehydrogenase	BO71DRAFT_465091
+PYH89484	28789	30893	-	putative_MFS_transporter	BO71DRAFT_444548
+PYH89485	31572	32315	-	hypothetical_protein	BO71DRAFT_487913
+PYH89486	39724	39882	-	hypothetical_protein	BO71DRAFT_336595
+PYH89487	41127	41987	-	alpha/beta-hydrolase	BO71DRAFT_403023
+PYH89488	42312	44766	+	hypothetical_protein	BO71DRAFT_389567
+PYH89489	45608	48443	-	hypothetical_protein	BO71DRAFT_422970
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	PYH89478	71	176	80.7407407407	1e-43	
+XP_001217689.1	PYH89480	86	666	100.0	0.0	
+XP_001217690.1	PYH89482	74	3611	100.173385349	0.0	
+XP_001217690.1	PYH89477	37	1129	78.5435630689	0.0	
+
+
+
+>>
+
+19. RAQS01000002_0
+Source: Aspergillus sp. HF37 contig00002, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 3
+MultiGeneBlast score: 3.0
+Cumulative Blast bit score: 4859
+
+Table of genes, locations, strands and annotations of subject cluster:
+RMJ29029	83133	84388	-	Dehydrogenase	PHISP_00109
+RMJ29030	84560	85886	-	salicylate_hydroxylase	PHISP_00110
+RMJ29031	86037	87776	-	hypothetical_protein	PHISP_00111
+RMJ29032	88817	90647	+	Arylsulfotransferase_ASST	PHISP_00112
+RMJ29033	91485	93328	+	Amino_acid_permease	PHISP_00113
+RMJ29034	93698	95827	-	hypothetical_protein	PHISP_00114
+RMJ29035	96359	96794	+	hypothetical_protein	PHISP_00115
+RMJ29036	96984	98372	+	Phosphatidylglycerol_specific_phospholipase	PHISP_00116
+RMJ29037	98633	98857	-	hypothetical_protein	PHISP_00117
+RMJ29038	99766	106239	-	Non-ribosomal_peptide	PHISP_00118
+RMJ29039	106305	106874	-	Peptide_synthetase	PHISP_00119
+RMJ29040	108286	109520	+	hypothetical_protein	PHISP_00120
+RMJ29041	112926	113609	-	hypothetical_protein	PHISP_00121
+RMJ29042	115029	122470	+	nonribosomal_peptide_synthase	PHISP_00122
+RMJ29043	122868	124405	-	Methyltransferase	PHISP_00123
+RMJ29044	125047	126518	-	acyl-CoA_dehydrogenase	PHISP_00124
+RMJ29045	129135	130490	+	FAD_binding_domain-containing_protein	PHISP_00125
+RMJ29046	130856	132435	-	MFS_multidrug_transporter	PHISP_00126
+RMJ29047	132645	134380	+	Cytochrome_p450	PHISP_00127
+RMJ29048	134611	136878	+	Transcription_factor	PHISP_00128
+RMJ29049	137344	137859	+	hypothetical_protein	PHISP_00129
+RMJ29050	138291	139678	-	o-methyltransferase	PHISP_00130
+RMJ29051	139834	141417	-	FAD_binding_domain-containing_protein	PHISP_00131
+RMJ29052	141759	143312	+	hypothetical_protein	PHISP_00132
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RMJ29041	68	95	44.4444444444	4e-19	
+XP_001217689.1	RMJ29040	81	633	98.1530343008	4e-180	
+XP_001217690.1	RMJ29038	65	2989	93.5413957521	0.0	
+XP_001217690.1	RMJ29042	35	1142	86.0858257477	0.0	
+
+
+
+>>
+
+20. MSFL01000004_0
+Source: Aspergillus heteromorphus CBS 117.55 BO70scaffold_4, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 2
+MultiGeneBlast score: 2.5
+Cumulative Blast bit score: 4157
+
+Table of genes, locations, strands and annotations of subject cluster:
+PWY88909	39	483	+	hypothetical_protein	BO70DRAFT_156854
+PWY88910	1142	1902	+	hypothetical_protein	BO70DRAFT_359228
+PWY88911	2646	3985	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	BO70DRAFT_385108
+PWY88912	5420	12535	+	hypothetical_protein	BO70DRAFT_330553
+PWY88913	13030	14193	+	aryl-alcohol_dehydrogenase	BO70DRAFT_417732
+PWY88914	15815	17587	+	hypothetical_protein	BO70DRAFT_156929
+PWY88915	17720	18866	-	homocysteine_S-methyltransferase	BO70DRAFT_385110
+PWY88916	21385	21672	+	hypothetical_protein	BO70DRAFT_308865
+PWY88917	22671	23956	-	hypothetical_protein	BO70DRAFT_359231
+PWY88918	24583	25206	-	cyanate_hydratase	BO70DRAFT_393433
+PWY88919	25891	28056	+	hypothetical_protein	BO70DRAFT_359232
+PWY88920	28452	30198	+	hypothetical_protein	BO70DRAFT_359233
+PWY88921	31559	35304	+	phospholipase_D/nuclease	BO70DRAFT_285445
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	PWY88911	86	672	98.1530343008	0.0	
+XP_001217690.1	PWY88912	71	3485	100.086692674	0.0	
+
+
+
+>>
+
+21. KV878898_0
+Source: Aspergillus glaucus CBS 516.65 unplaced genomic scaffold ASPGLscaffold_11, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 2
+MultiGeneBlast score: 2.5
+Cumulative Blast bit score: 2106
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJJ84012	767463	770943	+	hypothetical_protein	ASPGLDRAFT_66930
+OJJ84013	771859	773301	+	hypothetical_protein	ASPGLDRAFT_47735
+OJJ84014	776697	777050	-	hypothetical_protein	ASPGLDRAFT_47738
+OJJ84015	777637	780249	+	hypothetical_protein	ASPGLDRAFT_127142
+OJJ84016	781292	782622	+	hypothetical_protein	ASPGLDRAFT_1492422
+OJJ84017	784275	785451	-	hypothetical_protein	ASPGLDRAFT_1492429
+OJJ84018	787008	793212	+	hypothetical_protein	ASPGLDRAFT_26190
+OJJ84019	793967	796220	-	hypothetical_protein	ASPGLDRAFT_82669
+OJJ84020	796414	796842	-	hypothetical_protein	ASPGLDRAFT_374544
+OJJ84021	797061	797288	+	hypothetical_protein	ASPGLDRAFT_374535
+OJJ84022	798812	800491	+	hypothetical_protein	ASPGLDRAFT_127108
+OJJ84023	800699	802704	-	hypothetical_protein	ASPGLDRAFT_127505
+OJJ84024	803431	805346	-	hypothetical_protein	ASPGLDRAFT_127514
+OJJ84025	806038	806394	-	hypothetical_protein	ASPGLDRAFT_47747
+OJJ84026	807986	809576	+	hypothetical_protein	ASPGLDRAFT_66940
+OJJ84027	809941	810519	-	hypothetical_protein	ASPGLDRAFT_375059
+OJJ84028	811343	811651	-	hypothetical_protein	ASPGLDRAFT_375073
+OJJ84029	812106	812393	-	hypothetical_protein	ASPGLDRAFT_375295
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	OJJ84017	69	514	99.7361477573	2e-144	
+XP_001217690.1	OJJ84018	60	1592	57.2171651495	0.0	
+
+
+
+>>
+
+22. ML733399_0
+Source: Aspergillus novoparasiticus strain CBS 126849 unplaced genomic scaffold BDV33scaffold_9, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1985
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAB8224405	10799	11374	+	hypothetical_protein	BDV33DRAFT_199434
+KAB8224406	13608	14075	+	Mss4-like_protein	BDV33DRAFT_199435
+KAB8224407	15517	16485	-	beta-lactamase-like_protein	BDV33DRAFT_199436
+KAB8224408	25138	25776	+	AAA_domain-containing_protein	BDV33DRAFT_199438
+KAB8224409	26299	26823	+	hypothetical_protein	BDV33DRAFT_199439
+KAB8224410	27512	29619	+	hypothetical_protein	BDV33DRAFT_188076
+KAB8224411	30241	46736	-	hypothetical_protein	BDV33DRAFT_199441
+KAB8224412	50025	54395	-	hypothetical_protein	BDV33DRAFT_233369
+KAB8224413	56283	57334	+	hypothetical_protein	BDV33DRAFT_154176
+KAB8224414	58247	60320	-	Alpha/Beta_hydrolase_protein	BDV33DRAFT_188079
+KAB8224415	60850	63197	-	fungal-specific_transcription_factor domain-containing protein	BDV33DRAFT_199445
+KAB8224416	63609	65008	+	cytochrome_P450	BDV33DRAFT_199446
+KAB8224417	65331	67066	-	major_facilitator_superfamily_domain-containing protein	BDV33DRAFT_188081
+KAB8224418	67566	68129	-	hypothetical_protein	BDV33DRAFT_199448
+KAB8224419	68357	80664	-	hypothetical_protein	BDV33DRAFT_199449
+KAB8224420	81092	83362	+	FAD_binding_domain-containing_protein	BDV33DRAFT_188082
+KAB8224421	83995	85926	-	POT_family-domain-containing_protein	BDV33DRAFT_188083
+KAB8224422	86564	87724	+	hypothetical_protein	BDV33DRAFT_199452
+KAB8224423	88266	89488	+	histidine-specific_methyltransferase	BDV33DRAFT_188085
+KAB8224424	89859	90599	-	S-adenosyl-L-methionine-dependent methyltransferase	BDV33DRAFT_199454
+KAB8224425	90866	92383	-	FAD_dependent_oxidoreductase	BDV33DRAFT_233375
+KAB8224426	93205	94571	+	POT_family-domain-containing_protein	BDV33DRAFT_154226
+KAB8224427	95281	96427	+	hypothetical_protein	BDV33DRAFT_154224
+KAB8224428	96825	98453	-	hypothetical_protein	BDV33DRAFT_233378
+KAB8224429	100532	101332	-	HAD-like_domain-containing_protein	BDV33DRAFT_199459
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	KAB8224411	35	1018	77.6766363242	0.0	
+XP_001217690.1	KAB8224419	32	967	85.392284352	0.0	
+
+
+
+>>
+
+23. KZ821677_0
+Source: Aspergillus uvarum CBS 121591 unplaced genomic scaffold BO82scaffold_4, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1262
+
+Table of genes, locations, strands and annotations of subject cluster:
+PYH86071	74155	76224	-	WD40_repeat-like_protein	BO82DRAFT_273532
+PYH86072	77513	78775	-	TPT-domain-containing_protein	BO82DRAFT_397823
+PYH86073	79684	81324	+	alpha/beta-hydrolase	BO82DRAFT_350382
+PYH86074	82029	83181	+	alpha/beta-hydrolase	BO82DRAFT_326106
+PYH86075	83616	84236	+	Hydroxyisourate_hydrolase	BO82DRAFT_350384
+PYH86076	84663	85918	+	hypothetical_protein	BO82DRAFT_428575
+PYH86077	86295	87275	-	alcohol_dehydrogenase_zinc-binding_domain protein	BO82DRAFT_388787
+PYH86078	89741	91600	+	putative_Zn(II)2Cys6_transcription_factor	BO82DRAFT_273514
+PYH86079	92464	114062	-	nonribosomal_peptide_synthase	BO82DRAFT_418294
+PYH86080	115466	116160	+	hypothetical_protein	BO82DRAFT_350388
+PYH86081	116424	118091	-	MFS_general_substrate_transporter	BO82DRAFT_350389
+PYH86082	118625	121138	-	acetyl-CoA_synthetase-like_protein	BO82DRAFT_350390
+PYH86083	123261	124382	-	NAD(P)-binding_protein	BO82DRAFT_350391
+PYH86084	125401	127279	+	cytochrome_P450	BO82DRAFT_350392
+PYH86085	127865	132934	-	ABC_transporter	BO82DRAFT_380289
+PYH86086	134009	138961	+	fatty-acid_synthase_alpha_chain	BO82DRAFT_300892
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	PYH86079	32	1262	103.337667967	0.0	
+
+
+
+>>
+
+24. MSFM01000006_0
+Source: Aspergillus campestris IBT 28561 P168scaffold_6, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1203
+
+Table of genes, locations, strands and annotations of subject cluster:
+PKY04270	885575	886249	+	hypothetical_protein	P168DRAFT_310892
+PKY04271	886586	891054	-	putative_transcription_factor_SipA3	P168DRAFT_290362
+PKY04272	891480	893367	+	Krr1-domain-containing_protein	P168DRAFT_253229
+PKY04273	896027	897516	+	ADP,ATP_carrier_protein	P168DRAFT_290366
+PKY04274	897911	898857	+	hypothetical_protein	P168DRAFT_290367
+PKY04275	900152	901260	-	hypothetical_protein	P168DRAFT_297173
+PKY04276	904123	910680	-	acetyl-CoA_synthetase-like_protein	P168DRAFT_236258
+PKY04277	912252	913796	+	o-methyltransferase	P168DRAFT_310897
+PKY04278	915035	916221	-	40S_ribosomal_protein_S19	P168DRAFT_290371
+PKY04279	916726	918756	-	hypothetical_protein	P168DRAFT_318619
+PKY04280	920839	922267	+	hypothetical_protein	P168DRAFT_304585
+PKY04281	922358	924349	-	dihydroxy-acid_dehydratase	P168DRAFT_253245
+PKY04282	924846	926399	-	putative_peroxisome_biosynthesis_protein	P168DRAFT_304587
+PKY04283	927695	929179	+	phosphoesterase-domain-containing_protein	P168DRAFT_310902
+PKY04284	929931	930417	-	hypothetical_protein	P168DRAFT_304589
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	PKY04276	34	1203	95.4919809276	0.0	
+
+
+
+>>
+
+25. KZ825055_0
+Source: Aspergillus piperis CBS 112811 unplaced genomic scaffold BO85scaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1180
+
+Table of genes, locations, strands and annotations of subject cluster:
+RAH61680	548210	549198	-	thiosulfate_sulfurtransferase	BO85DRAFT_445109
+RAH61681	550867	552249	+	histidine_acid_phosphatase	BO85DRAFT_445112
+RAH61682	553196	555223	-	MFS_transporter	BO85DRAFT_465619
+RAH61683	555873	556733	-	alpha/beta-hydrolase	BO85DRAFT_412279
+RAH61684	557775	559555	+	kinase-like_protein	BO85DRAFT_465621
+RAH61685	559857	562132	+	Zn(II)2Cys6_transcription_factor	BO85DRAFT_412286
+RAH61686	562602	564110	-	O-methyltransferase	BO85DRAFT_388641
+RAH61687	564758	566258	-	FAD-binding_domain-containing_protein	BO85DRAFT_388645
+RAH61688	567172	573735	+	non-ribosomal_peptide_synthetase	BO85DRAFT_501132
+RAH61689	574151	576983	-	purine_and_uridine_phosphorylase	BO85DRAFT_388647
+RAH61690	577887	579614	+	hypothetical_protein	BO85DRAFT_114550
+RAH61691	580110	580668	+	hypothetical_protein	BO85DRAFT_434363
+RAH61692	580880	581559	-	hypothetical_protein	BO85DRAFT_483720
+RAH61693	582605	583375	+	hypothetical_protein	BO85DRAFT_434365
+RAH61694	584022	585273	+	GroES-like_protein	BO85DRAFT_363983
+RAH61695	587532	590846	-	hypothetical_protein	BO85DRAFT_455836
+RAH61696	591054	592336	-	C6_transcription_factor	BO85DRAFT_501147
+RAH61697	593079	594041	+	RTA1_domain_protein	BO85DRAFT_501149
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	RAH61688	33	1180	96.0554833117	0.0	
+
+
+
+>>
+
+26. BDHI01000015_0
+Source: Aspergillus awamori DNA, contig: Aawm15, strain: IFM 58123, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1149
+
+Table of genes, locations, strands and annotations of subject cluster:
+GCB24113	2795426	2796296	-	protein_RTM1	AAWM_06998
+GCB24114	2797084	2798366	+	sterol_uptake_control_protein_2	AAWM_06999
+GCB24115	2810636	2811114	-	4-carboxymuconolactone_decarboxylase	AAWM_07000
+GCB24116	2812229	2818795	-	nonribosomal_peptide_synthetase_12	AAWM_07001
+GCB24117	2819654	2823212	+	demethylsterigmatocystin_6-O-methyltransferase	AAWM_07002
+GCB24118	2823755	2826024	-	putative_transcriptional_regulatory_protein YJL206C	AAWM_07003
+GCB24119	2827541	2828401	+	soluble_epoxide_hydrolase	AAWM_07004
+GCB24120	2829062	2834247	+	glutamine--fructose-6-phosphate aminotransferase	AAWM_07005
+GCB24121	2834530	2835912	-	acid_phosphatase_PHO1	AAWM_07006
+GCB24122	2837867	2838583	+	thiosulfate_sulfurtransferase	AAWM_07007
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	GCB24116	33	1149	95.6653662765	0.0	
+
+
+
+>>
+
+27. ML743551_1
+Source: Aspergillus pseudotamarii strain CBS 117625 unplaced genomic scaffold BDV38scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1136
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAE8143585	229147	230061	+	copper_homeostasis_CutC_domain-containing protein	BDV38DRAFT_276670
+KAE8143586	230591	232093	-	major_facilitator_superfamily-domain-containing protein	BDV38DRAFT_276671
+KAE8143587	232155	232888	+	hypothetical_protein	BDV38DRAFT_276672
+KAE8143588	234959	236192	+	tryptophan_synthase_beta_subunit-like PLP-dependent enzyme	BDV38DRAFT_266800
+KAE8143589	236264	237700	-	PLP-dependent_transferase	BDV38DRAFT_266801
+KAE8143590	238146	239393	-	l-allo-threonine_aldolase	BDV38DRAFT_231694
+KAE8143591	239593	239931	-	hypothetical_protein	BDV38DRAFT_276675
+KAE8143592	240661	243117	-	hypothetical_protein	BDV38DRAFT_231697
+KAE8143593	243646	244589	+	oxidoreductase	BDV38DRAFT_231700
+KAE8143594	245220	246921	-	aspartate-tRNA_ligase	BDV38DRAFT_276678
+KAE8143595	248031	258512	+	hypothetical_protein	BDV38DRAFT_276679
+KAE8143596	258834	260599	-	hypothetical_protein	BDV38DRAFT_231710
+KAE8143597	261347	262230	+	hypothetical_protein	BDV38DRAFT_231711
+KAE8143598	263529	265166	-	amidohydrolase_3	BDV38DRAFT_289523
+KAE8143599	266846	267933	-	kinase-like_domain-containing_protein	BDV38DRAFT_231714
+KAE8143600	270190	270543	-	hypothetical_protein	BDV38DRAFT_231716
+KAE8143601	272398	273133	-	hypothetical_protein	BDV38DRAFT_276685
+KAE8143602	274781	276266	-	hypothetical_protein	BDV38DRAFT_276686
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	KAE8143595	33	1136	106.11183355	0.0	
+
+
+
+>>
+
+28. ACJE01000015_1
+Source: Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1128
+
+Table of genes, locations, strands and annotations of subject cluster:
+EHA21339	1329380	1330365	-	hypothetical_protein	ASPNIDRAFT_126296
+EHA21340	1332035	1333417	+	hypothetical_protein	ASPNIDRAFT_44563
+EHA21341	1333705	1335983	-	hypothetical_protein	ASPNIDRAFT_139271
+EHA21342	1336852	1338821	-	hypothetical_protein	ASPNIDRAFT_191260
+EHA21343	1339568	1340428	-	hydrolase	ASPNIDRAFT_191374
+EHA21344	1341947	1344198	+	hypothetical_protein	ASPNIDRAFT_191550
+EHA21345	1344766	1346212	-	hypothetical_protein	ASPNIDRAFT_191384
+EHA21346	1346845	1348331	-	hypothetical_protein	ASPNIDRAFT_140876
+EHA21347	1349221	1355872	+	hypothetical_protein	ASPNIDRAFT_44571
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	EHA21347	34	1128	91.0706545297	0.0	
+
+
+
+>>
+
+29. KZ825105_0
+Source: Aspergillus violaceofuscus CBS 115571 unplaced genomic scaffold BO99scaffold_5, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1060
+
+Table of genes, locations, strands and annotations of subject cluster:
+PYI23423	46187	51372	-	hypothetical_protein	BO99DRAFT_375669
+PYI23424	52043	53848	+	cytochrome_P450	BO99DRAFT_461869
+PYI23425	54344	55764	-	branched-chain_amino_acid	BO99DRAFT_428719
+PYI23426	56626	57241	+	ankyrin	BO99DRAFT_428720
+PYI23427	58083	59423	-	hypothetical_protein	BO99DRAFT_419069
+PYI23428	60278	82655	+	acetyl-CoA_synthetase-like_protein	BO99DRAFT_461879
+PYI23429	83241	85225	-	hypothetical_protein	BO99DRAFT_375677
+PYI23430	85548	86777	+	acid_protease	BO99DRAFT_398966
+PYI23431	87020	88576	-	hypothetical_protein	BO99DRAFT_409037
+PYI23432	92148	92984	+	hypothetical_protein	BO99DRAFT_428726
+PYI23433	93426	95362	+	hypothetical_protein	BO99DRAFT_478901
+PYI23434	96378	97558	+	zinc-binding_oxidoreductase	BO99DRAFT_398969
+PYI23435	97819	101719	-	hypothetical_protein	BO99DRAFT_323354
+PYI23436	102447	105721	+	TPR-like_protein	BO99DRAFT_398972
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	PYI23428	34	1060	88.2097962722	0.0	
+
+
+
+>>
+
+30. ML735693_0
+Source: Aspergillus pseudocaelatus strain CBS 117616 unplaced genomic scaffold BDV36scaffold_7, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1048
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAE8422653	267656	274284	-	hypothetical_protein	BDV36DRAFT_310355
+KAE8422654	274802	281447	-	acyl_transferase_domain-containing_protein	BDV36DRAFT_291155
+KAE8422655	281984	283412	+	RTA1_like_protein-domain-containing_protein	BDV36DRAFT_211066
+KAE8422656	284697	285057	-	hypothetical_protein	BDV36DRAFT_244949
+KAE8422657	287618	308507	-	hypothetical_protein	BDV36DRAFT_291158
+KAE8422658	311886	312481	-	ankyrin_repeat-containing_domain_protein	BDV36DRAFT_279787
+KAE8422659	312854	315146	+	aminotransferase	BDV36DRAFT_279788
+KAE8422660	315485	317347	-	cytochrome_P450	BDV36DRAFT_291161
+KAE8422661	318079	323205	+	hypothetical_protein	BDV36DRAFT_310370
+KAE8422662	324290	325274	+	aspartic_peptidase_domain-containing_protein	BDV36DRAFT_244985
+KAE8422663	327253	328889	+	major_facilitator_superfamily_domain-containing protein	BDV36DRAFT_211235
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	KAE8422657	34	1048	87.5596012137	0.0	
+
+
+
+>>
+
+31. BBXM02000001_0
+Source: Aspergillus udagawae IFM 46973 DNA, scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1044
+
+Table of genes, locations, strands and annotations of subject cluster:
+GIC84292	362438	363717	+	hypothetical_protein	Aud_000106
+GIC84293	365072	370039	+	putative_PKS/NRPS-like_protein_biosynthetic cluster	Aud_000107
+GIC84294	371027	377347	+	putative_PKS/NRPS-like_protein_biosynthetic cluster	Aud_000108
+GIC84295	378889	380768	+	hypothetical_protein	Aud_000110
+GIC84296	382229	401015	+	nonribosomal_peptide_synthase	Aud_000111
+GIC84297	401547	402923	+	hypothetical_protein	Aud_000112
+GIC84298	404005	408816	-	hypothetical_protein	Aud_000113
+GIC84299	409941	411244	+	hypothetical_protein	Aud_000114
+GIC84300	411556	412521	-	hypothetical_protein	Aud_000115
+GIC84301	415040	418850	-	hypothetical_protein	Aud_000116
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	GIC84296	37	1044	73.8621586476	0.0	
+
+
+
+>>
+
+32. MSFM01000006_1
+Source: Aspergillus campestris IBT 28561 P168scaffold_6, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1040
+
+Table of genes, locations, strands and annotations of subject cluster:
+PKY04552	1621320	1623126	+	FAD-binding_domain-containing_protein	P168DRAFT_269622
+PKY04553	1623292	1623522	+	hypothetical_protein	P168DRAFT_159750
+PKY04554	1623937	1625574	+	aromatic-L-amino-acid_decarboxylase	P168DRAFT_290602
+PKY04555	1625857	1626787	-	pyrroline-5-carboxylate_reductase	P168DRAFT_269628
+PKY04556	1627273	1628446	-	homoserine_dehydrogenase	P168DRAFT_269629
+PKY04557	1631223	1632949	+	S-adenosyl-L-methionine-dependent methyltransferase	P168DRAFT_311086
+PKY04558	1634330	1635843	-	FAD/NAD(P)-binding_domain-containing_protein	P168DRAFT_269637
+PKY04559	1637838	1639103	+	CoA-dependent_acyltransferase	P168DRAFT_253797
+PKY04560	1639125	1652180	+	acetyl-CoA_synthetase-like_protein	P168DRAFT_235916
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	PKY04560	34	1040	83.7884698743	0.0	
+
+
+
+>>
+
+33. ML743551_0
+Source: Aspergillus pseudotamarii strain CBS 117625 unplaced genomic scaffold BDV38scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1040
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAE8143559	126549	133354	-	hypothetical_protein	BDV38DRAFT_276644
+KAE8143560	133663	140307	-	acyl_transferase_domain-containing_protein	BDV38DRAFT_231642
+KAE8143561	140848	142269	+	RTA1_like_protein-domain-containing_protein	BDV38DRAFT_231643
+KAE8143562	146500	167385	-	hypothetical_protein	BDV38DRAFT_276648
+KAE8143563	170806	171388	-	ankyrin_repeat-containing_domain_protein	BDV38DRAFT_289497
+KAE8143564	172438	173808	+	aminotransferase	BDV38DRAFT_276650
+KAE8143565	174380	176248	-	cytochrome_P450	BDV38DRAFT_276651
+KAE8143566	176971	182109	+	hypothetical_protein	BDV38DRAFT_276652
+KAE8143567	183187	184470	+	aspartic_peptidase_domain-containing_protein	BDV38DRAFT_231662
+KAE8143568	186224	187846	+	major_facilitator_superfamily_domain-containing protein	BDV38DRAFT_266789
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	KAE8143562	33	1040	87.6029475509	0.0	
+
+
+
+>>
+
+34. ML735693_1
+Source: Aspergillus pseudocaelatus strain CBS 117616 unplaced genomic scaffold BDV36scaffold_7, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 1032
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAE8422682	373323	374267	+	copper_homeostasis_CutC_domain-containing protein	BDV36DRAFT_291181
+KAE8422683	374804	376884	-	major_facilitator_superfamily_domain-containing protein	BDV36DRAFT_291182
+KAE8422684	378928	380159	+	tryptophan_synthase_beta_subunit-like PLP-dependent enzyme	BDV36DRAFT_279806
+KAE8422685	380231	381668	-	PLP-dependent_transferase	BDV36DRAFT_279814
+KAE8422686	382141	383382	-	l-allo-threonine_aldolase	BDV36DRAFT_310388
+KAE8422687	384817	387117	-	hypothetical_protein	BDV36DRAFT_279808
+KAE8422688	387831	388774	+	oxidoreductase	BDV36DRAFT_279809
+KAE8422689	389404	391091	-	aspartate-tRNA_ligase	BDV36DRAFT_279810
+KAE8422690	392215	402696	+	hypothetical_protein	BDV36DRAFT_291189
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	KAE8422690	34	1032	83.0949284785	0.0	
+
+
+
+>>
+
+35. KV878210_0
+Source: Aspergillus wentii DTO 134E9 unplaced genomic scaffold ASPWEscaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 988
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJJ38354	792713	796121	-	hypothetical_protein	ASPWEDRAFT_48610
+OJJ38355	797456	798093	+	hypothetical_protein	ASPWEDRAFT_35973
+OJJ38356	799007	800889	-	hypothetical_protein	ASPWEDRAFT_320307
+OJJ38357	801551	802967	+	hypothetical_protein	ASPWEDRAFT_24298
+OJJ38358	803512	805161	+	hypothetical_protein	ASPWEDRAFT_24299
+OJJ38359	805288	806600	-	hypothetical_protein	ASPWEDRAFT_320690
+OJJ38360	807166	807963	-	hypothetical_protein	ASPWEDRAFT_57102
+OJJ38361	808443	810262	+	hypothetical_protein	ASPWEDRAFT_126752
+OJJ38362	810541	822428	-	hypothetical_protein	ASPWEDRAFT_24303
+OJJ38363	824180	825551	+	hypothetical_protein	ASPWEDRAFT_179921
+OJJ38364	826209	827501	-	hypothetical_protein	ASPWEDRAFT_35981
+OJJ38365	828664	832368	+	hypothetical_protein	ASPWEDRAFT_65400
+OJJ38366	832914	834179	-	hypothetical_protein	ASPWEDRAFT_65401
+OJJ38367	834657	836946	+	hypothetical_protein	ASPWEDRAFT_65402
+OJJ38368	837631	839210	+	hypothetical_protein	ASPWEDRAFT_102997
+OJJ38369	840490	840990	+	hypothetical_protein	ASPWEDRAFT_24311
+OJJ38370	841457	842500	-	hypothetical_protein	ASPWEDRAFT_168282
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	OJJ38362	39	988	64.8894668401	0.0	
+
+
+
+>>
+
+36. BCLY01000016_1
+Source: Aspergillus lentulus DNA, contig: Alt16, strain: IFM 54703, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 973
+
+Table of genes, locations, strands and annotations of subject cluster:
+GAQ10888	2244442	2245415	+	hypothetical_protein	ALT_8209
+GAQ10889	2246173	2247430	+	DNA_repair_protein_rhp51	ALT_8210
+GAQ10890	2247907	2251997	+	nucleoporin_NUP120	ALT_8211
+GAQ10891	2252604	2257824	-	hypothetical_protein	ALT_8212
+GAQ10892	2263408	2282596	+	nonribosomal_peptide_synthetase_1	ALT_8213
+GAQ10893	2283050	2284955	-	uncharacterized_MFS-type_transporter_C947.06c	ALT_8214
+GAQ10894	2286031	2288578	-	mitochondrial_outer_membrane_protein_iml2	ALT_8215
+GAQ10895	2289609	2290052	+	putative_26S_proteasome_complex_subunit_sem-1	ALT_8216
+GAQ10896	2290633	2292051	-	phosphoglycerate_kinase	ALT_8217
+GAQ10897	2292802	2293720	-	protein_sym1	ALT_8218
+GAQ10898	2294629	2296557	-	hypothetical_protein	ALT_8219
+GAQ10899	2296876	2299427	+	pre-mRNA-processing_protein_prp40	ALT_8220
+GAQ10900	2300182	2302656	-	translation_initiation_factor_RLI1	ALT_8221
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	GAQ10892	32	973	86.8227134807	0.0	
+
+
+
+>>
+
+37. JAAWWR010000009_1
+Source: Aspergillus terreus strain ATCC 20542 scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 966
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAG2412558	3033817	3034542	-	hypothetical_protein	HFD88_010115
+KAG2412559	3034906	3036467	+	hypothetical_protein	HFD88_010116
+KAG2412560	3036836	3039429	-	hypothetical_protein	HFD88_010117
+KAG2412561	3041261	3044155	+	hypothetical_protein	HFD88_010118
+KAG2412562	3044648	3045686	-	hypothetical_protein	HFD88_010119
+KAG2412563	3046507	3047778	-	hypothetical_protein	HFD88_010120
+KAG2412564	3048922	3050707	-	hypothetical_protein	HFD88_010121
+KAG2412565	3051507	3052214	+	hypothetical_protein	HFD88_010122
+KAG2412566	3052970	3065035	+	hypothetical_protein	HFD88_010123
+KAG2412567	3065458	3066584	-	hypothetical_protein	HFD88_010124
+KAG2412568	3068289	3069416	+	hypothetical_protein	HFD88_010125
+KAG2412569	3070119	3071418	-	alcohol_dehydrogenase_II	HFD88_010126
+KAG2412570	3072163	3073294	+	hypothetical_protein	HFD88_010127
+KAG2412571	3073366	3074331	-	hypothetical_protein	HFD88_010128
+KAG2412572	3074815	3076233	-	hypothetical_protein	HFD88_010129
+KAG2412573	3076911	3079704	+	hypothetical_protein	HFD88_010130
+KAG2412574	3080345	3082533	-	serine/threonine-protein_kinase_24	HFD88_010131
+KAG2412575	3083210	3084859	-	hypothetical_protein	HFD88_010132
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	KAG2412566	32	966	83.5717381881	0.0	
+
+
+
+>>
+
+38. BDHI01000015_1
+Source: Aspergillus awamori DNA, contig: Aawm15, strain: IFM 58123, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 963
+
+Table of genes, locations, strands and annotations of subject cluster:
+GCB24295	3414202	3415581	-	hypothetical_protein	AAWM_07180
+GCB24296	3416512	3417969	-	TPR_repeat-containing_protein_P27G11.02	AAWM_07181
+GCB24297	3418645	3419748	+	hypothetical_protein	AAWM_07182
+GCB24298	3421356	3423118	-	UDP-glucose_6-dehydrogenase	AAWM_07183
+GCB24299	3424307	3426499	+	uncharacterized_ABC_transporter_ATP-binding protein C323.04	AAWM_07184
+GCB24300	3427479	3437812	+	nonribosomal_peptide_synthetase_12	AAWM_07185
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	GCB24300	38	963	67.4902470741	0.0	
+
+
+
+>>
+
+39. BBXM02000006_1
+Source: Aspergillus udagawae IFM 46973 DNA, scaffold_6, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 961
+
+Table of genes, locations, strands and annotations of subject cluster:
+GIC92057	2155751	2156488	+	hypothetical_protein	Aud_008514
+GIC92058	2157424	2158683	+	recombinase_rad51	Aud_008515
+GIC92059	2159169	2163235	+	hypothetical_protein	Aud_008516
+GIC92060	2163852	2169089	-	hypothetical_protein	Aud_008517
+GIC92061	2174652	2193845	+	nonribosomal_peptide_synthetase_1	Aud_008518
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	GIC92061	32	961	81.881231036	0.0	
+
+
+
+>>
+
+40. JAAWWR010000007_1
+Source: Aspergillus terreus strain ATCC 20542 contig_7, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 955
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAG2415514	2213726	2215887	-	hypothetical_protein	HFD88_006705
+KAG2415515	2216364	2216675	-	hypothetical_protein	HFD88_006706
+KAG2415516	2219121	2219618	+	hypothetical_protein	HFD88_006707
+KAG2415517	2220812	2221570	+	hypothetical_protein	HFD88_006708
+KAG2415518	2222594	2223884	+	DNA_repair_protein_RAD51	HFD88_006709
+KAG2415519	2224342	2228399	+	hypothetical_protein	HFD88_006710
+KAG2415520	2232431	2250466	+	hypothetical_protein	HFD88_006711
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	KAG2415520	33	955	81.8378846987	0.0	
+
+
+
+>>
+
+41. KV878125_2
+Source: Aspergillus versicolor CBS 583.65 unplaced genomic scaffold ASPVEscaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 954
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJI97503	4480163	4480411	+	hypothetical_protein	ASPVEDRAFT_36915
+OJI97504	4481901	4482476	+	hypothetical_protein	ASPVEDRAFT_36917
+OJI97505	4484877	4488942	+	hypothetical_protein	ASPVEDRAFT_121895
+OJI97506	4490017	4495371	-	hypothetical_protein	ASPVEDRAFT_36922
+OJI97507	4496484	4496960	-	hypothetical_protein	ASPVEDRAFT_296370
+OJI97508	4499745	4518780	+	hypothetical_protein	ASPVEDRAFT_24461
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	OJI97508	32	954	87.2128305158	0.0	
+
+
+
+>>
+
+42. KV878210_1
+Source: Aspergillus wentii DTO 134E9 unplaced genomic scaffold ASPWEscaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 952
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJJ38880	2154897	2157474	-	hypothetical_protein	ASPWEDRAFT_168755
+OJJ38881	2157772	2159683	+	hypothetical_protein	ASPWEDRAFT_36562
+OJJ38882	2160338	2161167	+	hypothetical_protein	ASPWEDRAFT_36563
+OJJ38883	2162264	2163638	+	hypothetical_protein	ASPWEDRAFT_103025
+OJJ38884	2164355	2164822	-	hypothetical_protein	ASPWEDRAFT_36569
+OJJ38885	2165825	2168348	+	hypothetical_protein	ASPWEDRAFT_36570
+OJJ38886	2168800	2168967	+	hypothetical_protein	ASPWEDRAFT_36572
+OJJ38887	2169549	2171436	+	hypothetical_protein	ASPWEDRAFT_168761
+OJJ38888	2172100	2191204	-	hypothetical_protein	ASPWEDRAFT_345210
+OJJ38889	2195717	2200973	+	hypothetical_protein	ASPWEDRAFT_49006
+OJJ38890	2201484	2205571	-	hypothetical_protein	ASPWEDRAFT_149504
+OJJ38891	2206052	2207334	-	hypothetical_protein	ASPWEDRAFT_127748
+OJJ38892	2208176	2209168	-	hypothetical_protein	ASPWEDRAFT_36579
+OJJ38893	2209441	2209959	-	hypothetical_protein	ASPWEDRAFT_345481
+OJJ38894	2210731	2211192	-	hypothetical_protein	ASPWEDRAFT_36580
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	OJJ38888	33	952	87.5162548765	0.0	
+
+
+
+>>
+
+43. BBXM02000001_1
+Source: Aspergillus udagawae IFM 46973 DNA, scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 950
+
+Table of genes, locations, strands and annotations of subject cluster:
+GIC85563	4262141	4262971	+	hypothetical_protein	Aud_001395
+GIC85564	4263901	4265024	-	hypothetical_protein	Aud_001396
+GIC85565	4266284	4268106	-	hypothetical_protein	Aud_001397
+GIC85566	4268429	4270399	+	hypothetical_protein	Aud_001398
+GIC85567	4271810	4272797	+	hypothetical_protein	Aud_001399
+GIC85568	4273705	4274680	+	hypothetical_protein	Aud_001400
+GIC85569	4274701	4276311	-	hypothetical_protein	Aud_001401
+GIC85570	4276578	4278180	+	hypothetical_protein	Aud_001402
+GIC85571	4278677	4280230	-	hypothetical_protein	Aud_001403
+GIC85572	4281122	4292972	-	nonribosomal_peptide_synthase	Aud_001404
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	GIC85572	32	950	83.8751625488	0.0	
+
+
+
+>>
+
+44. KV878176_0
+Source: Aspergillus tubingensis CBS 134.48 unplaced genomic scaffold ASPTUscaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 944
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJI90722	2197611	2199041	+	hypothetical_protein	ASPTUDRAFT_263262
+OJI90723	2200125	2202714	-	hypothetical_protein	ASPTUDRAFT_37481
+OJI90724	2203027	2204945	+	hypothetical_protein	ASPTUDRAFT_197793
+OJI90725	2205730	2206900	+	hypothetical_protein	ASPTUDRAFT_26238
+OJI90726	2206915	2207376	-	hypothetical_protein	ASPTUDRAFT_263355
+OJI90727	2207703	2209130	+	hypothetical_protein	ASPTUDRAFT_113793
+OJI90728	2209980	2210462	-	hypothetical_protein	ASPTUDRAFT_197796
+OJI90729	2211418	2213884	+	hypothetical_protein	ASPTUDRAFT_113472
+OJI90730	2214854	2216694	+	hypothetical_protein	ASPTUDRAFT_37489
+OJI90731	2217564	2236876	-	hypothetical_protein	ASPTUDRAFT_197799
+OJI90732	2242804	2248149	+	hypothetical_protein	ASPTUDRAFT_139132
+OJI90733	2249355	2253500	-	hypothetical_protein	ASPTUDRAFT_62749
+OJI90734	2256033	2256790	-	hypothetical_protein	ASPTUDRAFT_263962
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	OJI90731	31	944	87.2561768531	0.0	
+
+
+
+>>
+
+45. ACJE01000015_0
+Source: Aspergillus niger ATCC 1015, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 942
+
+Table of genes, locations, strands and annotations of subject cluster:
+EHA20949	165730	166377	+	hypothetical_protein	ASPNIDRAFT_194493
+EHA20950	168918	170385	-	hypothetical_protein	ASPNIDRAFT_194565
+EHA20951	172034	172738	+	hypothetical_protein	ASPNIDRAFT_141763
+EHA20952	173588	174637	-	hypothetical_protein	ASPNIDRAFT_45795
+EHA20953	175966	176229	+	hypothetical_protein	ASPNIDRAFT_127805
+EHA20954	179596	181600	+	hypothetical_protein	ASPNIDRAFT_194162
+EHA20955	183359	188638	-	hypothetical_protein	ASPNIDRAFT_128584
+EHA20956	189156	190423	+	hypothetical_protein	ASPNIDRAFT_57437
+EHA20957	191338	192492	-	hypothetical_protein	ASPNIDRAFT_55143
+EHA20958	193685	195148	+	hypothetical_protein	ASPNIDRAFT_214718
+EHA20959	198620	198841	-	hypothetical_protein	ASPNIDRAFT_194178
+EHA20960	199310	201509	-	copper_amine_oxidase	ASPNIDRAFT_45789
+EHA20961	201930	203451	-	hypothetical_protein	ASPNIDRAFT_45788
+EHA20962	204362	206887	+	hypothetical_protein	ASPNIDRAFT_194584
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217690.1	EHA20955	34	942	76.4629388817	0.0	
+
+
+
+>>
+
+46. CP059858_1
+Source: Aspergillus flavus strain AF13 chromosome 1.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 477
+
+Table of genes, locations, strands and annotations of subject cluster:
+QMW38798	6442012	6443088	-	hypothetical_protein	G4B11_002034
+QMW38799	6445759	6446532	+	hypothetical_protein	G4B11_002035
+QMW38800	6447189	6448617	-	hypothetical_protein	G4B11_002036
+QMW38801	6449342	6449719	-	hypothetical_protein	G4B11_002037
+QMW38802	6450934	6452871	-	hypothetical_protein	G4B11_002038
+QMW38803	6453112	6454099	+	hypothetical_protein	G4B11_002039
+QMW38804	6454338	6455790	-	hypothetical_protein	G4B11_002040
+QMW38805	6455968	6457209	-	hypothetical_protein	G4B11_002041
+QMW38806	6457982	6458943	-	hypothetical_protein	G4B11_002042
+QMW38807	6460637	6461921	+	hypothetical_protein	G4B11_002043
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	QMW38807	65	477	89.4459102902	3e-133	
+
+
+
+>>
+
+47. CP044619_0
+Source: Aspergillus flavus strain NRRL 3357 chromosome 1.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 477
+
+Table of genes, locations, strands and annotations of subject cluster:
+QRD87111	283807	285601	-	putative_oxalate_decarboxylase	F9C07_104
+QRD87112	287891	290088	-	hypothetical_protein	F9C07_2226999
+QRD87113	291167	292020	-	hypothetical_protein	F9C07_107
+QRD87114	292505	293199	+	hypothetical_protein	F9C07_1001900
+QRD87115	294682	294978	+	hypothetical_protein	F9C07_108
+QRD87116	298398	300041	+	hypothetical_protein	F9C07_2227002
+QRD87117	300490	301494	-	hypothetical_protein	F9C07_110
+QRD87118	301870	302776	+	cytochrome_oxidase_c_assembly-domain-containing protein	F9C07_111
+QRD87119	303404	304693	-	3-deoxy-D-arabino-heptulosonate_7-phosphate synthase	F9C07_112
+QRD87120	306060	306324	-	hypothetical_protein	F9C07_113
+QRD87121	306385	307346	+	hypothetical_protein	F9C07_114
+QRD87122	308119	309360	+	putative_3-ketoacyl-CoA_thiolase	F9C07_115
+QRD87123	309538	311158	+	ribosomal_subunit_39S-domain-containing_protein	F9C07_2199077
+QRD87124	311229	312216	-	Rtf2_RING-finger-domain-containing_protein	F9C07_117
+QRD87125	312271	314394	+	protein_kinase_C_substrate	F9C07_2199079
+QRD87126	315662	316039	+	hypothetical_protein	F9C07_2227011
+QRD87127	316926	318353	+	U4/U6_small_nuclear_ribonucleo_protein_PRP4	F9C07_2058570
+QRD87128	319010	319783	-	Alpha/beta_hydrolase_fold-1	F9C07_2278607
+QRD87129	322454	323530	+	hypothetical_protein	F9C07_1003558
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	QRD87119	65	477	89.4459102902	3e-133	
+
+
+
+>>
+
+48. BA000049_1
+Source: Aspergillus oryzae RIB40 DNA, chromosome 1.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 477
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAE55211	6186543	6187619	-	not_annotated	AO090005000097
+BAE55210	6190291	6191064	+	not_annotated	AO090005000096
+BAE55209	6192170	6193147	-	not_annotated	AO090005000095
+BAE55208	6193944	6194407	-	not_annotated	AO090005000094
+BAE55207	6195704	6197641	-	not_annotated	AO090005000093
+BAE55206	6197882	6198869	+	not_annotated	AO090005000092
+BAE55205	6198940	6200560	-	not_annotated	AO090005000091
+BAE55204	6200738	6201979	-	not_annotated	AO090005000090
+BAE55203	6202752	6203336	-	not_annotated	AO090005000089
+BAE55202	6205404	6206688	+	not_annotated	AO090005000086
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	BAE55202	65	477	89.4459102902	3e-133	
+
+
+
+>>
+
+49. AAIH03000072_0
+Source: Aspergillus flavus NRRL3357 Scaffold01, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 477
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAF7627476	258968	260762	-	hypothetical_protein	AFLA_002857
+KAF7627477	261819	263001	-	hypothetical_protein	AFLA_002858
+KAF7627478	263052	265249	-	hypothetical_protein	AFLA_002859
+KAF7627479	266328	267181	-	hypothetical_protein	AFLA_002860
+KAF7627480	267912	268360	+	hypothetical_protein	AFLA_002861
+KAF7627481	273559	274473	+	hypothetical_protein	AFLA_002862
+KAF7627482	274675	275214	+	hypothetical_protein	AFLA_002863
+KAF7627483	275663	276667	-	hypothetical_protein	AFLA_002864
+KAF7627484	277043	277949	+	hypothetical_protein	AFLA_002865
+KAF7627485	278577	279866	-	hypothetical_protein	AFLA_002866
+KAF7627486	281558	282519	+	hypothetical_protein	AFLA_002867
+KAF7627487	283292	284533	+	hypothetical_protein	AFLA_002868
+KAF7627488	284831	286163	+	hypothetical_protein	AFLA_002869
+KAF7627489	286402	287389	-	hypothetical_protein	AFLA_002870
+KAF7627490	287630	289567	+	hypothetical_protein	AFLA_002871
+KAF7627491	290835	291212	+	hypothetical_protein	AFLA_002872
+KAF7627492	292099	293526	+	hypothetical_protein	AFLA_002873
+KAF7627493	294183	294956	-	hypothetical_protein	AFLA_002874
+KAF7627494	297627	298703	+	hypothetical_protein	AFLA_002875
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	KAF7627485	65	477	89.4459102902	3e-133	
+
+
+
+>>
+
+50. KZ825055_1
+Source: Aspergillus piperis CBS 112811 unplaced genomic scaffold BO85scaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 474
+
+Table of genes, locations, strands and annotations of subject cluster:
+RAH62393	2688389	2689441	-	DUF636_domain_protein	BO85DRAFT_133703
+RAH62394	2693580	2695468	-	hypothetical_protein	BO85DRAFT_445815
+RAH62395	2695763	2696878	+	DUF602_domain_protein	BO85DRAFT_134139
+RAH62396	2697214	2698539	-	hypothetical_protein	BO85DRAFT_445817
+RAH62397	2699135	2700376	-	3-ketoacyl-CoA_thiolase	BO85DRAFT_134128
+RAH62398	2701310	2702279	-	hypothetical_protein	BO85DRAFT_435001
+RAH62399	2703217	2704170	+	NAD(P)-binding_protein	BO85DRAFT_134280
+RAH62400	2706628	2707962	+	phospho-2-dehydro-3-deoxyheptonate_aldolase	BO85DRAFT_484405
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	RAH62400	65	474	90.5013192612	2e-132	
+
+
+
+>>
+
+51. AP024435_0
+Source: Aspergillus luchuensis RIB2601 DNA, chromosome 2, nearly complete sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 474
+
+Table of genes, locations, strands and annotations of subject cluster:
+BCS07768	382471	383523	-	hypothetical_protein	ALUC_20138A
+BCS07769	387635	389523	-	hypothetical_protein	ALUC_20139A
+BCS07770	389818	390935	+	hypothetical_protein	ALUC_20140S
+BCS07771	391270	392593	-	hypothetical_protein	ALUC_20141A
+BCS07772	393190	394431	-	hypothetical_protein	ALUC_20142A
+BCS07773	395365	396334	-	hypothetical_protein	ALUC_20143A
+BCS07774	397330	398214	+	hypothetical_protein	ALUC_20144S
+BCS07775	400695	402028	+	3-deoxy-7-phosphoheptulonate_synthase	ARO4
+BCS07776	402868	403788	-	hypothetical_protein	ALUC_20146A
+BCS07777	404312	405425	+	hypothetical_protein	ALUC_20147S
+BCS07778	406080	407729	-	hypothetical_protein	ALUC_20148A
+BCS07779	412689	413100	+	hypothetical_protein	ALUC_20149S
+BCS07780	414304	415572	+	hypothetical_protein	ALUC_20150S
+BCS07781	417702	419751	+	hypothetical_protein	ALUC_20151S
+BCS07782	420287	420619	-	hypothetical_protein	ALUC_20152A
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	BCS07775	65	474	90.5013192612	2e-132	
+
+
+
+>>
+
+52. KV907503_1
+Source: Aspergillus carbonarius ITEM 5010 unplaced genomic scaffold ASPCAscaffold_11, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 473
+
+Table of genes, locations, strands and annotations of subject cluster:
+OOF93771	400955	401587	-	hypothetical_protein	ASPCADRAFT_398166
+OOF93773	402625	403363	+	hypothetical_protein	ASPCADRAFT_7261
+OOF93772	403703	405700	-	hypothetical_protein	ASPCADRAFT_209047
+OOF93774	407644	410403	-	hypothetical_protein	ASPCADRAFT_132120
+OOF93776	414575	416149	+	hypothetical_protein	ASPCADRAFT_398168
+OOF93775	416892	417961	-	hypothetical_protein	ASPCADRAFT_209048
+OOF93777	418426	419335	+	hypothetical_protein	ASPCADRAFT_508292
+OOF93778	420005	421311	-	hypothetical_protein	ASPCADRAFT_209049
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	OOF93778	64	473	90.2374670185	6e-132	
+
+
+
+>>
+
+53. KV907503_0
+Source: Aspergillus carbonarius ITEM 5010 unplaced genomic scaffold ASPCAscaffold_11, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 473
+
+Table of genes, locations, strands and annotations of subject cluster:
+OOF93686	115653	116285	-	hypothetical_protein	ASPCADRAFT_7167
+OOF93688	117323	118061	+	hypothetical_protein	ASPCADRAFT_7168
+OOF93687	118401	120398	-	hypothetical_protein	ASPCADRAFT_172382
+OOF93689	122342	125101	-	hypothetical_protein	ASPCADRAFT_132028
+OOF93690	129273	130847	+	hypothetical_protein	ASPCADRAFT_52199
+OOF93691	131590	132659	-	hypothetical_protein	ASPCADRAFT_7172
+OOF93693	133124	134033	+	hypothetical_protein	ASPCADRAFT_407219
+OOF93692	134703	136009	-	hypothetical_protein	ASPCADRAFT_132032
+OOF93694	138451	139339	-	hypothetical_protein	ASPCADRAFT_132033
+OOF93695	140208	141166	+	hypothetical_protein	ASPCADRAFT_208981
+OOF93696	142009	143250	+	hypothetical_protein	ASPCADRAFT_208982
+OOF93697	143548	144841	+	hypothetical_protein	ASPCADRAFT_208983
+OOF93698	145117	146226	-	hypothetical_protein	ASPCADRAFT_508224
+OOF93699	146481	148393	+	hypothetical_protein	ASPCADRAFT_208984
+OOF93700	151693	152742	+	hypothetical_protein	ASPCADRAFT_172397
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	OOF93692	64	473	90.2374670185	6e-132	
+
+
+
+>>
+
+54. KV878970_1
+Source: Aspergillus aculeatus ATCC 16872 unplaced genomic scaffold ASPACscaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 473
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJK05342	3574340	3575401	-	hypothetical_protein	ASPACDRAFT_20449
+OJK05343	3577834	3578230	-	hypothetical_protein	ASPACDRAFT_74839
+OJK05344	3579635	3581597	-	hypothetical_protein	ASPACDRAFT_110819
+OJK05345	3581911	3583045	+	hypothetical_protein	ASPACDRAFT_20815
+OJK05346	3583317	3584675	-	hypothetical_protein	ASPACDRAFT_21340
+OJK05347	3585023	3586264	-	hypothetical_protein	ASPACDRAFT_74842
+OJK05348	3587156	3588079	-	hypothetical_protein	ASPACDRAFT_110828
+OJK05349	3589246	3589842	+	hypothetical_protein	ASPACDRAFT_74843
+OJK05350	3592124	3593435	+	hypothetical_protein	ASPACDRAFT_21430
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	OJK05350	64	473	90.2374670185	6e-132	
+
+
+
+>>
+
+55. KV878211_0
+Source: Aspergillus wentii DTO 134E9 unplaced genomic scaffold ASPWEscaffold_3, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 472
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJJ36821	1470918	1471553	-	hypothetical_protein	ASPWEDRAFT_26269
+OJJ36822	1472730	1473797	+	hypothetical_protein	ASPWEDRAFT_430380
+OJJ36823	1474085	1476072	-	hypothetical_protein	ASPWEDRAFT_107331
+OJJ36824	1477782	1479155	-	hypothetical_protein	ASPWEDRAFT_429172
+OJJ36825	1480104	1480756	-	hypothetical_protein	ASPWEDRAFT_429260
+OJJ36826	1482483	1484126	+	hypothetical_protein	ASPWEDRAFT_170334
+OJJ36827	1484705	1484914	-	hypothetical_protein	ASPWEDRAFT_38476
+OJJ36828	1485185	1485670	-	hypothetical_protein	ASPWEDRAFT_38477
+OJJ36829	1486094	1486977	+	hypothetical_protein	ASPWEDRAFT_38478
+OJJ36830	1487534	1488559	-	hypothetical_protein	ASPWEDRAFT_170337
+OJJ36831	1488892	1489413	-	hypothetical_protein	ASPWEDRAFT_430573
+OJJ36832	1490046	1491296	+	hypothetical_protein	ASPWEDRAFT_50259
+OJJ36833	1492250	1493491	+	hypothetical_protein	ASPWEDRAFT_38480
+OJJ36834	1493830	1498551	+	hypothetical_protein	ASPWEDRAFT_50261
+OJJ36835	1501842	1502927	+	hypothetical_protein	ASPWEDRAFT_430953
+OJJ36836	1503297	1505456	+	hypothetical_protein	ASPWEDRAFT_170344
+OJJ36837	1508180	1508356	-	hypothetical_protein	ASPWEDRAFT_431440
+OJJ36838	1509429	1511203	-	hypothetical_protein	ASPWEDRAFT_50264
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	OJJ36832	62	472	94.4591029024	1e-131	
+
+
+
+>>
+
+56. AP024419_0
+Source: Aspergillus chevalieri M1 DNA, chromosome 4, nearly complete sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 470
+
+Table of genes, locations, strands and annotations of subject cluster:
+BCR87647	593807	595420	-	hypothetical_protein	ACHE_40211A
+BCR87648	596177	598323	-	hypothetical_protein	ACHE_40212A
+BCR87649	598696	599229	-	hypothetical_protein	ACHE_40213A
+BCR87650	601451	603258	-	hypothetical_protein	ACHE_40214A
+BCR87651	603466	604527	+	hypothetical_protein	ACHE_40215S
+BCR87652	604729	605995	-	hypothetical_protein	ACHE_40216A
+BCR87653	606406	607647	-	hypothetical_protein	ACHE_40217A
+BCR87654	608342	609347	-	hypothetical_protein	ACHE_40218A
+BCR87655	611337	612639	+	3-deoxy-7-phosphoheptulonate_synthase	ARO4
+BCR87656	613298	614138	-	hypothetical_protein	ACHE_40220A
+BCR87657	614575	615536	+	hypothetical_protein	ACHE_40221S
+BCR87658	615835	617478	-	hypothetical_protein	ACHE_40222A
+BCR87659	618900	619241	+	hypothetical_protein	ACHE_40223S
+BCR87660	619705	620051	+	hypothetical_protein	ACHE_40224S
+BCR87661	620716	622047	+	hypothetical_protein	ACHE_40225S
+BCR87662	623653	625529	+	hypothetical_protein	ACHE_40226S
+BCR87663	625670	627054	-	hypothetical_protein	ACHE_40227A
+BCR87664	627801	628448	+	hypothetical_protein	ACHE_40228S
+BCR87665	628617	630048	-	hypothetical_protein	ACHE_40229A
+BCR87666	630447	631154	-	hypothetical_protein	ACHE_40230A
+BCR87667	631895	632584	+	hypothetical_protein	ACHE_40231S
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	BCR87655	63	470	91.8205804749	3e-131	
+
+
+
+>>
+
+57. BLJY01000002_1
+Source: Aspergillus terreus IFO 6365 DNA, contig_0002, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 466
+
+Table of genes, locations, strands and annotations of subject cluster:
+GFF13605	2045465	2046180	+	hypothetical_protein_P875_00053669	ATEIFO6365_0002071600
+GFF13606	2046527	2047968	+	PCI_domain_protein	ATEIFO6365_0002071700
+GFF13607	2048312	2048944	-	uridylate_kinase	ATEIFO6365_0002071800
+GFF13608	2048967	2049245	-	hypothetical_protein_AFLA_131430	ATEIFO6365_0002071900
+GFF13609	2049610	2050861	+	hypothetical_protein	ATEIFO6365_0002072000
+GFF13610	2051210	2053251	-	hypothetical_protein	ATEIFO6365_0002072100
+GFF13611	2054691	2056079	-	lipase	ATEIFO6365_0002072200
+GFF13612	2059394	2061031	+	hexokinase	ATEIFO6365_0002072300
+GFF13613	2061381	2062235	-	hypothetical_protein	ATEIFO6365_0002072400
+GFF13614	2062828	2063722	+	cytochrome_oxidase_c_assembly	ATEIFO6365_0002072500
+GFF13615	2064234	2065525	-	phospho-2-dehydro-3-deoxyheptonate_aldolase	ATEIFO6365_0002072600
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	GFF13615	63	466	93.6675461741	5e-130	
+
+
+
+>>
+
+58. JAAWWR010000009_2
+Source: Aspergillus terreus strain ATCC 20542 scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 461
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAG2412594	3124046	3124511	+	mitochondrial_import_inner_membrane_translocase subunit tim-16	HFD88_010151
+KAG2412595	3125236	3126597	+	hypothetical_protein	HFD88_010152
+KAG2412596	3127294	3129386	-	hypothetical_protein	HFD88_010153
+KAG2412597	3129663	3130700	-	hypothetical_protein	HFD88_010154
+KAG2412598	3132795	3134671	-	hypothetical_protein	HFD88_010155
+KAG2412599	3134871	3135877	+	hypothetical_protein	HFD88_010156
+KAG2412600	3136073	3137373	-	hypothetical_protein	HFD88_010157
+KAG2412601	3137662	3138903	-	3-ketoacyl-CoA_thiolase_B	HFD88_010158
+KAG2412602	3142015	3143305	+	phospho-2-dehydro-3-deoxyheptonate_aldolase	HFD88_010159
+KAG2412603	3143812	3144692	-	hypothetical_protein	HFD88_010160
+KAG2412604	3145260	3146131	+	hypothetical_protein	HFD88_010161
+KAG2412605	3146481	3148118	-	hexokinase	HFD88_010162
+KAG2412606	3151440	3152828	+	hypothetical_protein	HFD88_010163
+KAG2412607	3154293	3156334	+	hypothetical_protein	HFD88_010164
+KAG2412608	3156664	3157940	-	hypothetical_protein	HFD88_010165
+KAG2412609	3158278	3158544	+	hypothetical_protein	HFD88_010166
+KAG2412610	3158561	3159193	+	uridylate_kinase	HFD88_010167
+KAG2412611	3159532	3160973	-	hypothetical_protein	HFD88_010168
+KAG2412612	3161328	3162035	-	hypothetical_protein	HFD88_010169
+KAG2412613	3162552	3163259	+	hypothetical_protein	HFD88_010170
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	KAG2412602	63	461	90.2374670185	1e-128	
+
+
+
+>>
+
+59. MSFN02000002_1
+Source: Aspergillus ochraceoroseus IBT 24754 P175scaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 453
+
+Table of genes, locations, strands and annotations of subject cluster:
+PTU23496	3898370	3898953	-	hypothetical_protein	P175DRAFT_0455370
+PTU23497	3899601	3901134	+	hypothetical_protein	P175DRAFT_0500056
+PTU23498	3901689	3906429	+	hypothetical_protein	P175DRAFT_0431727
+PTU23499	3906984	3909680	+	hypothetical_protein	P175DRAFT_0431794
+PTU23500	3911647	3913896	+	hypothetical_protein	P175DRAFT_0431751
+PTU23501	3914816	3915641	-	hypothetical_protein	P175DRAFT_0491852
+PTU23502	3915922	3917235	-	hypothetical_protein	P175DRAFT_0530622
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	PTU23502	59	453	99.2084432718	6e-126	
+
+
+
+>>
+
+60. BN001308_1
+Source: TPA_asm: Aspergillus nidulans FGSC A4 chromosome VIII.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 449
+
+Table of genes, locations, strands and annotations of subject cluster:
+CBF89645	3739194	3740302	-	SWIB/MDM2_domain_protein_(AFU_orthologue; AFUA_1G02020)	ANIA_00360
+CBF89646	3741200	3743615	+	Eukaryotic_translation_initiation_factor_3	ANIA_00359
+CBF89648	3743780	3744944	-	extracellular_SCP_domain_protein_Pry1,_putative (AFU_orthologue; AFUA_1G02040)	ANIA_10057
+CBF89650	3745505	3748246	-	secretion_pathway_protein_Sls2/Rcy1,_putative (AFU_orthologue; AFUA_1G02050)	ANIA_10061
+CBF89652	3749310	3750601	+	Ubiquinol-cytochrome_c_reductase_(Eurofung)	ANIA_00357
+CBF89654	3751035	3752219	-	conserved_hypothetical_protein	ANIA_00356
+CBF89655	3754354	3757033	+	conserved_hypothetical_protein	ANIA_00355
+CBF89657	3757503	3758792	+	Phe-inhibited_DAHP_synthase_(EC_4.1.2.15)	ANIA_00354
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	CBF89657	58	450	100.0	3e-125	
+
+
+
+>>
+
+61. CH236920_0
+Source: Aspergillus nidulans FGSC A4 chromosome VIII scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 449
+
+Table of genes, locations, strands and annotations of subject cluster:
+EAA65755	1089246	1091203	-	hypothetical_protein	AN0349.2
+EAA65756	1091926	1092491	-	hypothetical_protein	AN0350.2
+EAA65757	1093152	1094532	+	hypothetical_protein	AN0351.2
+EAA65758	1095143	1103138	+	hypothetical_protein	AN0352.2
+EAA65759	1104584	1106863	+	predicted_protein	AN0353.2
+EAA65760	1107687	1108976	-	hypothetical_protein	AN0354.2
+EAA65761	1109446	1112125	-	hypothetical_protein	AN0355.2
+EAA65762	1114260	1115444	+	hypothetical_protein	AN0356.2
+EAA65763	1115878	1117169	-	hypothetical_protein	AN0357.2
+EAA65764	1118233	1122699	+	hypothetical_protein	AN0358.2
+EAA65765	1122864	1125279	-	hypothetical_protein	AN0359.2
+EAA65766	1126177	1127285	+	hypothetical_protein	AN0360.2
+EAA65767	1128114	1132889	+	hypothetical_protein	AN0361.2
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	EAA65760	60	449	93.4036939314	7e-125	
+
+
+
+>>
+
+62. KV878210_2
+Source: Aspergillus wentii DTO 134E9 unplaced genomic scaffold ASPWEscaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 446
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJJ39869	4778474	4779069	-	hypothetical_protein	ASPWEDRAFT_25662
+OJJ39870	4779794	4781157	+	hypothetical_protein	ASPWEDRAFT_104967
+OJJ39871	4781939	4786662	+	hypothetical_protein	ASPWEDRAFT_151359
+OJJ39872	4787255	4789950	+	hypothetical_protein	ASPWEDRAFT_105675
+OJJ39873	4792918	4795119	+	hypothetical_protein	ASPWEDRAFT_103055
+OJJ39874	4796068	4797144	+	hypothetical_protein	ASPWEDRAFT_37741
+OJJ39875	4797331	4798647	-	hypothetical_protein	ASPWEDRAFT_37742
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	OJJ39875	60	446	92.3482849604	5e-124	
+
+
+
+>>
+
+63. JAAWWR010000009_0
+Source: Aspergillus terreus strain ATCC 20542 scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 446
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAG2411967	1439870	1442328	+	hypothetical_protein	HFD88_009523
+KAG2411968	1442773	1443482	-	hypothetical_protein	HFD88_009524
+KAG2411969	1443763	1446678	-	hypothetical_protein	HFD88_009525
+KAG2411970	1447667	1449420	+	hypothetical_protein	HFD88_009526
+KAG2411971	1449872	1451184	+	cytochrome_c1	HFD88_009527
+KAG2411972	1451604	1452770	-	hypothetical_protein	HFD88_009528
+KAG2411973	1454937	1457589	+	hypothetical_protein	HFD88_009529
+KAG2411974	1458380	1459668	+	phospho-2-dehydro-3-deoxyheptonate_aldolase	HFD88_009530
+KAG2411975	1460518	1462959	-	hypothetical_protein	HFD88_009531
+KAG2411976	1465271	1473060	-	glycogen_debranching_enzyme	HFD88_009532
+KAG2411977	1473961	1475342	-	glycerol-3-phosphate_dehydrogenase	HFD88_009533
+KAG2411978	1476207	1476798	+	hypothetical_protein	HFD88_009534
+KAG2411979	1477549	1479470	+	ATP-dependent_Clp_protease_ATP-binding_subunit clpX	HFD88_009535
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	KAG2411974	58	446	98.6807387863	6e-124	
+
+
+
+>>
+
+64. BA000049_0
+Source: Aspergillus oryzae RIB40 DNA, chromosome 1.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 444
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAE55899	4037576	4038704	-	not_annotated	AO090005000893
+BAE55898	4039373	4041798	+	not_annotated	AO090005000892
+BAE55897	4043816	4046608	-	not_annotated	AO090005000891
+BAE55896	4047749	4048386	+	not_annotated	AO090005000890
+BAE55895	4049969	4051275	+	not_annotated	AO090005000888
+BAE55894	4051759	4052958	-	not_annotated	AO090005000887
+BAE55893	4056450	4058903	+	not_annotated	AO090005000886
+BAE55892	4061470	4065156	-	not_annotated	AO090005000885
+BAE55891	4065693	4070437	-	not_annotated	AO090005000884
+BAE55890	4071195	4072783	-	not_annotated	AO090005000883
+BAE55889	4074611	4076525	+	not_annotated	AO090005000882
+BAE55888	4076906	4078646	-	not_annotated	AO090005000881
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	BAE55893	57	444	98.944591029	2e-123	
+
+
+
+>>
+
+65. CP059858_0
+Source: Aspergillus flavus strain AF13 chromosome 1.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 443
+
+Table of genes, locations, strands and annotations of subject cluster:
+QMW38092	4272195	4274620	+	hypothetical_protein	G4B11_001328
+QMW38093	4275008	4275936	-	hypothetical_protein	G4B11_001329
+QMW38094	4276640	4279432	-	hypothetical_protein	G4B11_001330
+QMW38095	4280545	4284099	+	hypothetical_protein	G4B11_001331
+QMW38096	4284583	4285782	-	hypothetical_protein	G4B11_001332
+QMW38097	4290412	4291727	+	hypothetical_protein	G4B11_001333
+QMW38098	4295358	4298006	-	hypothetical_protein	G4B11_001334
+QMW38099	4298697	4303288	-	hypothetical_protein	G4B11_001335
+QMW38100	4303888	4305403	-	hypothetical_protein	G4B11_001336
+QMW38101	4306156	4306742	+	hypothetical_protein	G4B11_001337
+QMW38102	4307462	4309376	+	hypothetical_protein	G4B11_001338
+QMW38103	4309755	4312913	-	hypothetical_protein	G4B11_001339
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	QMW38097	57	443	99.7361477573	4e-123	
+
+
+
+>>
+
+66. CP044619_1
+Source: Aspergillus flavus strain NRRL 3357 chromosome 1.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 443
+
+Table of genes, locations, strands and annotations of subject cluster:
+QRD87929	2458679	2461804	-	ATP-dependent_Clp_protease	F9C07_2058994
+QRD87930	2462421	2464167	+	glycerol-3-phosphate_dehydrogenase_[NAD+]	F9C07_1063411
+QRD87931	2464774	2469518	+	putative_glycogen_debranching_enzyme_Gdb1	F9C07_915
+QRD87932	2470056	2472704	+	hypothetical_protein	F9C07_2279251
+QRD87933	2474337	2474717	+	hypothetical_protein	F9C07_2101812
+QRD87934	2475601	2475836	-	hypothetical_protein	F9C07_2137270
+QRD87935	2476245	2477491	-	phospho-2-dehydro-3-deoxyheptonate_aldolase, phenylalanine-inhibited	F9C07_917
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	QRD87935	59	443	93.6675461741	5e-123	
+
+
+
+>>
+
+67. AAIH03000072_1
+Source: Aspergillus flavus NRRL3357 Scaffold01, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 443
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAF7628337	2431247	2433161	-	hypothetical_protein	AFLA_003697
+KAF7628338	2433881	2434467	-	hypothetical_protein	AFLA_003698
+KAF7628339	2434989	2436735	+	hypothetical_protein	AFLA_003699
+KAF7628340	2437342	2442086	+	hypothetical_protein	AFLA_003700
+KAF7628341	2442624	2445272	+	hypothetical_protein	AFLA_003701
+KAF7628342	2447756	2448403	-	hypothetical_protein	AFLA_003702
+KAF7628343	2448812	2450127	-	hypothetical_protein	AFLA_003703
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	KAF7628343	57	443	99.7361477573	4e-123	
+
+
+
+>>
+
+68. MSZS01000009_0
+Source: Aspergillus novofumigatus IBT 16806 P174scaffold_9, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 442
+
+Table of genes, locations, strands and annotations of subject cluster:
+PKX89768	747356	749231	-	putative_ATP-dependent_Clp_protease	P174DRAFT_464171
+PKX89769	750115	751159	-	hypothetical_protein	P174DRAFT_435127
+PKX89770	751417	752846	+	putative_glycerol_3-phosphate_dehydrogenase	P174DRAFT_445665
+PKX89771	753666	758398	+	putative_amylo-alpha-1,6-glucosidase	P174DRAFT_445667
+PKX89772	758961	761642	+	putative_DUF221_domain_protein	P174DRAFT_424944
+PKX89773	764266	766392	+	F-box_domain_protein	P174DRAFT_378115
+PKX89774	767344	768670	-	Phe-inhibited_DAHP_synthase_AroG	P174DRAFT_445671
+PKX89775	769294	773643	-	hypothetical_protein	P174DRAFT_413837
+PKX89776	775074	776269	+	putative_quinone_oxidoreductase	P174DRAFT_378205
+PKX89777	776626	777794	+	hypothetical_protein	P174DRAFT_464180
+PKX89778	778254	779575	-	putative_cytochrome_C1/Cyt1	P174DRAFT_396540
+PKX89779	780045	781796	-	putative_pachytene_checkpoint_component_Pch2	P174DRAFT_378253
+PKX89780	782783	785575	+	putative_secretion_pathway_protein_Sls2/Rcy1	P174DRAFT_396541
+PKX89781	786293	787142	+	putative_extracellular_SCP_domain_protein_Pry1	P174DRAFT_378265
+PKX89782	787465	789895	-	eukaryotic_translation_initiation_factor_3 subunit B	P174DRAFT_445678
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	PKX89774	59	442	93.6675461741	1e-122	
+
+
+
+>>
+
+69. BHVY01000002_1
+Source: Aspergillus pseudoviridinutans IFM 55266 DNA, scaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 442
+
+Table of genes, locations, strands and annotations of subject cluster:
+GIJ84743	4392559	4393151	-	hypothetical_protein	Asppvi_003594
+GIJ84744	4393880	4395451	+	glycerol-3-phosphate_dehydrogenase	Asppvi_003595
+GIJ84745	4396120	4400853	+	hypothetical_protein	Asppvi_003596
+GIJ84746	4401392	4404072	+	transmembrane_protein_63C	Asppvi_003597
+GIJ84747	4406881	4409007	+	hypothetical_protein	Asppvi_003598
+GIJ84748	4410105	4411423	-	phospho-2-dehydro-3-deoxyheptonate_aldolase amt16	Asppvi_003599
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	GIJ84748	59	442	93.4036939314	7e-123	
+
+
+
+>>
+
+70. KV878125_0
+Source: Aspergillus versicolor CBS 583.65 unplaced genomic scaffold ASPVEscaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 441
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJI96382	1611744	1613681	-	hypothetical_protein	ASPVEDRAFT_23400
+OJI96383	1614414	1614998	-	hypothetical_protein	ASPVEDRAFT_67306
+OJI96384	1615710	1617082	+	hypothetical_protein	ASPVEDRAFT_23402
+OJI96385	1617724	1622463	+	hypothetical_protein	ASPVEDRAFT_122685
+OJI96386	1623063	1625780	+	hypothetical_protein	ASPVEDRAFT_35777
+OJI96387	1627345	1629657	+	hypothetical_protein	ASPVEDRAFT_48604
+OJI96388	1630436	1631734	-	hypothetical_protein	ASPVEDRAFT_67311
+OJI96389	1632181	1636280	-	hypothetical_protein	ASPVEDRAFT_67312
+OJI96390	1637294	1638433	+	hypothetical_protein	ASPVEDRAFT_48606
+OJI96391	1638873	1640171	-	hypothetical_protein	ASPVEDRAFT_122274
+OJI96392	1641297	1644046	+	hypothetical_protein	ASPVEDRAFT_48608
+OJI96393	1644887	1645718	+	hypothetical_protein	ASPVEDRAFT_157883
+OJI96394	1646202	1648635	-	hypothetical_protein	ASPVEDRAFT_121211
+OJI96395	1649307	1650412	+	hypothetical_protein	ASPVEDRAFT_35784
+OJI96396	1651291	1653698	+	hypothetical_protein	ASPVEDRAFT_78170
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	OJI96388	59	441	93.4036939314	1e-122	
+
+
+
+>>
+
+71. BCLY01000016_2
+Source: Aspergillus lentulus DNA, contig: Alt16, strain: IFM 54703, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 441
+
+Table of genes, locations, strands and annotations of subject cluster:
+GAQ11569	4399219	4399811	-	hypothetical_protein	ALT_8890
+GAQ11570	4400564	4401941	+	glycerol-3-phosphate_dehydrogenase_[NAD(+)]	ALT_8891
+GAQ11571	4402755	4407394	+	glycogen_debranching_enzyme	ALT_8892
+GAQ11572	4408058	4410737	+	calcium_permeable_stress-gated_cation_channel_1	ALT_8893
+GAQ11573	4413385	4415511	+	hypothetical_protein	ALT_8894
+GAQ11574	4416481	4422784	-	hypothetical_protein	ALT_8895
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	GAQ11574	58	441	93.6675461741	2e-122	
+
+
+
+>>
+
+72. DS027688_1
+Source: Neosartorya fischeri NRRL 181 1099437636249 genomic scaffold, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 440
+
+Table of genes, locations, strands and annotations of subject cluster:
+EAW23538	4362916	4363508	-	conserved_hypothetical_protein	NFIA_022490
+EAW23539	4364061	4365675	+	glycerol_3-phosphate_dehydrogenase_(GfdA), putative	NFIA_022500
+EAW23540	4366481	4371212	+	amylo-alpha-1,6-glucosidase,_putative	NFIA_022510
+EAW23541	4371785	4374469	+	conserved_hypothetical_protein	NFIA_022520
+EAW23542	4377125	4379242	+	F-box_domain_protein	NFIA_022530
+EAW23543	4380393	4381712	-	Phe-inhibited_DAHP_synthase_AroG	NFIA_022540
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	EAW23543	59	440	93.6675461741	3e-122	
+
+
+
+>>
+
+73. AP024435_1
+Source: Aspergillus luchuensis RIB2601 DNA, chromosome 2, nearly complete sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 440
+
+Table of genes, locations, strands and annotations of subject cluster:
+BCS08302	2215309	2217217	-	hypothetical_protein	ALUC_20672A
+BCS08303	2218307	2218897	-	hypothetical_protein	ALUC_20673A
+BCS08304	2219568	2221388	+	glycerol-3-phosphate_dehydrogenase	GPD1_1
+BCS08305	2222058	2226816	+	hypothetical_protein	ALUC_20675S
+BCS08306	2227368	2230075	+	hypothetical_protein	ALUC_20676S
+BCS08307	2231387	2232729	-	phospho-2-dehydro-3-deoxyheptonate_aldolase Amt16	AMT16
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217689.1	BCS08307	58	440	94.4591029024	3e-122	
+
+
+
+>>
+
+74. VCAU01000004_0
+Source: Aspergillus nanangensis strain MST-FP2251 scaffold_4, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 222
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAF9894441	723344	724658	+	hypothetical_protein	FE257_007944
+KAF9894442	726194	727278	+	hypothetical_protein	FE257_007945
+KAF9894443	728450	729940	-	hypothetical_protein	FE257_007946
+KAF9894444	730956	737077	+	hypothetical_protein	FE257_007947
+KAF9894445	738898	739447	+	hypothetical_protein	FE257_007948
+KAF9894446	740060	741462	-	hypothetical_protein	FE257_007949
+KAF9894447	742732	743757	-	hypothetical_protein	FE257_007950
+KAF9894448	744656	745788	+	hypothetical_protein	FE257_007951
+KAF9894449	746235	747692	+	hypothetical_protein	FE257_007952
+KAF9894450	748474	750418	-	hypothetical_protein	FE257_007953
+KAF9894451	752785	753607	+	hypothetical_protein	FE257_007954
+KAF9894452	754268	754905	-	Golgi_Transport	GOT1
+KAF9894453	755940	756509	-	chromatin-remodeling_complex_subunit_ies6	IES6
+KAF9894454	756908	757329	+	DASH_complex_subunit_dad4	DAD4
+KAF9894455	757822	760330	+	Nuclear_actin-protein_involved_in_chromatin remodeling	ARP5
+KAF9894456	762222	762983	+	hypothetical_protein	FE257_007959
+KAF9894457	763395	768007	-	phosphatidylcholine_and_lysophosphatidylcholine phospholipase	NTE1
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	KAF9894448	54	113	79.2592592593	2e-24	
+XP_001217687.1	KAF9894447	51	109	77.7777777778	3e-23	
+
+
+
+>>
+
+75. BLKG01000053_0
+Source: Aspergillus udagawae IFM 53868 DNA, scaffold_53, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 218
+
+Table of genes, locations, strands and annotations of subject cluster:
+GFF88081	137826	138634	-	hypothetical_protein	IFM53868_05375
+GFF88084	140932	142554	+	hypothetical_protein	IFM53868_05376
+GFF88087	143285	144674	+	mannan_endo-1,6-alpha-mannosidase_DFG5	IFM53868_05377
+GFF88090	144713	145972	-	probable_inactive 1-aminocyclopropane-1-carboxylate synthase-like protein 2	IFM53868_05378
+GFF88093	148824	149456	+	hypothetical_protein	IFM53868_05379
+GFF88096	151232	152674	-	hypothetical_protein	IFM53868_05380
+GFF88099	153156	154301	-	cytochrome_P450	IFM53868_05381
+GFF88102	155531	156560	-	hypothetical_protein	IFM53868_05382
+GFF88105	157531	158660	+	hypothetical_protein	IFM53868_05383
+GFF88108	159169	160596	+	hypothetical_protein	IFM53868_05384
+GFF88111	164044	165172	-	alcohol_dehydrogenase_3	IFM53868_05385
+GFF88114	166053	167580	-	hypothetical_protein	IFM53868_05386
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	GFF88105	54	113	79.2592592593	2e-24	
+XP_001217687.1	GFF88102	50	105	78.5185185185	3e-22	
+
+
+
+>>
+
+76. BLKF01000166_0
+Source: Aspergillus udagawae IFM 51744 DNA, scaffold_166, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 218
+
+Table of genes, locations, strands and annotations of subject cluster:
+GFF59952	453	1800	-	tyrosinase	IFM51744_10116
+GFF59954	3780	5307	+	hypothetical_protein	IFM51744_10117
+GFF59956	6188	7316	+	alcohol_dehydrogenase_3	IFM51744_10118
+GFF59958	10764	12191	-	hypothetical_protein	IFM51744_10119
+GFF59960	12700	13829	-	hypothetical_protein	IFM51744_10120
+GFF59962	14800	15829	+	hypothetical_protein	IFM51744_10121
+GFF59963	17059	18204	+	cytochrome_P450	IFM51744_10122
+GFF59965	18686	20128	+	hypothetical_protein	IFM51744_10123
+GFF59967	21907	22539	-	hypothetical_protein	IFM51744_10124
+GFF59969	25388	26647	+	probable_inactive 1-aminocyclopropane-1-carboxylate synthase-like protein 2	IFM51744_10125
+GFF59972	26686	28075	-	mannan_endo-1,6-alpha-mannosidase_DFG5	IFM51744_10126
+GFF59975	28807	30429	-	hypothetical_protein	IFM51744_10127
+GFF59978	32727	33535	+	hypothetical_protein	IFM51744_10128
+GFF59980	34351	37074	-	dicer-like_protein_2-2	IFM51744_10129
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	GFF59960	54	113	79.2592592593	2e-24	
+XP_001217687.1	GFF59962	50	105	78.5185185185	3e-22	
+
+
+
+>>
+
+77. BLKE01000078_0
+Source: Aspergillus udagawae IFM 5058 DNA, scaffold_78, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 218
+
+Table of genes, locations, strands and annotations of subject cluster:
+GFG10220	442	1789	-	tyrosinase	IFM5058_04815
+GFG10222	3769	5296	+	hypothetical_protein	IFM5058_04816
+GFG10224	6177	7305	+	alcohol_dehydrogenase_3	IFM5058_04817
+GFG10226	10753	12180	-	hypothetical_protein	IFM5058_04818
+GFG10228	12689	13818	-	hypothetical_protein	IFM5058_04819
+GFG10230	14789	15818	+	hypothetical_protein	IFM5058_04820
+GFG10232	17048	18193	+	cytochrome_P450	IFM5058_04821
+GFG10234	18675	20117	+	hypothetical_protein	IFM5058_04822
+GFG10236	21896	22528	-	hypothetical_protein	IFM5058_04823
+GFG10238	25378	26637	+	probable_inactive 1-aminocyclopropane-1-carboxylate synthase-like protein 2	IFM5058_04824
+GFG10240	26676	28065	-	mannan_endo-1,6-alpha-mannosidase_DFG5	IFM5058_04825
+GFG10242	28796	30418	-	hypothetical_protein	IFM5058_04826
+GFG10244	32716	33524	+	hypothetical_protein	IFM5058_04827
+GFG10246	34340	37063	-	dicer-like_protein_2-2	IFM5058_04828
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	GFG10228	54	113	79.2592592593	2e-24	
+XP_001217687.1	GFG10230	50	105	78.5185185185	3e-22	
+
+
+
+>>
+
+78. KK088412_1
+Source: Aspergillus ruber CBS 135680 unplaced genomic scaffold scaffold00002, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 115
+
+Table of genes, locations, strands and annotations of subject cluster:
+EYE99121	991204	996405	-	hypothetical_protein	EURHEDRAFT_374194
+EYE99122	996748	999314	+	putative_TFIIH_complex_helicase_Rad3	EURHEDRAFT_408375
+EYE99123	999605	1004843	-	putative_DNA-directed_RNA_polymerase_I_subunit	EURHEDRAFT_470690
+EYE99124	1005150	1006910	+	putative_U4/U6_small_nuclear_ribonucleo_protein	EURHEDRAFT_408377
+EYE99125	1007115	1009133	-	NAF1-domain-containing_protein	EURHEDRAFT_446424
+EYE99126	1009420	1011359	+	hypothetical_protein	EURHEDRAFT_374199
+EYE99127	1011675	1013349	-	MFS_general_substrate_transporter	EURHEDRAFT_383303
+EYE99128	1013875	1014896	-	hypothetical_protein	EURHEDRAFT_383304
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	EYE99128	54	115	84.4444444444	2e-25	
+
+
+
+>>
+
+79. KV878176_1
+Source: Aspergillus tubingensis CBS 134.48 unplaced genomic scaffold ASPTUscaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 111
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJI91126	3381614	3382300	-	hypothetical_protein	ASPTUDRAFT_63070
+OJI91127	3382965	3384119	+	hypothetical_protein	ASPTUDRAFT_163944
+OJI91128	3385513	3387082	+	hypothetical_protein	ASPTUDRAFT_38034
+OJI91129	3387659	3388996	+	hypothetical_protein	ASPTUDRAFT_72796
+OJI91130	3389303	3395126	-	hypothetical_protein	ASPTUDRAFT_52844
+OJI91131	3398704	3399731	-	hypothetical_protein	ASPTUDRAFT_38037
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	OJI91131	54	112	76.2962962963	2e-24	
+
+
+
+>>
+
+80. KV878125_1
+Source: Aspergillus versicolor CBS 583.65 unplaced genomic scaffold ASPVEscaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 111
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJI96880	2872378	2877632	+	hypothetical_protein	ASPVEDRAFT_158697
+OJI96881	2877933	2879182	+	hypothetical_protein	ASPVEDRAFT_121938
+OJI96882	2880214	2881666	+	hypothetical_protein	ASPVEDRAFT_122546
+OJI96883	2882401	2883567	+	hypothetical_protein	ASPVEDRAFT_121357
+OJI96884	2884000	2886197	-	hypothetical_protein	ASPVEDRAFT_182921
+OJI96885	2887076	2889280	-	hypothetical_protein	ASPVEDRAFT_78634
+OJI96886	2891973	2892943	-	hypothetical_protein	ASPVEDRAFT_23869
+OJI96887	2895842	2896565	-	hypothetical_protein	ASPVEDRAFT_36280
+OJI96888	2897159	2897845	+	hypothetical_protein	ASPVEDRAFT_122252
+OJI96889	2898025	2899028	-	hypothetical_protein	ASPVEDRAFT_120449
+OJI96890	2899597	2900813	+	hypothetical_protein	ASPVEDRAFT_36283
+OJI96891	2901221	2903519	+	hypothetical_protein	ASPVEDRAFT_36284
+OJI96892	2904772	2905231	+	hypothetical_protein	ASPVEDRAFT_36285
+OJI96893	2905666	2907393	-	hypothetical_protein	ASPVEDRAFT_121442
+OJI96894	2907660	2908774	-	hypothetical_protein	ASPVEDRAFT_260312
+OJI96895	2908857	2909562	-	hypothetical_protein	ASPVEDRAFT_260308
+OJI96896	2909726	2911292	-	hypothetical_protein	ASPVEDRAFT_23876
+OJI96897	2911604	2912845	+	hypothetical_protein	ASPVEDRAFT_120021
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	OJI96886	51	112	78.5185185185	4e-24	
+
+
+
+>>
+
+81. BN001308_0
+Source: TPA_asm: Aspergillus nidulans FGSC A4 chromosome VIII.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 111
+
+Table of genes, locations, strands and annotations of subject cluster:
+CBF88903	2603952	2609201	+	RING_zinc_finger_protein,_putative (AFU_orthologue; AFUA_1G13920)	ANIA_09437
+CBF88905	2609469	2610696	+	Leucine_carboxyl_methyltransferase_1_(EC	ANIA_09438
+CBF88907	2611748	2613205	+	SUN_domain_protein_(Adg3),_putative (AFU_orthologue; AFUA_1G13940)	ANIA_00726
+CBF88909	2613769	2615159	+	DUF292_domian_protein_(AFU_orthologue; AFUA_1G13960)	ANIA_00725
+CBF88911	2615493	2617633	-	MFS_transporter,_putative_(AFU_orthologue; AFUA_1G13970)	ANIA_10115
+CBF88912	2618754	2620622	-	conserved_hypothetical_protein	ANIA_10116
+CBF88914	2622681	2623655	-	hypothetical_protein	ANIA_00723
+CBF88916	2626403	2627100	-	AP-2_complex_subunit_sigma	ANIA_00722
+CBF88918	2627734	2628415	+	FlbF_proteinPutative_uncharacterized_protein;	flbE
+CBF88920	2628595	2629595	-	Diphthine_synthase_(EC_2.1.1.98)(Diphthamide	ANIA_00720
+CBF88921	2629869	2631556	+	SAGA-like_transcriptional_regulatory_complex subunit Spt3, putative (AFU_orthologue; AFUA_1G14030)	ANIA_00719
+CBF88923	2631902	2634164	+	Putative_Zn(II)2Cys6_transcription_factor (Eurofung)	ANIA_00718
+CBF88925	2634445	2635852	-	Histidinol-phosphate_aminotransferase (Eurofung)	ANIA_00717
+CBF88927	2636220	2637896	-	conserved_hypothetical_protein	ANIA_00716
+CBF88929	2638200	2640874	+	chromosome_segregation_protein_BIR1,_putative (AFU_orthologue; AFUA_1G14070)	ANIA_00715
+CBF88931	2641119	2641766	-	C2H2_finger_domain_protein,_putative (AFU_orthologue; AFUA_1G14060)	ANIA_00714
+CBF88933	2642503	2643125	+	F-box_domain_protein_(AFU_orthologue; AFUA_1G14050)	ANIA_10117
+CBF88935	2643617	2645218	-	conserved_hypothetical_protein	ANIA_00713
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	CBF88914	51	112	78.5185185185	2e-24	
+
+
+
+>>
+
+82. KV878970_0
+Source: Aspergillus aculeatus ATCC 16872 unplaced genomic scaffold ASPACscaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 111
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJK04690	1388662	1391177	+	hypothetical_protein	ASPACDRAFT_1851656
+OJK04691	1392753	1394316	+	hypothetical_protein	ASPACDRAFT_74267
+OJK04692	1394762	1396136	+	hypothetical_protein	ASPACDRAFT_1884347
+OJK04693	1396477	1398785	-	hypothetical_protein	ASPACDRAFT_109467
+OJK04694	1400754	1403014	-	hypothetical_protein	ASPACDRAFT_1892910
+OJK04695	1405580	1406561	-	hypothetical_protein	ASPACDRAFT_49103
+OJK04696	1411527	1412304	-	hypothetical_protein	ASPACDRAFT_74272
+OJK04697	1412900	1413579	+	hypothetical_protein	ASPACDRAFT_56148
+OJK04698	1413764	1414766	-	hypothetical_protein	ASPACDRAFT_38256
+OJK04699	1415522	1416711	+	hypothetical_protein	ASPACDRAFT_56150
+OJK04700	1417004	1417771	-	hypothetical_protein	ASPACDRAFT_1851664
+OJK04701	1421006	1423759	+	hypothetical_protein	ASPACDRAFT_21355
+OJK04702	1424164	1425603	-	hypothetical_protein	ASPACDRAFT_38260
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	OJK04695	54	111	76.2962962963	7e-24	
+
+
+
+>>
+
+83. JXNT01000005_1
+Source: Aspergillus cristatus strain GZAAS20.1005 Scaffold_Scf_5, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 111
+
+Table of genes, locations, strands and annotations of subject cluster:
+ODM18655	233024	238236	-	hypothetical_protein	SI65_05272
+ODM18656	238574	241150	+	DNA_repair_helicase_rad15	SI65_05273
+ODM18657	241451	246703	-	hypothetical_protein	SI65_05274
+ODM18658	247016	248773	+	hypothetical_protein	SI65_05275
+ODM18659	248985	251015	-	hypothetical_protein	SI65_05276
+ODM18660	251294	253241	+	hypothetical_protein	SI65_05277
+ODM18661	253576	256322	-	hypothetical_protein	SI65_05278
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	ODM18661	54	111	84.4444444444	7e-24	
+
+
+
+>>
+
+84. KK088412_0
+Source: Aspergillus ruber CBS 135680 unplaced genomic scaffold scaffold00002, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 110
+
+Table of genes, locations, strands and annotations of subject cluster:
+EYE99104	958318	958677	+	hypothetical_protein	EURHEDRAFT_399400
+EYE99105	959612	961028	-	histidinol-phosphate_aminotransferase	EURHEDRAFT_446579
+EYE99106	961395	963036	-	mitochondrial_matrix_Mmp37	EURHEDRAFT_408360
+EYE99107	963494	966164	+	hypothetical_protein	EURHEDRAFT_374182
+EYE99108	966435	967079	-	putative_C2H2_finger_domain_protein	EURHEDRAFT_447212
+EYE99109	968050	968749	+	blue_light-inducible_protein_Bli-3	EURHEDRAFT_512405
+EYE99110	969101	970244	-	putative_SAGA-like_transcriptional_regulatory complex subunit Spt3	EURHEDRAFT_383288
+EYE99111	970526	971529	+	Diphthine_synthase	EURHEDRAFT_408364
+EYE99112	971986	972688	+	hypothetical_protein	EURHEDRAFT_383290
+EYE99113	973152	973864	+	putative_AP-2_adaptor_complex_subunit_sigma	EURHEDRAFT_470666
+EYE99114	975500	975850	-	hypothetical_protein	EURHEDRAFT_128489
+EYE99115	976727	977689	+	putative_NAD_dependent_epimerase/dehydratase	EURHEDRAFT_374188
+EYE99116	979704	984294	+	MFS_general_substrate_transporter	EURHEDRAFT_399410
+EYE99117	984918	986247	-	DUF292_domain_protein	EURHEDRAFT_408372
+EYE99118	986847	988299	-	hypothetical_protein	EURHEDRAFT_408373
+EYE99119	989296	989559	+	hypothetical_protein	EURHEDRAFT_447378
+EYE99120	989835	991016	-	leucine_carboxyl_methyltransferase	EURHEDRAFT_447480
+EYE99121	991204	996405	-	hypothetical_protein	EURHEDRAFT_374194
+EYE99122	996748	999314	+	putative_TFIIH_complex_helicase_Rad3	EURHEDRAFT_408375
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	EYE99115	53	110	76.2962962963	1e-23	
+
+
+
+>>
+
+85. JXNT01000005_0
+Source: Aspergillus cristatus strain GZAAS20.1005 Scaffold_Scf_5, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 110
+
+Table of genes, locations, strands and annotations of subject cluster:
+ODM18640	200255	204760	-	hypothetical_protein	SI65_05257
+ODM18641	205353	208056	+	hypothetical_protein	SI65_05258
+ODM18642	208336	208986	-	hypothetical_protein	SI65_05259
+ODM18643	209993	210746	+	hypothetical_protein	SI65_05260
+ODM18644	211015	212160	-	hypothetical_protein	SI65_05261
+ODM18645	212446	213446	+	Diphthine_synthase	SI65_05262
+ODM18646	213922	214623	+	hypothetical_protein	SI65_05263
+ODM18647	215116	215839	+	AP-2_complex_subunit_sigma	SI65_05264
+ODM18648	218711	219622	+	hypothetical_protein	SI65_05265
+ODM18649	221094	223305	+	hypothetical_protein	SI65_05266
+ODM18650	223924	226189	+	hypothetical_protein	SI65_05267
+ODM18651	226826	228128	-	hypothetical_protein	SI65_05268
+ODM18652	228629	230089	-	hypothetical_protein	SI65_05269
+ODM18653	230916	231374	+	hypothetical_protein	SI65_05270
+ODM18654	231656	232843	-	Leucine_carboxyl_methyltransferase_1	SI65_05271
+ODM18655	233024	238236	-	hypothetical_protein	SI65_05272
+ODM18656	238574	241150	+	DNA_repair_helicase_rad15	SI65_05273
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	ODM18648	53	110	76.2962962963	1e-23	
+
+
+
+>>
+
+86. JAAWWR010000007_0
+Source: Aspergillus terreus strain ATCC 20542 contig_7, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 110
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAG2415132	1176898	1178421	-	hypothetical_protein	HFD88_006323
+KAG2415133	1179012	1181654	+	hypothetical_protein	HFD88_006324
+KAG2415134	1181915	1182538	-	hypothetical_protein	HFD88_006325
+KAG2415135	1183253	1183702	+	hypothetical_protein	HFD88_006326
+KAG2415136	1183970	1185716	-	hypothetical_protein	HFD88_006327
+KAG2415137	1186665	1187399	+	hypothetical_protein	HFD88_006328
+KAG2415138	1187658	1189019	-	protein_spt3	HFD88_006329
+KAG2415139	1189342	1190362	+	diphthine_synthase	HFD88_006330
+KAG2415140	1190522	1191185	-	hypothetical_protein	HFD88_006331
+KAG2415141	1191740	1192458	+	AP-2_complex_subunit_sigma	HFD88_006332
+KAG2415142	1195878	1196918	+	hypothetical_protein	HFD88_006333
+KAG2415143	1199215	1201386	+	hypothetical_protein	HFD88_006334
+KAG2415144	1202301	1204485	+	hypothetical_protein	HFD88_006335
+KAG2415145	1204868	1206054	-	hypothetical_protein	HFD88_006336
+KAG2415146	1206357	1207820	-	hypothetical_protein	HFD88_006337
+KAG2415147	1208855	1215502	-	hypothetical_protein	HFD88_006338
+KAG2415148	1215864	1218353	+	DNA_repair_helicase_RAD3	HFD88_006339
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	KAG2415142	53	110	76.2962962963	9e-24	
+
+
+
+>>
+
+87. QQZZ01000032_1
+Source: Aspergillus flavus strain CA14 contig_3, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 108
+
+Table of genes, locations, strands and annotations of subject cluster:
+RMZ47424	564913	566837	+	O-methylsterigmatocystin_oxidoreductase	CA14_001920
+RMZ47422	567666	568559	+	lysosomal_L-cystine_transporter	CA14_001921
+RMZ47426	569172	569631	-	hypothetical_protein	CA14_001922
+RMZ47425	571687	572931	+	DUF292_domain_protein	CA14_001923
+RMZ47197	573323	575529	-	MFS_transporter	CA14_001924
+RMZ46855	576705	578944	-	hypothetical_protein	CA14_001925
+RMZ47199	581374	582348	-	NAD_dependent_epimerase/dehydratase	CA14_001926
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RMZ47199	52	108	76.2962962963	3e-23	
+
+
+
+>>
+
+88. NWUH02000291_0
+Source: Aspergillus flavus strain NRRL 118543 contig_12, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 108
+
+Table of genes, locations, strands and annotations of subject cluster:
+RAQ56632	324488	325705	-	hypothetical_protein	COH20_005494
+RAQ56712	326196	326523	+	hypothetical_protein	COH20_005495
+RAQ56710	326644	327103	-	hypothetical_protein	COH20_005496
+RAQ56711	329676	330314	-	hypothetical_protein	COH20_005497
+RAQ56789	331715	332230	-	hypothetical_protein	COH20_005498
+RAQ56790	333079	333904	+	protein_bli-3	COH20_005499
+RAQ56667	334217	335742	-	protein_SPT3	COH20_005500
+RAQ56668	336047	337035	+	diphthine_synthase	COH20_005501
+RAQ56669	337184	337843	-	developmental_regulator_FlbE	COH20_005502
+RAQ56670	338417	339144	+	AP-2_complex_subunit_sigma	COH20_005503
+RAQ56663	342181	343155	+	NAD_dependent_epimerase/dehydratase	COH20_005504
+RAQ56664	345605	347823	+	hypothetical_protein	COH20_005505
+RAQ56665	349007	351213	+	MFS_transporter	COH20_005506
+RAQ56666	351606	356549	-	DUF292_domain_protein	COH20_005507
+RAQ56671	357377	359302	-	O-methylsterigmatocystin_oxidoreductase	COH20_005508
+RAQ56672	360764	363033	+	fungal_specific_transcription_factor	COH20_005509
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RAQ56663	52	108	76.2962962963	3e-23	
+
+
+
+>>
+
+89. MSFN02000002_0
+Source: Aspergillus ochraceoroseus IBT 24754 P175scaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 108
+
+Table of genes, locations, strands and annotations of subject cluster:
+PTU23047	2648159	2649565	-	hypothetical_protein	P175DRAFT_0454321
+PTU23048	2650140	2651781	-	hypothetical_protein	P175DRAFT_0454323
+PTU23049	2652187	2654841	+	hypothetical_protein	P175DRAFT_0454326
+PTU23050	2655168	2655818	-	hypothetical_protein	P175DRAFT_0499606
+PTU23051	2656666	2657258	+	hypothetical_protein	P175DRAFT_0431697
+PTU23052	2658010	2658282	+	hypothetical_protein	P175DRAFT_0155890
+PTU23053	2658485	2658968	-	hypothetical_protein	P175DRAFT_0499609
+PTU23054	2659641	2660953	-	hypothetical_protein	P175DRAFT_0522124
+PTU23055	2661573	2662584	+	hypothetical_protein	P175DRAFT_0507799
+PTU23056	2662774	2663463	-	hypothetical_protein	P175DRAFT_0499612
+PTU23057	2664003	2664765	+	hypothetical_protein	P175DRAFT_0474885
+PTU23058	2667976	2669019	+	hypothetical_protein	P175DRAFT_0515022
+PTU23059	2671082	2678618	+	hypothetical_protein	P175DRAFT_0507803
+PTU23060	2679055	2680456	-	hypothetical_protein	P175DRAFT_0499618
+PTU23061	2680930	2682482	-	hypothetical_protein	P175DRAFT_0491465
+PTU23062	2683509	2684762	-	hypothetical_protein	P175DRAFT_0491466
+PTU23063	2685175	2690437	-	hypothetical_protein	P175DRAFT_0499621
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	PTU23058	50	108	78.5185185185	6e-23	
+
+
+
+>>
+
+90. ML743552_0
+Source: Aspergillus pseudotamarii strain CBS 117625 unplaced genomic scaffold BDV38scaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 108
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAE8143352	718765	720030	+	S-adenosyl-L-methionine-dependent methyltransferase	BDV38DRAFT_233520
+KAE8143353	720092	720406	+	hypothetical_protein	BDV38DRAFT_66324
+KAE8143354	721161	722687	+	hypothetical_protein	BDV38DRAFT_233523
+KAE8143355	728728	729522	+	hypothetical_protein	BDV38DRAFT_66340
+KAE8143356	729831	731361	-	putative_SAGA-like_transcriptional_regulatory complex subunit Spt3	BDV38DRAFT_66344
+KAE8143357	731669	732657	+	tetrapyrrole_methylase	BDV38DRAFT_66347
+KAE8143358	732806	733465	-	hypothetical_protein	BDV38DRAFT_66362
+KAE8143359	734029	734756	+	AP-2_complex_subunit_sigma	BDV38DRAFT_233535
+KAE8143360	737846	738821	+	P-loop_containing_nucleoside_triphosphate hydrolase protein	BDV38DRAFT_66391
+KAE8143361	741385	747063	+	MFS_general_substrate_transporter	BDV38DRAFT_267304
+KAE8143362	747486	748733	-	regulator_of_Vps4_activity_in_the_MVB pathway-domain-containing protein	BDV38DRAFT_233540
+KAE8143363	750909	751964	-	putative_L-cystine_transporter	BDV38DRAFT_267305
+KAE8143364	753628	754053	+	antifungal_protein-domain-containing_protein	BDV38DRAFT_277390
+KAE8143365	754401	754565	+	hypothetical_protein	BDV38DRAFT_233541
+KAE8143366	754792	755856	-	hypothetical_protein	BDV38DRAFT_233542
+KAE8143367	757090	759015	-	cytochrome_P450	BDV38DRAFT_233546
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	KAE8143360	52	108	76.2962962963	3e-23	
+
+
+
+>>
+
+91. MKZY01000003_1
+Source: Aspergillus oryzae strain BCC7051 OAory_C02, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 108
+
+Table of genes, locations, strands and annotations of subject cluster:
+OOO11206	1213501	1215425	+	cytochrome_P450	OAory_01076760
+OOO11207	1216254	1221196	+	protein_of_unknown_function_DUF292,_eukaryotic	OAory_01076770
+OOO11208	1221589	1223795	-	major_facilitator_superfamily_MFS_1	OAory_01076780
+OOO11209	1224973	1227191	-	hypothetical_protein	OAory_01076790
+OOO11210	1229641	1230615	-	hypothetical_protein	OAory_01076800
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	OOO11210	52	108	76.2962962963	3e-23	
+
+
+
+>>
+
+92. CP059869_1
+Source: Aspergillus flavus NRRL3357 chromosome 4.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 108
+
+Table of genes, locations, strands and annotations of subject cluster:
+QMW30911	1215958	1217882	+	hypothetical_protein	G4B84_006292
+QMW30912	1218711	1223979	+	hypothetical_protein	G4B84_006293
+QMW30913	1224372	1226578	-	hypothetical_protein	G4B84_006294
+QMW30914	1227748	1229966	-	hypothetical_protein	G4B84_006295
+QMW30915	1232416	1233390	-	hypothetical_protein	G4B84_006296
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	QMW30915	52	108	76.2962962963	3e-23	
+
+
+
+>>
+
+93. CP059861_1
+Source: Aspergillus flavus strain AF13 chromosome 4.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 108
+
+Table of genes, locations, strands and annotations of subject cluster:
+QMW42962	1192650	1194938	-	hypothetical_protein	G4B11_006332
+QMW42963	1196617	1198306	+	hypothetical_protein	G4B11_006333
+QMW42964	1199134	1204079	+	hypothetical_protein	G4B11_006334
+QMW42965	1204472	1206678	-	hypothetical_protein	G4B11_006335
+QMW42966	1207862	1210080	-	hypothetical_protein	G4B11_006336
+QMW42967	1212530	1213504	-	hypothetical_protein	G4B11_006337
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	QMW42967	52	108	76.2962962963	3e-23	
+
+
+
+>>
+
+94. CP044618_1
+Source: Aspergillus flavus strain NRRL 3357 chromosome 4.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 108
+
+Table of genes, locations, strands and annotations of subject cluster:
+QRD89818	1216013	1217937	+	putative_cytochrome_P450_oxidoreductase OrdA-like protein	F9C07_2283211
+QRD89819	1218766	1219662	+	lysosomal_L-cystine_transporter	F9C07_2156183
+QRD89820	1220275	1221058	-	hypothetical_protein	F9C07_2106208
+QRD89821	1222790	1224034	+	DUF292_domain_protein	F9C07_2283213
+QRD89822	1224427	1229982	-	ASST-domain-containing_protein	F9C07_2069252
+QRD89823	1232471	1233445	-	putative_NAD_dependent_epimerase/dehydratase	F9C07_3621
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	QRD89823	52	108	76.2962962963	3e-23	
+
+
+
+>>
+
+95. AAIH03000093_1
+Source: Aspergillus flavus NRRL3357 Scaffold03, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 108
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAF7625313	1196667	1199144	-	hypothetical_protein	AFLA_002184
+KAF7625314	1196856	1199144	-	hypothetical_protein	AFLA_002184
+KAF7625315	1200588	1202512	+	hypothetical_protein	AFLA_002185
+KAF7625316	1203287	1203937	+	hypothetical_protein	AFLA_002186
+KAF7625317	1204256	1204981	-	hypothetical_protein	AFLA_002187
+KAF7625318	1206766	1208010	+	hypothetical_protein	AFLA_002188
+KAF7625319	1208403	1210609	-	hypothetical_protein	AFLA_002189
+KAF7625320	1211779	1214018	-	hypothetical_protein	AFLA_002190
+KAF7625321	1215082	1215503	+	hypothetical_protein	AFLA_002191
+KAF7625322	1216447	1217421	-	hypothetical_protein	AFLA_002192
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	KAF7625322	52	108	76.2962962963	3e-23	
+
+
+
+>>
+
+96. DS027688_0
+Source: Neosartorya fischeri NRRL 181 1099437636249 genomic scaffold, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 107
+
+Table of genes, locations, strands and annotations of subject cluster:
+EAW22452	1186497	1189319	+	chromosome_segregation_protein_BIR1,_putative	NFIA_011400
+EAW22453	1189599	1190255	-	C2H2_finger_domain_protein,_putative	NFIA_011410
+EAW22454	1190938	1191414	+	F-box_domain_protein	NFIA_011420
+EAW22455	1192849	1193528	+	blue_light-inducible_protein_Bli-3	NFIA_011430
+EAW22456	1193910	1195555	-	SAGA-like_transcriptional_regulatory_complex subunit Spt3, putative	NFIA_011440
+EAW22457	1195872	1196845	+	diphthine_synthase,_putative	NFIA_011450
+EAW22458	1197378	1198046	+	conserved_hypothetical_protein	NFIA_011460
+EAW22459	1198490	1199221	+	clathrin_coat_assembly_protein_ap17	NFIA_011470
+EAW22460	1202338	1203369	+	conserved_hypothetical_protein	NFIA_011480
+EAW22461	1205380	1207619	+	conserved_hypothetical_protein	NFIA_011490
+EAW22462	1209061	1211293	+	MFS_transporter,_putative	NFIA_011500
+EAW22463	1211795	1213192	-	conserved_hypothetical_protein	NFIA_011510
+EAW22464	1214267	1215182	+	short-chain_oxidoreductase,_putative	NFIA_011520
+EAW22465	1215902	1217441	-	SUN_domain_protein_(Adg3),_putative	NFIA_011530
+EAW22466	1218697	1219957	-	Leucine_carboxyl_methyltransferase_superfamily	NFIA_011540
+EAW22467	1220253	1225518	-	RING_zinc_finger_protein,_putative	NFIA_011550
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	EAW22460	52	107	76.2962962963	1e-22	
+
+
+
+>>
+
+97. BLJY01000002_0
+Source: Aspergillus terreus IFO 6365 DNA, contig_0002, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 107
+
+Table of genes, locations, strands and annotations of subject cluster:
+GFF12915	77424	79013	+	o-methyltransferase	ATEIFO6365_0002002500
+GFF12916	79696	84449	+	ABC_transporter	ATEIFO6365_0002002600
+GFF12917	84863	86095	+	phosphonoacetate_hydrolase	ATEIFO6365_0002002700
+GFF12918	88176	89086	+	thiosulfate_sulfurtransferase	ATEIFO6365_0002002800
+GFF12919	89148	90866	-	L-amino_acid_oxidase_LaoA	ATEIFO6365_0002002900
+GFF12920	91497	93197	-	phosphate-repressible_phosphate_permease	ATEIFO6365_0002003000
+GFF12921	94898	95515	-	hypothetical_protein	ATEIFO6365_0002003100
+GFF12922	96085	97136	+	NAD_dependent_epimerase/dehydratase	ATEIFO6365_0002003200
+GFF12923	97546	98287	+	UPF0311-domain-containing_protein	ATEIFO6365_0002003300
+GFF12924	98636	100157	-	methyltransferase	ATEIFO6365_0002003400
+GFF12925	101575	106307	+	WD40_repeat-like_protein	ATEIFO6365_0002003500
+GFF12926	107368	108664	-	WLM-domain-containing_protein	ATEIFO6365_0002003600
+GFF12927	109417	110986	+	DUF1776-domain-containing_protein	ATEIFO6365_0002003700
+GFF12928	111145	112017	-	hypothetical_protein	ATEIFO6365_0002003800
+GFF12929	113689	115992	+	cell_cycle_inhibitor_Nif1	ATEIFO6365_0002003900
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	GFF12922	50	107	77.7777777778	1e-22	
+
+
+
+>>
+
+98. BHVY01000002_0
+Source: Aspergillus pseudoviridinutans IFM 55266 DNA, scaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 107
+
+Table of genes, locations, strands and annotations of subject cluster:
+GIJ83626	1133188	1136019	+	hypothetical_protein	Asppvi_002456
+GIJ83627	1136297	1136953	-	hypothetical_protein	Asppvi_002457
+GIJ83628	1139616	1140374	+	hypothetical_protein	Asppvi_002458
+GIJ83629	1140685	1142399	-	transcription_initiation_protein_spt3	Asppvi_002459
+GIJ83630	1142724	1143697	+	diphthine_synthase	Asppvi_002460
+GIJ83631	1144226	1144925	+	hypothetical_protein	Asppvi_002461
+GIJ83632	1145355	1146086	+	AP-2_complex_subunit_sigma	Asppvi_002462
+GIJ83633	1149193	1150220	+	hypothetical_protein	Asppvi_002463
+GIJ83634	1152898	1154571	+	hypothetical_protein	Asppvi_002464
+GIJ83635	1156005	1158230	+	hypothetical_protein	Asppvi_002465
+GIJ83636	1158722	1160112	-	hypothetical_protein	Asppvi_002466
+GIJ83637	1161049	1161964	+	hypothetical_protein	Asppvi_002467
+GIJ83638	1162672	1164204	-	hypothetical_protein	Asppvi_002468
+GIJ83639	1165489	1172293	-	hypothetical_protein	Asppvi_002469
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	GIJ83633	52	107	76.2962962963	1e-22	
+
+
+
+>>
+
+99. BCLY01000016_0
+Source: Aspergillus lentulus DNA, contig: Alt16, strain: IFM 54703, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 107
+
+Table of genes, locations, strands and annotations of subject cluster:
+GAQ10548	1199114	1201911	+	hypothetical_protein	ALT_7869
+GAQ10549	1202193	1202849	-	U4/U6.U5_small_nuclear_ribonucleoprotein component snu23	ALT_7870
+GAQ10550	1205443	1206210	+	protein_bli-3	ALT_7871
+GAQ10551	1206513	1208156	-	SAGA_complex_subunit_spt3	ALT_7872
+GAQ10552	1208482	1211814	+	diphthine_methyl_ester_synthase	ALT_7873
+GAQ10553	1214863	1215889	+	hypothetical_protein	ALT_7874
+GAQ10554	1218495	1223848	+	hypothetical_protein	ALT_7875
+GAQ10555	1224352	1225744	-	hypothetical_protein	ALT_7876
+GAQ10556	1226641	1227556	+	uncharacterized_oxidoreductase_YusZ	ALT_7877
+GAQ10557	1228294	1229827	-	uncharacterized_protein_YMR244W	ALT_7878
+GAQ10558	1231120	1237937	-	hypothetical_protein	ALT_7879
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	GAQ10553	52	107	76.2962962963	1e-22	
+
+
+
+>>
+
+100. BBXM02000006_0
+Source: Aspergillus udagawae IFM 46973 DNA, scaffold_6, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 107
+
+Table of genes, locations, strands and annotations of subject cluster:
+GIC91710	1137894	1140706	+	hypothetical_protein	Aud_008164
+GIC91711	1140985	1141638	-	hypothetical_protein	Aud_008165
+GIC91712	1144172	1144930	+	hypothetical_protein	Aud_008166
+GIC91713	1145244	1146953	-	transcription_initiation_protein_spt3	Aud_008167
+GIC91714	1147285	1148258	+	diphthine_synthase	Aud_008168
+GIC91715	1148788	1149408	+	hypothetical_protein	Aud_008169
+GIC91716	1149915	1150646	+	AP-2_complex_subunit_sigma	Aud_008170
+GIC91717	1153688	1154717	+	hypothetical_protein	Aud_008171
+GIC91718	1156820	1159059	+	hypothetical_protein	Aud_008172
+GIC91719	1160527	1162760	+	hypothetical_protein	Aud_008173
+GIC91720	1163271	1164660	-	hypothetical_protein	Aud_008174
+GIC91721	1165593	1166510	+	hypothetical_protein	Aud_008175
+GIC91722	1167201	1168726	-	hypothetical_protein	Aud_008176
+GIC91723	1170038	1176842	-	hypothetical_protein	Aud_008177
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	GIC91717	52	107	76.2962962963	1e-22	
+
+
+
+>>
+
+101. KZ825105_1
+Source: Aspergillus violaceofuscus CBS 115571 unplaced genomic scaffold BO99scaffold_5, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 105
+
+Table of genes, locations, strands and annotations of subject cluster:
+PYI23456	164981	165882	-	2-hydroxychromene-2-carboxylate_isomerase	BO99DRAFT_478913
+PYI23457	169169	170424	+	pectinesterase	BO99DRAFT_351200
+PYI23458	170642	170968	-	hypothetical_protein	BO99DRAFT_409062
+PYI23459	172566	174688	-	monooxygenase	BO99DRAFT_323255
+PYI23460	175918	176253	+	hypothetical_protein	BO99DRAFT_398990
+PYI23461	176726	177740	+	C-4_methylsterol_oxidase	BO99DRAFT_180015
+PYI23462	178407	180212	-	protein_EPD1_precursor	BO99DRAFT_180057
+PYI23463	180581	181075	-	hypothetical_protein	BO99DRAFT_179994
+PYI23464	181239	181683	-	hypothetical_protein	BO99DRAFT_179998
+PYI23465	182442	182798	+	hypothetical_protein	BO99DRAFT_180188
+PYI23466	184229	185372	-	NAD_dependent_epimerase/dehydratase	BO99DRAFT_462034
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	PYI23466	46	105	85.1851851852	5e-22	
+
+
+
+>>
+
+102. CH236920_1
+Source: Aspergillus nidulans FGSC A4 chromosome VIII scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 103
+
+Table of genes, locations, strands and annotations of subject cluster:
+EAA65191	2228298	2229143	+	hypothetical_protein	AN0714.2
+EAA65192	2229388	2232062	-	hypothetical_protein	AN0715.2
+EAA65193	2232366	2234042	+	hypothetical_protein	AN0716.2
+EAA65194	2234410	2235817	+	hypothetical_protein	AN0717.2
+EAA65195	2236098	2238341	-	predicted_protein	AN0718.2
+EAA65196	2238706	2240393	-	hypothetical_protein	AN0719.2
+EAA65197	2240667	2241667	+	hypothetical_protein	AN0720.2
+EAA65198	2241847	2242528	-	hypothetical_protein	AN0721.2
+EAA65199	2243162	2243859	+	conserved_hypothetical_protein	AN0722.2
+EAA65200	2246607	2247581	+	hypothetical_protein	AN0723.2
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	EAA65200	48	103	77.037037037	2e-21	
+
+
+
+>>
+
+103. KV878211_1
+Source: Aspergillus wentii DTO 134E9 unplaced genomic scaffold ASPWEscaffold_3, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 98
+
+Table of genes, locations, strands and annotations of subject cluster:
+OJJ37276	2576815	2578523	-	hypothetical_protein	ASPWEDRAFT_170761
+OJJ37277	2578957	2580603	+	hypothetical_protein	ASPWEDRAFT_182166
+OJJ37278	2581517	2583479	-	hypothetical_protein	ASPWEDRAFT_170763
+OJJ37279	2584333	2585626	-	hypothetical_protein	ASPWEDRAFT_58860
+OJJ37280	2585991	2587166	+	hypothetical_protein	ASPWEDRAFT_38958
+OJJ37281	2587904	2589246	+	hypothetical_protein	ASPWEDRAFT_153182
+OJJ37282	2590053	2593639	-	hypothetical_protein	ASPWEDRAFT_26685
+OJJ37283	2595333	2595965	+	hypothetical_protein	ASPWEDRAFT_38965
+OJJ37284	2596219	2597294	-	hypothetical_protein	ASPWEDRAFT_738429
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	OJJ37284	46	98	82.962962963	4e-20	
+
+
+
+>>
+
+104. AP024419_1
+Source: Aspergillus chevalieri M1 DNA, chromosome 4, nearly complete sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 98
+
+Table of genes, locations, strands and annotations of subject cluster:
+BCR88551	3091119	3092304	+	hypothetical_protein	ACHE_41115S
+BCR88552	3092529	3094966	-	hypothetical_protein	ACHE_41116A
+BCR88553	3095802	3102990	-	type_I_iterative_PKS	ACHE_41117A
+BCR88554	3104506	3105773	+	hypothetical_protein	ACHE_41118S
+BCR88555	3106000	3107641	+	hypothetical_protein	ACHE_41119S
+BCR88556	3107718	3109681	-	hypothetical_protein	ACHE_41120A
+BCR88557	3110666	3111529	+	hypothetical_protein	ACHE_41121S
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	BCR88557	48	98	79.2592592593	5e-20	
+
+
+
+>>
+
+105. MSZS01000009_1
+Source: Aspergillus novofumigatus IBT 16806 P174scaffold_9, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 97
+
+Table of genes, locations, strands and annotations of subject cluster:
+PKX89893	1056385	1057911	-	hypothetical_protein	P174DRAFT_454861
+PKX89894	1059565	1059879	-	hypothetical_protein	P174DRAFT_378162
+PKX89895	1060525	1062476	-	Dyp-type_peroxidase	P174DRAFT_378018
+PKX89896	1063966	1066281	+	putative_galactose_oxidase	P174DRAFT_378241
+PKX89897	1066917	1068241	+	monocarboxylate_permease-like_protein,_mch4	P174DRAFT_425061
+PKX89898	1075716	1076746	+	hypothetical_protein	P174DRAFT_464290
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	PKX89898	49	97	77.7777777778	1e-19	
+
+
+
+>>
+
+106. NWUH02000291_1
+Source: Aspergillus flavus strain NRRL 118543 contig_12, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 91
+
+Table of genes, locations, strands and annotations of subject cluster:
+RAQ56569	681096	682052	-	hypothetical_protein	COH20_005622
+RAQ56568	682303	683283	+	hscarg_dehydrogenase	COH20_005623
+RAQ56571	683424	684466	-	oxidoreductase	COH20_005624
+RAQ56570	684915	686330	-	DUF895_domain_membrane_protein	COH20_005625
+RAQ56573	688415	689445	+	hypothetical_protein	COH20_005626
+RAQ56572	692287	692805	+	phenol_acid_carboxylase	COH20_005627
+RAQ56575	693278	694640	-	hypothetical_protein	COH20_005628
+RAQ56574	695256	695645	-	hypothetical_protein	COH20_005629
+RAQ56740	697016	698380	-	hypothetical_protein	COH20_005630
+RAQ56741	700531	701546	-	NAD_dependent_epimerase/dehydratase	COH20_005631
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RAQ56741	45	91	74.8148148148	8e-18	
+
+
+
+>>
+
+107. MKZY01000003_0
+Source: Aspergillus oryzae strain BCC7051 OAory_C02, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 91
+
+Table of genes, locations, strands and annotations of subject cluster:
+OOO11087	829598	832433	+	hypothetical_protein	OAory_01075570
+OOO11088	832707	836623	-	PEBP_family_protein	OAory_01075580
+OOO11089	838287	842982	+	ABC-2_type_transporter	OAory_01075590
+OOO11090	845678	847063	+	hypothetical_protein	OAory_01075600
+OOO11091	847586	848781	-	carboxyvinyl-carboxyphosphonate phosphorylmutase	OAory_01075610
+OOO11092	849162	855205	+	major_facilitator_superfamily_MFS_1	OAory_01075620
+OOO11093	857358	858392	+	FAD_linked_oxidase_domain-containing_protein	OAory_01075630
+OOO11094	858427	859216	+	Berberine/berberine_domain_protein	OAory_01075640
+OOO11095	860087	860476	+	hypothetical_protein	OAory_01075650
+OOO11096	861202	861699	-	Phenolic_acid_decarboxylase	OAory_01075660
+OOO11097	864583	865613	-	hypothetical_protein	OAory_01075670
+OOO11098	867429	869111	+	major_facilitator_superfamily_MFS_1	OAory_01075680
+OOO11099	869560	870602	+	short-chain_dehydrogenase/reductase_SDR	OAory_01075690
+OOO11100	870743	871723	-	hypothetical_protein	OAory_01075700
+OOO11101	874716	875189	-	Fructosamine/Ketosamine-3-kinase	OAory_01075710
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	OOO11092	45	91	73.3333333333	5e-18	
+
+
+
+>>
+
+108. CP059861_0
+Source: Aspergillus flavus strain AF13 chromosome 4.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 91
+
+Table of genes, locations, strands and annotations of subject cluster:
+QMW42836	835788	840531	+	hypothetical_protein	G4B11_006206
+QMW42837	843230	844615	+	hypothetical_protein	G4B11_006207
+QMW42838	845138	846333	-	hypothetical_protein	G4B11_006208
+QMW42839	846714	848481	+	hypothetical_protein	G4B11_006209
+QMW42840	849193	851128	+	hypothetical_protein	G4B11_006210
+QMW42841	851713	852755	+	hypothetical_protein	G4B11_006211
+QMW42842	854906	856270	+	hypothetical_protein	G4B11_006212
+QMW42843	857641	858030	+	hypothetical_protein	G4B11_006213
+QMW42844	858634	860008	+	hypothetical_protein	G4B11_006214
+QMW42845	860481	860999	-	hypothetical_protein	G4B11_006215
+QMW42846	863873	864867	-	hypothetical_protein	G4B11_006216
+QMW42847	866951	868366	+	hypothetical_protein	G4B11_006217
+QMW42848	868799	869841	+	hypothetical_protein	G4B11_006218
+QMW42849	869982	870962	-	hypothetical_protein	G4B11_006219
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	QMW42841	45	91	74.8148148148	7e-18	
+
+
+
+>>
+
+109. QQZZ01000032_0
+Source: Aspergillus flavus strain CA14 contig_3, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 90
+
+Table of genes, locations, strands and annotations of subject cluster:
+RMZ47341	203093	207788	+	multidrug_resistance_protein_CDR1	CA14_001787
+RMZ47344	210484	211869	+	C2H2_finger_domain_protein	CA14_001788
+RMZ47343	212263	213587	-	isocitrate_lyase/malate_synthase	CA14_001789
+RMZ47018	213969	218382	+	putative_C6_transcription_factor_Aro80	CA14_001790
+RMZ47019	218994	220009	+	NAD_dependent_epimerase/dehydratase	CA14_001791
+RMZ47016	222120	223154	+	hypothetical_protein	CA14_001792
+RMZ47017	224856	225245	+	hypothetical_protein	CA14_001793
+RMZ47014	225852	227214	+	hypothetical_protein	CA14_001794
+RMZ47015	227687	228205	-	phenol_acid_carboxylase	CA14_001795
+RMZ47012	231020	232050	-	hypothetical_protein	CA14_001796
+RMZ47013	233867	235549	+	DUF895_domain_membrane_protein	CA14_001797
+RMZ47020	235998	237040	+	oxidoreductase	CA14_001798
+RMZ47021	237181	238161	-	hscarg_dehydrogenase	CA14_001799
+RMZ46876	238943	239371	+	hypothetical_protein	CA14_001800
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	RMZ47019	45	90	74.8148148148	9e-18	
+
+
+
+>>
+
+110. CP059869_0
+Source: Aspergillus flavus NRRL3357 chromosome 4.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 90
+
+Table of genes, locations, strands and annotations of subject cluster:
+QMW30783	853956	858699	+	hypothetical_protein	G4B84_006164
+QMW30784	861396	862781	+	hypothetical_protein	G4B84_006165
+QMW30785	863304	864499	-	hypothetical_protein	G4B84_006166
+QMW30786	864881	866378	+	hypothetical_protein	G4B84_006167
+QMW30787	867649	869294	+	hypothetical_protein	G4B84_006168
+QMW30788	869879	870921	+	hypothetical_protein	G4B84_006169
+QMW30789	873032	874066	+	hypothetical_protein	G4B84_006170
+QMW30790	875768	876157	+	hypothetical_protein	G4B84_006171
+QMW30791	876764	878126	+	hypothetical_protein	G4B84_006172
+QMW30792	878599	879117	-	hypothetical_protein	G4B84_006173
+QMW30793	881932	882962	-	hypothetical_protein	G4B84_006174
+QMW30794	885046	886461	+	hypothetical_protein	G4B84_006175
+QMW30795	886910	887952	+	hypothetical_protein	G4B84_006176
+QMW30796	888093	889073	-	hypothetical_protein	G4B84_006177
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	QMW30788	45	90	74.8148148148	8e-18	
+
+
+
+>>
+
+111. CP044618_0
+Source: Aspergillus flavus strain NRRL 3357 chromosome 4.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 90
+
+Table of genes, locations, strands and annotations of subject cluster:
+QRD89675	854057	858752	+	pleiotropic_drug_resistance_proteins,_ABC superfamily	F9C07_2155817
+QRD89676	861451	862836	+	putative_C2H2_finger_domain_protein	F9C07_3474
+QRD89677	863405	864554	-	putative_carboxyphosphonoenolpyruvate_mutase	F9C07_3475
+QRD89678	864936	866702	+	major_facilitator_superfamily_domain-containing protein	F9C07_1507229
+QRD89679	867113	869349	+	hypothetical_protein	F9C07_2106077
+QRD89680	869961	870976	+	putative_NAD_dependent_epimerase/dehydratase	F9C07_3478
+QRD89681	873087	874121	+	putative_6-hydroxy-D-nicotine_oxidase	F9C07_3479
+QRD89682	874156	874798	+	hypothetical_protein	F9C07_3480
+QRD89683	875823	876212	+	hypothetical_protein	F9C07_3481
+QRD89684	876819	878181	+	hypothetical_protein	F9C07_2283099
+QRD89685	878654	879172	-	phenol_acid_carboxylase	F9C07_2283100
+QRD89686	881987	883017	-	hypothetical_protein	F9C07_2106082
+QRD89687	884834	886516	+	hypothetical_protein	F9C07_2232143
+QRD89688	886965	888007	+	dehydrogenase_with_different_specificitie	F9C07_1507340
+QRD89689	888148	889128	-	putative_hscarg_dehydrogenase	F9C07_3487
+QRD89690	889361	890338	+	hypothetical_protein	F9C07_1507351
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	QRD89680	45	90	74.8148148148	9e-18	
+
+
+
+>>
+
+112. AAIH03000093_0
+Source: Aspergillus flavus NRRL3357 Scaffold03, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 90
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAF7625163	834902	836683	-	hypothetical_protein	AFLA_002037
+KAF7625164	838347	843042	+	hypothetical_protein	AFLA_002038
+KAF7625165	845741	847126	+	hypothetical_protein	AFLA_002039
+KAF7625166	847649	848844	-	hypothetical_protein	AFLA_002040
+KAF7625167	849226	850993	+	hypothetical_protein	AFLA_002041
+KAF7625168	851393	853640	+	hypothetical_protein	AFLA_002042
+KAF7625169	854252	855267	+	hypothetical_protein	AFLA_002043
+KAF7625170	857378	858412	+	hypothetical_protein	AFLA_002044
+KAF7625171	860114	860729	+	hypothetical_protein	AFLA_002045
+KAF7625172	861110	862472	+	hypothetical_protein	AFLA_002046
+KAF7625173	862945	863463	-	hypothetical_protein	AFLA_002047
+KAF7625174	866278	867156	-	hypothetical_protein	AFLA_002048
+KAF7625175	869124	870806	+	hypothetical_protein	AFLA_002049
+KAF7625176	871255	872297	+	hypothetical_protein	AFLA_002050
+KAF7625177	872438	873418	-	hypothetical_protein	AFLA_002051
+KAF7625178	873672	874628	+	hypothetical_protein	AFLA_002052
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	KAF7625169	45	90	74.8148148148	9e-18	
+
+
+
+>>
+
+113. ML743552_1
+Source: Aspergillus pseudotamarii strain CBS 117625 unplaced genomic scaffold BDV38scaffold_2, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 89
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAE8143494	1113266	1114535	-	hypothetical_protein	BDV38DRAFT_233812
+KAE8143495	1115104	1117088	+	IucC_family-domain-containing_protein	BDV38DRAFT_277513
+KAE8143496	1117880	1118823	-	hypothetical_protein	BDV38DRAFT_277514
+KAE8143497	1119077	1120057	+	hypothetical_protein	BDV38DRAFT_292088
+KAE8143498	1120368	1121420	-	hypothetical_protein	BDV38DRAFT_292090
+KAE8143499	1121868	1123283	-	major_facilitator_superfamily_domain-containing protein	BDV38DRAFT_292093
+KAE8143500	1123894	1125373	-	alpha/beta_hydrolase_fold-domain-containing protein	BDV38DRAFT_233821
+KAE8143501	1126066	1127437	-	hypothetical_protein	BDV38DRAFT_267392
+KAE8143502	1128053	1128442	-	hypothetical_protein	BDV38DRAFT_267393
+KAE8143503	1130563	1130983	-	hypothetical_protein	BDV38DRAFT_67753
+KAE8143504	1132017	1133042	-	hypothetical_protein	BDV38DRAFT_233843
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	KAE8143504	45	89	74.8148148148	2e-17	
+
+
+
+>>
+
+114. ML743551_2
+Source: Aspergillus pseudotamarii strain CBS 117625 unplaced genomic scaffold BDV38scaffold_1, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 1
+MultiGeneBlast score: 1.0
+Cumulative Blast bit score: 89
+
+Table of genes, locations, strands and annotations of subject cluster:
+KAE8143791	798819	799689	-	Cloroperoxidase	BDV38DRAFT_276860
+KAE8143792	811531	813583	-	hypothetical_protein	BDV38DRAFT_266931
+KAE8143793	814446	814909	+	hypothetical_protein	BDV38DRAFT_276863
+KAE8143794	815256	816795	+	hypothetical_protein	BDV38DRAFT_289643
+KAE8143795	817524	818399	+	P-loop_containing_nucleoside_triphosphate hydrolase protein	BDV38DRAFT_289645
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XP_001217687.1	KAE8143795	42	89	77.037037037	2e-17	
+

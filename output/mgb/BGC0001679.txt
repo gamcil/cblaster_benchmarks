@@ -1,0 +1,114 @@
+ClusterBlast scores for /home/chooilab/Documents/cblaster_benchmarks/mgb/Multigeneblast/../../queries/BGC0001679.gbk
+
+Table of genes, locations, strands and annotations of query cluster:
+ivoA	2072	7247	-	conserved_hypothetical_protein	ANIA_10576	
+ivoA	2072	7247	-	conserved_hypothetical_protein	ANIA_10576	
+CBF77088.1	10867	12481	-	MFS_transporter,_putative_(AFU_orthologue;	ANIA_04640	
+
+
+Significant hits: 
+1. BN001303_0	TPA_asm: Aspergillus nidulans FGSC A4 chromosome III.
+
+2. CH236924_0	Aspergillus nidulans FGSC A4 chromosome III scaffold_5, whole genome shotgun sequence.
+
+3. PVWQ01000009_0	Aspergillus mulundensis strain DSM 5745 scaffold_8, whole genome shotgun sequence.
+
+
+
+Details:
+
+>>
+
+1. BN001303_0
+Source: TPA_asm: Aspergillus nidulans FGSC A4 chromosome III.
+
+Number of proteins with BLAST hits to this cluster: 2
+MultiGeneBlast score: 2.5
+Cumulative Blast bit score: 4375
+
+Table of genes, locations, strands and annotations of subject cluster:
+CBF77071	1412606	1414231	+	small_nucleolar_ribonucleoprotein_complex subunit Utp15, putative (AFU_orthologue; AFUA_2G01780)	ANIA_04648
+CBF77073	1414393	1415334	-	phytanoyl-CoA_dioxygenase_family_protein (AFU_orthologue; AFUA_2G01850)	ANIA_04647
+CBF77075	1415819	1416118	+	hypothetical_protein	ANIA_04646
+CBF77077	1416464	1417619	-	sulfate_transporter,_putative_(AFU_orthologue; AFUA_2G01740)	ANIA_04645
+CBF77079	1419699	1420536	+	conserved_hypothetical_protein	ANIA_04644
+CBF77081	1421968	1424037	+	cytochrome_P450,_putative_(Eurofung)	ANIA_04643
+CBF77083	1426134	1427748	+	hypothetical_protein	ANIA_04642
+CBF77085	1429003	1430679	-	cytochrome_P450,_putative_(Eurofung)	ANIA_10573
+CBF77087	1431062	1436237	-	conserved_hypothetical_protein	ivoA
+CBF77088	1439857	1441471	-	MFS_transporter,_putative_(AFU_orthologue; AFUA_4G00260)	ANIA_04640
+CBF77090	1444763	1449906	+	TORC1_growth_control_complex_subunit_Kog1, putative (AFU_orthologue; AFUA_2G02510)	ANIA_04639
+CBF77092	1450052	1452274	-	conserved_hypothetical_protein	ANIA_04638
+CBF77094	1453928	1456411	+	PA_and_RING_finger_domain_protein (AFU_orthologue; AFUA_2G02470)	ANIA_04637
+CBF77096	1456806	1457773	+	conserved_hypothetical_protein	ANIA_04636
+CBF77098	1457940	1459624	-	Leucine_Rich_Repeat_domain_protein (AFU_orthologue; AFUA_2G02450)	ANIA_10572
+CBF77100	1460645	1460986	-	hypothetical_protein	ANIA_10575
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ivoA	CBF77087	100	3521	100.0	0.0	
+CBF77088.1	CBF77088	100	854	100.0	0.0	
+
+
+
+>>
+
+2. CH236924_0
+Source: Aspergillus nidulans FGSC A4 chromosome III scaffold_5, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 2
+MultiGeneBlast score: 2.5
+Cumulative Blast bit score: 4363
+
+Table of genes, locations, strands and annotations of subject cluster:
+EAA60437	1025622	1028668	+	hypothetical_protein	AN4635.2
+EAA60438	1028835	1029802	-	hypothetical_protein	AN4636.2
+EAA60439	1030197	1032680	-	hypothetical_protein	AN4637.2
+EAA60440	1033835	1036556	+	hypothetical_protein	AN4638.2
+EAA60441	1036702	1041845	-	hypothetical_protein	AN4639.2
+EAA60442	1045137	1046751	+	hypothetical_protein	AN4640.2
+EAA60443	1050371	1057605	+	hypothetical_protein	AN4641.2
+EAA60444	1058860	1060474	-	hypothetical_protein	AN4642.2
+EAA60445	1062571	1064640	-	hypothetical_protein	AN4643.2
+EAA60446	1066072	1066909	-	hypothetical_protein	AN4644.2
+EAA60447	1068426	1070290	+	hypothetical_protein	AN4645.2
+EAA60448	1070490	1070789	-	predicted_protein	AN4646.2
+EAA60449	1071274	1072215	+	hypothetical_protein	AN4647.2
+EAA60450	1072377	1074002	-	hypothetical_protein	AN4648.2
+EAA60451	1074808	1076612	+	hypothetical_protein	AN4649.2
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ivoA	EAA60443	100	3509	99.70657277	0.0	
+CBF77088.1	EAA60442	100	854	100.0	0.0	
+
+
+
+>>
+
+3. PVWQ01000009_0
+Source: Aspergillus mulundensis strain DSM 5745 scaffold_8, whole genome shotgun sequence.
+
+Number of proteins with BLAST hits to this cluster: 2
+MultiGeneBlast score: 2.5
+Cumulative Blast bit score: 3016
+
+Table of genes, locations, strands and annotations of subject cluster:
+RDW72414	583258	584336	+	hypothetical_protein	DSM5745_07586
+RDW72415	586188	588683	+	hypothetical_protein	DSM5745_07587
+RDW72416	590361	591062	+	Uncharacterized_protein	DSM5745_07588
+RDW72417	591283	592176	+	hypothetical_protein	DSM5745_07589
+RDW72418	593424	595402	+	Major_facilitator_superfamily-containing_protein 1	DSM5745_07590
+RDW72419	598203	603370	+	Uncharacterized_protein	DSM5745_07591
+RDW72420	603730	605211	+	hypothetical_protein	DSM5745_07592
+RDW72421	607037	607990	-	hypothetical_protein	DSM5745_07593
+RDW72422	609365	610663	+	Uncharacterized_protein	DSM5745_07594
+RDW72423	610929	611234	-	Uncharacterized_protein	DSM5745_07595
+RDW72424	611751	612695	+	hypothetical_protein	DSM5745_07596
+RDW72425	612832	614457	-	hypothetical_protein	DSM5745_07597
+RDW72426	615354	617154	+	Amino_acid_transporter	DSM5745_07598
+RDW72427	618755	621246	+	hypothetical_protein	DSM5745_07599
+RDW72428	621875	624586	+	hypothetical_protein	DSM5745_07600
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+ivoA	RDW72419	69	2377	100.469483568	0.0	
+CBF77088.1	RDW72418	82	639	95.8837772397	0.0	
+

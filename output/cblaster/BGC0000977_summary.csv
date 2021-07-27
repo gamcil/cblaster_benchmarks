@@ -1,0 +1,737 @@
+cblaster search
+===============
+AB506492
+========
+AB506492.1
+----------
+Cluster 1, score 14.3689:
+Query       Subject     Identity  Coverage  E-value  Bitscore  Start  End    Strand
+BAK26557.1  BAK26557.1  100       100       0        956       1606   3212   -     
+BAK26558.1  BAK26558.1  100       100       0        880       3719   5293   -     
+BAK26559.1  BAK26559.1  100       100       0        1057      5674   7324   +     
+BAK26560.1  BAK26560.1  100       100       0        928       8570   9938   +     
+BAK26561.1  BAK26561.1  100       100       0        898       10406  11784  -     
+BAK26562.1  BAK26562.1  100       100       0        7771      12738  24462  +     
+BAK26563.1  BAK26563.1  100       100       0        1199      24908  26761  +     
+
+
+GCA_000006275
+=============
+AAIH03000181.1
+--------------
+Cluster 2, score 9.0835:
+Query       Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAK26557.1  AFLA_006316  97.2      100       0          933       2257027  2258992  -     
+BAK26560.1  AFLA_006317  93.8      100       0          880       2261742  2263110  +     
+BAK26561.1  AFLA_006318  92.7      99.8      1.57e-308  839       2263608  2264978  -     
+BAK26562.1  AFLA_006319  90.6      100       0          7029      2265956  2277677  +     
+BAK26563.1  AFLA_006320  97.2      100       0          1154      2278116  2279969  +     
+
+
+GCA_000184455
+=============
+BA000051.1
+----------
+Cluster 3, score 6.3557:
+Query       Subject         Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAK26557.1  AO090026000005  100       96.2      0          914       5108315  5111016  -     
+BAK26559.1  AO090026000004  100       76.2      2.07e-299  817       5112804  5114033  +     
+BAK26560.1  AO090026000003  100       100       0          928       5115279  5116647  +     
+BAK26561.1  AO090026000002  100       100       0          898       5117115  5118493  -     
+
+
+GCA_000269785
+=============
+AKHY01000106.1
+--------------
+Cluster 4, score 5.3926:
+Query       Subject       Identity  Coverage  E-value  Bitscore  Start   End     Strand
+BAK26557.1  Ao3042_02208  100       96.2      0        914       191104  193809  -     
+BAK26559.1  Ao3042_02209  99.6      100       0        1054      195038  197173  +     
+BAK26560.1  Ao3042_02210  100       100       0        928       197596  201675  -     
+BAK26563.1  Ao3042_02213  100       85.6      0        1030      214725  216551  +     
+
+
+GCA_000691885
+=============
+AMCJ01000074.1
+--------------
+Cluster 5, score 3.2866:
+Query       Subject       Identity  Coverage  E-value  Bitscore  Start  End    Strand
+BAK26561.1  AO1008_10614  100       100       0        898       22323  26402  +     
+BAK26559.1  AO1008_10616  99.6      100       0        1054      26825  28960  -     
+BAK26557.1  AO1008_10617  100       96.2      0        914       30189  32894  +     
+
+
+GCA_000952835
+=============
+JZDT01000855.1
+--------------
+Cluster 6, score 9.0952:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26557.1  AFLA70_210g001271  96.8      100       0          931       35537  37280  -     
+BAK26560.1  AFLA70_210g001280  94.5      100       0          887       40393  41761  +     
+BAK26561.1  AFLA70_210g001291  93.1      99.8      1.15e-310  844       42041  43629  -     
+BAK26562.1  AFLA70_210g001301  91.4      100       0          7133      44607  56328  +     
+BAK26563.1  AFLA70_210g001302  97.3      100       0          1157      56767  58620  +     
+
+
+GCA_000956085
+=============
+JZEE01000727.1
+--------------
+Cluster 7, score 1.0808:
+Query       Subject        Identity  Coverage  E-value    Bitscore  Start  End   Strand
+BAK26563.1  P875_00052998  98.1      69.2      4.08e-294  808       984    2232  -     
+
+
+GCA_001511075
+=============
+CDMC01000010.1
+--------------
+Cluster 8, score 1.0399:
+Query       Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAK26563.1  ASPCAL11297  40.8      96.8      4.92e-130  399       1130164  1132154  -     
+
+
+GCA_001696595
+=============
+MBFL02000659.1
+--------------
+Cluster 9, score 3.1461:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End   Strand
+BAK26558.1  BBP40_011042  60        99.8      5.48e-188  535       467    2019  -     
+BAK26559.1  BBP40_011043  89.5      96.9      0          926       2447   4051  +     
+
+
+GCA_001792695
+=============
+LYCR01000007.1
+--------------
+Cluster 10, score 3.1546:
+Query       Subject      Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26559.1  ABOM_001790  86.8      100       0         932       63214  64896  -     
+BAK26558.1  ABOM_001791  67.1      100       2.3e-219  614       65271  66850  +     
+
+LYCR01000012.1
+--------------
+Cluster 11, score 1.0607:
+Query       Subject      Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26559.1  ABOM_003120  57.6      95.1      1.05e-214  607       132585  134274  -     
+
+
+GCA_002234965
+=============
+NKHV02000023.1
+--------------
+Cluster 12, score 1.0278:
+Query       Subject       Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26558.1  CDV55_102374  33.5      99.1      8.06e-82  278       22309  26879  +     
+
+
+GCA_002234975
+=============
+NIDN02000035.1
+--------------
+Cluster 13, score 1.0278:
+Query       Subject       Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26558.1  CFD26_106825  33.5      99.1      8.06e-82  278       92987  97557  -     
+
+
+GCA_002443215
+=============
+NWUG02001294.1
+--------------
+Cluster 14, score 8.0053:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26563.1  COH21_011711  97.2      100       0          1154      40825  42678  -     
+BAK26562.1  COH21_011712  92.3      100       0          7180      43117  54838  -     
+BAK26561.1  COH21_011713  92.7      99.8      1.57e-308  839       55816  57234  +     
+BAK26560.1  COH21_011714  93.8      100       0          880       57684  59052  -     
+
+NWUG02000600.1
+--------------
+Cluster 15, score 1.0931:
+Query       Subject       Identity  Coverage  E-value  Bitscore  Start  End   Strand
+BAK26557.1  COH21_012994  96.8      100       0        931       595    2201  +     
+
+
+GCA_002456175
+=============
+NWUH02000283.1
+--------------
+Cluster 16, score 9.0951:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26563.1  COH20_009215  97.2      100       0          1154      38866  40719  -     
+BAK26562.1  COH20_009216  92        100       0          7147      41158  52879  -     
+BAK26561.1  COH20_009217  92.7      99.8      1.57e-308  839       53857  55275  +     
+BAK26560.1  COH20_009218  93.8      100       0          880       55725  57093  -     
+BAK26557.1  COH20_009219  96.8      100       0          931       59089  61814  +     
+
+
+GCA_002749805
+=============
+NEXV01000673.1
+--------------
+Cluster 17, score 5.8785:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26560.1  AARAC_001520  94.3      100       0          885       265837  267205  +     
+BAK26561.1  AARAC_001521  91.3      99.8      5.22e-300  817       267669  269045  -     
+BAK26562.1  AARAC_001522  90.9      100       0          7083      270018  281754  +     
+
+
+GCA_002849105
+=============
+MSFO01000009.1
+--------------
+Cluster 18, score 1.0255:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start    End      Strand
+BAK26558.1  P170DRAFT_513647  31.6      99.8      7.78e-78  255       1070767  1072522  +     
+
+
+GCA_003184525
+=============
+MSFK01000033.1
+--------------
+Cluster 19, score 1.0270:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+BAK26563.1  BO94DRAFT_525487  36.2      76.9      1.57e-78  270       258120  261374  +     
+
+
+GCA_003184545
+=============
+MSFL01000028.1
+--------------
+Cluster 20, score 1.0271:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26563.1  BO70DRAFT_365201  31.8      95.5      5.71e-79  271       89889  93158  +     
+
+
+GCA_003184585
+=============
+KZ821225.1
+----------
+Cluster 21, score 1.0626:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26559.1  BP01DRAFT_372492  60        95.3      3.51e-222  626       370531  372201  +     
+
+KZ821227.1
+----------
+Cluster 22, score 1.0272:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+BAK26563.1  BP01DRAFT_293466  32.3      95.5      3.06e-79  272       844704  847503  +     
+
+
+GCA_003184685
+=============
+KZ825484.1
+----------
+Cluster 23, score 1.0646:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26559.1  BP00DRAFT_413892  63.4      92.3      1.57e-230  646       180434  182063  -     
+
+
+GCA_003184695
+=============
+KZ825352.1
+----------
+Cluster 24, score 1.0649:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+BAK26559.1  BO95DRAFT_474355  63.3      92.7      6.1e-231  649       153539  155274  -     
+
+
+GCA_003184705
+=============
+KZ825127.1
+----------
+Cluster 25, score 1.0645:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26559.1  BO99DRAFT_457092  61.3      95.5      6.99e-230  645       145204  146851  +     
+
+
+GCA_003184745
+=============
+KZ821754.1
+----------
+Cluster 26, score 1.0661:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26559.1  BO82DRAFT_378650  62.8      95.5      5.84e-236  661       29480  31109  -     
+
+
+GCA_003184765
+=============
+KZ824960.1
+----------
+Cluster 27, score 1.0654:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26559.1  BO66DRAFT_439172  62.1      95.5      3.17e-233  654       155852  157481  +     
+
+
+GCA_003184785
+=============
+KZ824821.1
+----------
+Cluster 28, score 1.0644:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26559.1  BO86DRAFT_437572  61.1      95.5      2.83e-229  644       130509  132298  +     
+
+
+GCA_003184865
+=============
+KZ824332.1
+----------
+Cluster 29, score 1.0275:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+BAK26563.1  BO97DRAFT_446886  32.8      95.5      2.26e-80  275       116131  119729  +     
+
+KZ824342.1
+----------
+Cluster 30, score 1.0644:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26559.1  BO97DRAFT_357465  62.3      93.9      2.91e-229  644       19513  21096  -     
+
+
+GCA_003426965
+=============
+QUQM01000001.1
+--------------
+Cluster 31, score 5.2351:
+Query       Subject           Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAK26558.1  ATNIH1004_003790  71.5      81.6      2.29e-179  509       5524830  5526036  -     
+BAK26559.1  ATNIH1004_003791  92.1      100       0          980       5526406  5528051  +     
+BAK26560.1  ATNIH1004_003792  91.9      100       4.46e-317  862       5529424  5530792  +     
+
+
+GCA_003709025
+=============
+QQZZ01000099.1
+--------------
+Cluster 32, score 9.0986:
+Query       Subject      Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAK26557.1  CA14_007510  97.2      100       0          933       1279743  1281349  -     
+BAK26560.1  CA14_007511  93.8      100       0          880       1284458  1285826  +     
+BAK26561.1  CA14_007512  92.7      99.8      1.57e-308  839       1286324  1287694  -     
+BAK26562.1  CA14_007513  92.3      100       0          7180      1288672  1300393  +     
+BAK26563.1  CA14_007514  97.2      100       0          1154      1300832  1302685  +     
+
+
+GCA_004798825
+=============
+SOSA01000168.1
+--------------
+Cluster 33, score 3.1369:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26558.1  EYZ11_005309  73.3      68.2      6.16e-151  435       8850   10056  -     
+BAK26559.1  EYZ11_005325  89.2      100       0          934       10426  12071  +     
+
+
+GCA_009017415
+=============
+CP044620.1
+----------
+Cluster 34, score 9.1026:
+Query       Subject        Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAK26557.1  F9C07_2282831  97.2      100       0          933       5105010  5107205  -     
+BAK26560.1  F9C07_2282832  93.8      100       0          880       5109852  5111681  +     
+BAK26561.1  F9C07_2282833  92.7      99.8      1.57e-308  839       5111779  5113331  -     
+BAK26562.1  F9C07_2154555  92.7      100       0          7220      5114057  5126083  +     
+BAK26563.1  F9C07_2282835  97.2      100       0          1154      5126083  5128356  +     
+
+
+GCA_009176345
+=============
+ML732197.1
+----------
+Cluster 35, score 3.1376:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26558.1  BDV29DRAFT_172282  69.9      70.3      2.8e-164  469       31755  32991  -     
+BAK26559.1  BDV29DRAFT_200957  85.5      100       0         907       33909  35642  +     
+
+ML732231.1
+----------
+Cluster 36, score 1.0272:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26563.1  BDV29DRAFT_175854  32.3      95.5      3.01e-79  272       69255  72840  +     
+
+
+GCA_009176375
+=============
+ML734665.1
+----------
+Cluster 37, score 14.3656:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26563.1  BDV35DRAFT_29244   100       100       0          1199      627    2973   -     
+BAK26562.1  BDV35DRAFT_29045   99.9      100       0          7761      2971   15471  -     
+BAK26561.1  BDV35DRAFT_29211   100       100       0          898       15400  17515  +     
+BAK26560.1  BDV35DRAFT_29030   100       100       0          928       17515  19740  -     
+BAK26559.1  BDV35DRAFT_29239   99.8      100       0          1056      19810  22228  -     
+BAK26558.1  BDV35DRAFT_29131   92.5      100       1.12e-315  858       22127  24226  +     
+BAK26557.1  BDV35DRAFT_384097  100       100       0          956       24479  26085  +     
+
+
+GCA_009176385
+=============
+ML734987.1
+----------
+Cluster 38, score 1.0982:
+Query       Subject            Identity  Coverage  E-value  Bitscore  Start  End   Strand
+BAK26563.1  BDV34DRAFT_214349  96.3      85.5      0        982       965    2504  -     
+
+
+GCA_009176405
+=============
+ML733438.1
+----------
+Cluster 39, score 2.1909:
+Query       Subject            Identity  Coverage  E-value  Bitscore  Start   End     Strand
+BAK26557.1  BDV33DRAFT_173725  96        100       0        920       204341  206243  -     
+BAK26563.1  BDV33DRAFT_191970  96.7      85.5      0        989       207943  209482  +     
+
+ML733469.1
+----------
+Cluster 40, score 1.0602:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26559.1  BDV33DRAFT_193865  58.5      91.4      1.93e-212  602       126652  128370  +     
+
+
+GCA_009176455
+=============
+ML732851.1
+----------
+Cluster 41, score 6.9692:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26557.1  BDV30DRAFT_191466  96.2      100       0          917       94535   96653   -     
+BAK26560.1  BDV30DRAFT_217171  94.1      100       0          885       99371   101065  +     
+BAK26561.1  BDV30DRAFT_217173  92.9      99.8      7.19e-310  842       101099  102688  -     
+BAK26562.1  BDV30DRAFT_242648  90.6      100       0          7048      103572  117495  +     
+BAK26563.1  BDV30DRAFT_242648  90.2      83.4      1.01e-296  905       103572  117495  +     
+
+
+GCA_009193445
+=============
+ML743611.1
+----------
+Cluster 42, score 3.1657:
+Query       Subject            Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26559.1  BDV38DRAFT_179523  91.2      100       0         972       49780  51641  -     
+BAK26558.1  BDV38DRAFT_257152  74        99.8      2.1e-247  685       51572  53737  +     
+
+
+GCA_009193485
+=============
+ML738587.1
+----------
+Cluster 43, score 6.3349:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26561.1  BDV40DRAFT_251979  89.4      99.3      7.29e-298  812       72081  73988  +     
+BAK26559.1  BDV40DRAFT_128956  90.4      100       0          969       76939  79031  -     
+BAK26558.1  BDV40DRAFT_294969  73.5      99.8      1.64e-244  678       79030  80611  +     
+BAK26557.1  BDV40DRAFT_128926  92.7      100       0          890       80874  82831  +     
+
+
+GCA_009193505
+=============
+ML738353.1
+----------
+Cluster 44, score 1.0972:
+Query       Subject            Identity  Coverage  E-value  Bitscore  Start   End     Strand
+BAK26563.1  BDV41DRAFT_590383  95.3      85.5      0        972       190908  192624  +     
+
+
+GCA_009193525
+=============
+ML741818.1
+----------
+Cluster 45, score 9.0650:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26557.1  BDV39DRAFT_180499  97.2      100       0          930       158565  160648  -     
+BAK26560.1  BDV39DRAFT_119310  93.6      100       0          879       163087  164882  +     
+BAK26561.1  BDV39DRAFT_195156  93.6      99.8      1.91e-309  841       165117  166489  -     
+BAK26562.1  BDV39DRAFT_180509  90.1      100       0          7033      167154  179881  +     
+BAK26563.1  BDV39DRAFT_217126  93.9      85.5      0          967       179261  181482  +     
+
+
+GCA_009193545
+=============
+ML737129.1
+----------
+Cluster 46, score 6.9705:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26562.1  BDV24DRAFT_161391  90.5      100       0          7045      33677  45413  -     
+BAK26561.1  BDV24DRAFT_30201   93.6      99.8      6.16e-311  845       46336  47798  +     
+BAK26560.1  BDV24DRAFT_30205   94.3      100       0          885       48112  49802  -     
+BAK26557.1  BDV24DRAFT_128925  96.6      100       0          930       52118  54181  +     
+
+
+GCA_009193585
+=============
+ML737734.1
+----------
+Cluster 47, score 3.1464:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26558.1  BDV27DRAFT_160674  72.7      99.8      7.7e-244   676       36949  38530  -     
+BAK26559.1  BDV27DRAFT_166940  78.4      100       5.12e-287  788       38905  40726  +     
+
+
+GCA_009193595
+=============
+ML736160.1
+----------
+Cluster 48, score 3.1389:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26559.1  BDV26DRAFT_288313  88.1      97.6      0          928       314944  316560  -     
+BAK26558.1  BDV26DRAFT_224172  69.1      70.5      8.71e-161  461       317327  318613  +     
+
+
+GCA_009193665
+=============
+ML735721.1
+----------
+Cluster 49, score 4.7978:
+Query       Subject            Identity  Coverage  E-value    Bitscore  Start   End     Strand
+BAK26558.1  BDV36DRAFT_146467  76.1      99.8      1.47e-254  703       255273  257540  -     
+BAK26559.1  BDV36DRAFT_146413  91.7      100       0          976       257139  259272  +     
+BAK26562.1  BDV36DRAFT_146557  80.3      100       0          6299      264410  276691  +     
+
+
+GCA_012656225
+=============
+JAAAPY010000012.1
+-----------------
+Cluster 50, score 1.0267:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+BAK26563.1  CNMCM8980_001269  35.3      76.9      2.02e-78  267       304971  307137  +     
+
+JAAAPY010000133.1
+-----------------
+Cluster 51, score 2.7163:
+Query       Subject           Identity  Coverage  E-value  Bitscore  Start  End    Strand
+BAK26562.1  CNMCM8980_001378  80.2      100       0        6266      31994  43718  -     
+BAK26557.1  CNMCM8980_001382  93.5      99.8      0        897       51499  53108  +     
+
+
+GCA_012656285
+=============
+JAAAPX010000022.1
+-----------------
+Cluster 52, score 1.0897:
+Query       Subject           Identity  Coverage  E-value  Bitscore  Start   End     Strand
+BAK26557.1  CNMCM6805_004334  93.5      99.8      0        897       218060  219669  +     
+
+JAAAPX010000237.1
+-----------------
+Cluster 53, score 1.0267:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26563.1  CNMCM6805_004433  35.3      76.9      2.02e-78  267       27296  29462  -     
+
+
+GCA_012656295
+=============
+JAAAPW010000018.1
+-----------------
+Cluster 54, score 1.0897:
+Query       Subject           Identity  Coverage  E-value  Bitscore  Start  End    Strand
+BAK26557.1  CNMCM6457_003116  93.5      99.8      0        897       54752  58467  -     
+
+
+GCA_012656325
+=============
+JAAAPV010000021.1
+-----------------
+Cluster 55, score 2.7164:
+Query       Subject           Identity  Coverage  E-value  Bitscore  Start   End     Strand
+BAK26562.1  CNMCM5878_004195  80.2      100       0        6267      202182  213906  -     
+BAK26557.1  CNMCM5878_004199  93.5      99.8      0        897       221687  223296  +     
+
+
+GCA_014117465
+=============
+CP059868.1
+----------
+Cluster 56, score 9.1026:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAK26557.1  G4B84_005812  97.2      100       0          933       5011320  5012926  -     
+BAK26560.1  G4B84_005813  93.8      100       0          880       5016035  5017403  +     
+BAK26561.1  G4B84_005814  92.7      99.8      1.57e-308  839       5017901  5019271  -     
+BAK26562.1  G4B84_005815  92.7      100       0          7220      5020249  5031970  +     
+BAK26563.1  G4B84_005816  97.2      100       0          1154      5032409  5034262  +     
+
+
+GCA_014117485
+=============
+CP059860.1
+----------
+Cluster 57, score 9.0869:
+Query       Subject       Identity  Coverage  E-value    Bitscore  Start    End      Strand
+BAK26557.1  G4B11_005871  97.2      100       0          933       4990854  4992460  -     
+BAK26560.1  G4B11_005872  93.8      100       0          880       4995569  4996937  +     
+BAK26561.1  G4B11_005873  92.7      99.8      1.57e-308  839       4997435  4998805  -     
+BAK26562.1  G4B11_005874  92.7      100       0          7222      4999783  5011504  +     
+BAK26563.1  G4B11_005875  97.5      85.6      0          995       5012257  5013796  +     
+
+
+GCA_014281895
+=============
+JACBAE010001388.1
+-----------------
+Cluster 58, score 1.0899:
+Query       Subject           Identity  Coverage  E-value  Bitscore  Start   End     Strand
+BAK26557.1  CNMCM5623_002845  93.1      100       0        899       159051  160723  +     
+
+Cluster 59, score 1.0271:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start   End     Strand
+BAK26558.1  CNMCM5623_002849  33.1      99.1      2.69e-80  271       190063  195776  -     
+
+
+GCA_014281905
+=============
+JACBAD010002040.1
+-----------------
+Cluster 60, score 1.0281:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26558.1  CNMCM5793_009296  33.6      99.1      6.55e-83  281       21135  25740  -     
+
+
+GCA_014281915
+=============
+JACBAG010001771.1
+-----------------
+Cluster 61, score 1.0271:
+Query       Subject           Identity  Coverage  E-value  Bitscore  Start  End    Strand
+BAK26558.1  CNMCM7691_002145  33.1      99.1      3.1e-80  271       9645   15395  -     
+
+JACBAG010001885.1
+-----------------
+Cluster 62, score 1.0894:
+Query       Subject           Identity  Coverage  E-value  Bitscore  Start  End    Strand
+BAK26557.1  CNMCM7691_006842  92.9      100       0        894       13564  15188  -     
+
+
+GCA_014281935
+=============
+JACBAF010002052.1
+-----------------
+Cluster 63, score 1.0281:
+Query       Subject           Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26558.1  CNMCM6106_004059  33.6      99.1      6.55e-83  281       10831  15436  +     
+
+
+GCA_015844325
+=============
+VCAU01000007.1
+--------------
+Cluster 64, score 1.0255:
+Query       Subject       Identity  Coverage  E-value   Bitscore  Start   End     Strand
+BAK26558.1  FE257_010848  32.5      99.8      1.54e-77  255       339560  341416  +     
+
+
+GCA_018340605
+=============
+BHVY01000005.1
+--------------
+Cluster 65, score 1.0275:
+Query       Subject        Identity  Coverage  E-value   Bitscore  Start    End      Strand
+BAK26558.1  Asppvi_008442  33.1      99.8      1.98e-85  275       3946892  3948642  +     
+
+BHVY01000010.1
+--------------
+Cluster 66, score 2.7166:
+Query       Subject        Identity  Coverage  E-value  Bitscore  Start   End     Strand
+BAK26562.1  Asppvi_001983  80.6      100       0        6274      631012  642736  -     
+BAK26557.1  Asppvi_001986  92.7      99.8      0        892       651199  652808  +     
+
+
+GCA_018404265
+=============
+BOPL01000005.1
+--------------
+Cluster 67, score 1.0276:
+Query       Subject        Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26558.1  Aspvir_006979  33.3      99.8      7.11e-86  276       52704  54467  +     
+
+
+JN712209
+========
+JN712209.1
+----------
+Cluster 68, score 5.8939:
+Query       Subject     Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26560.1  AFA26377.1  93.8      100       0          880       440    1808   +     
+BAK26561.1  AFA26378.1  92.7      99.8      1.57e-308  839       2306   3676   -     
+BAK26562.1  AFA26379.1  92.7      100       0          7220      4654   16375  +     
+
+
+JN712210
+========
+JN712210.1
+----------
+Cluster 69, score 5.8864:
+Query       Subject     Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26560.1  AFA26380.1  94.5      100       0          887       440    1808   +     
+BAK26561.1  AFA26382.1  93.1      99.8      1.15e-310  844       2305   3676   -     
+BAK26562.1  AFA26381.1  91.4      100       0          7133      4654   16375  +     
+
+
+JN712211
+========
+JN712211.1
+----------
+Cluster 70, score 5.8862:
+Query       Subject     Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26560.1  AFA26383.1  94.3      100       0         884       440    1808   +     
+BAK26561.1  AFA26385.1  92.9      99.8      3.3e-310  843       2305   3676   -     
+BAK26562.1  AFA26384.1  91.4      100       0         7135      4654   16375  +     
+
+
+JN712212
+========
+JN712212.1
+----------
+Cluster 71, score 5.8863:
+Query       Subject     Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26560.1  AFA26386.1  94.3      100       0          885       440    1808   +     
+BAK26561.1  AFA26388.1  93.1      99.8      2.71e-309  841       2305   3676   -     
+BAK26562.1  AFA26387.1  91.5      100       0          7137      4654   16375  +     
+
+
+JN712213
+========
+JN712213.1
+----------
+Cluster 72, score 5.8853:
+Query       Subject     Identity  Coverage  E-value   Bitscore  Start  End    Strand
+BAK26560.1  AFA26389.1  94.3      100       0         885       440    1808   +     
+BAK26561.1  AFA26391.1  93.6      99.8      3.3e-310  843       2305   3676   -     
+BAK26562.1  AFA26390.1  91.3      100       0         7125      4654   16375  +     
+
+
+JN712214
+========
+JN712214.1
+----------
+Cluster 73, score 3.1719:
+Query       Subject     Identity  Coverage  E-value    Bitscore  Start  End   Strand
+BAK26560.1  AFA26392.1  93.8      100       0          880       440    1808  +     
+BAK26561.1  AFA26393.1  92.7      99.8      1.57e-308  839       2306   3676  -     
+
+
+JN712215
+========
+JN712215.1
+----------
+Cluster 74, score 5.9589:
+Query       Subject     Identity  Coverage  E-value  Bitscore  Start  End    Strand
+BAK26560.1  AFA26397.1  100       100       0        928       466    1834   +     
+BAK26561.1  AFA26396.1  100       100       0        898       2302   3680   -     
+BAK26562.1  AFA26395.1  99.9      100       0        7763      4634   16358  +     
+
+
+JN712216
+========
+JN712216.1
+----------
+Cluster 75, score 5.8939:
+Query       Subject     Identity  Coverage  E-value    Bitscore  Start  End    Strand
+BAK26560.1  AFA26398.1  93.8      100       0          880       440    1808   +     
+BAK26561.1  AFA26399.1  92.7      99.8      1.57e-308  839       2306   3676   -     
+BAK26562.1  AFA26400.1  92.7      100       0          7220      4654   16375  +     
