@@ -10,6 +10,8 @@ All performance benchmarks were generated using the perf command line utility on
 | ``run_mgb.sh`` | Runner script for timed MultiGeneBlast searches |
 | ``extract_gene_counts.sh`` | Script for extracting number of genes per query from MultiGeneBlast output |
 | ``extract_search_times.py`` | Script for extracting elapsed times from perf stat output |
+| ``perf/*`` | Output of perf stat for database creation and search |
+| ``output/*`` | Search output files for both tools |
 
 ## Download Aspergillus genomes from the NCBI using datasets
 The NCBI datasets tool was used to retrieve annotated Aspergillus genome assemblies:
