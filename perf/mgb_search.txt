@@ -1,0 +1,1600 @@
+# started on Sun Jul 25 10:48:20 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000004.gbk -out search/BGC0000004_results -db database -distancekb 30 -from 1 -to 100000':
+
+      1,365,631.42 msec task-clock                #    2.377 CPUs utilized          
+           422,097      context-switches          #    0.309 K/sec                  
+               965      cpu-migrations            #    0.001 K/sec                  
+           152,504      page-faults               #    0.112 K/sec                  
+ 3,577,047,752,350      cycles                    #    2.619 GHz                    
+ 5,468,297,775,608      instructions              #    1.53  insn per cycle         
+ 1,021,535,174,446      branches                  #  748.031 M/sec                  
+    22,709,383,254      branch-misses             #    2.22% of all branches        
+
+     574.427790531 seconds time elapsed
+
+     552.694538000 seconds user
+      17.901666000 seconds sys
+
+
+# started on Sun Jul 25 10:57:55 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000006.gbk -out search/BGC0000006_results -db database -distancekb 30 -from 1 -to 100000':
+
+      1,344,321.89 msec task-clock                #    2.444 CPUs utilized          
+           489,237      context-switches          #    0.364 K/sec                  
+               833      cpu-migrations            #    0.001 K/sec                  
+           145,186      page-faults               #    0.108 K/sec                  
+ 3,517,054,350,554      cycles                    #    2.616 GHz                    
+ 5,255,976,380,935      instructions              #    1.49  insn per cycle         
+   970,826,387,077      branches                  #  722.168 M/sec                  
+    22,105,026,140      branch-misses             #    2.28% of all branches        
+
+     550.029662398 seconds time elapsed
+
+     529.275960000 seconds user
+      17.658821000 seconds sys
+
+
+# started on Sun Jul 25 11:07:05 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000007.gbk -out search/BGC0000007_results -db database -distancekb 30 -from 1 -to 100000':
+
+      1,566,463.35 msec task-clock                #    2.180 CPUs utilized          
+           517,153      context-switches          #    0.330 K/sec                  
+               845      cpu-migrations            #    0.001 K/sec                  
+           157,803      page-faults               #    0.101 K/sec                  
+ 4,105,913,465,580      cycles                    #    2.621 GHz                    
+ 6,270,887,164,709      instructions              #    1.53  insn per cycle         
+ 1,198,958,733,135      branches                  #  765.392 M/sec                  
+    25,470,287,651      branch-misses             #    2.12% of all branches        
+
+     718.577403381 seconds time elapsed
+
+     694.921366000 seconds user
+      19.361879000 seconds sys
+
+
+# started on Sun Jul 25 11:19:03 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000008.gbk -out search/BGC0000008_results -db database -distancekb 30 -from 1 -to 100000':
+
+      1,402,219.55 msec task-clock                #    2.403 CPUs utilized          
+           451,589      context-switches          #    0.322 K/sec                  
+               920      cpu-migrations            #    0.001 K/sec                  
+           150,692      page-faults               #    0.107 K/sec                  
+ 3,673,967,701,254      cycles                    #    2.620 GHz                    
+ 5,518,661,549,819      instructions              #    1.50  insn per cycle         
+ 1,030,133,883,914      branches                  #  734.645 M/sec                  
+    23,113,354,607      branch-misses             #    2.24% of all branches        
+
+     583.607473748 seconds time elapsed
+
+     562.054723000 seconds user
+      17.700921000 seconds sys
+
+
+# started on Sun Jul 25 11:28:47 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000009.gbk -out search/BGC0000009_results -db database -distancekb 30 -from 1 -to 100000':
+
+      1,617,183.70 msec task-clock                #    2.238 CPUs utilized          
+           520,857      context-switches          #    0.322 K/sec                  
+               962      cpu-migrations            #    0.001 K/sec                  
+           155,905      page-faults               #    0.096 K/sec                  
+ 4,243,235,982,479      cycles                    #    2.624 GHz                    
+ 6,436,208,566,333      instructions              #    1.52  insn per cycle         
+ 1,228,426,786,769      branches                  #  759.609 M/sec                  
+    26,377,077,024      branch-misses             #    2.15% of all branches        
+
+     722.580553085 seconds time elapsed
+
+     698.633987000 seconds user
+      19.946747000 seconds sys
+
+
+# started on Sun Jul 25 11:40:50 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000010.gbk -out search/BGC0000010_results -db database -distancekb 30 -from 1 -to 100000':
+
+      1,188,490.45 msec task-clock                #    2.477 CPUs utilized          
+           419,995      context-switches          #    0.353 K/sec                  
+               753      cpu-migrations            #    0.001 K/sec                  
+           144,651      page-faults               #    0.122 K/sec                  
+ 3,112,028,066,988      cycles                    #    2.618 GHz                    
+ 4,657,864,023,552      instructions              #    1.50  insn per cycle         
+   867,427,824,560      branches                  #  729.857 M/sec                  
+    19,896,662,113      branch-misses             #    2.29% of all branches        
+
+     479.856717664 seconds time elapsed
+
+     461.593834000 seconds user
+      13.346383000 seconds sys
+
+
+# started on Sun Jul 25 11:48:49 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000011.gbk -out search/BGC0000011_results -db database -distancekb 30 -from 1 -to 100000':
+
+      1,611,066.12 msec task-clock                #    2.162 CPUs utilized          
+           515,498      context-switches          #    0.320 K/sec                  
+               877      cpu-migrations            #    0.001 K/sec                  
+           153,677      page-faults               #    0.095 K/sec                  
+ 4,227,802,866,930      cycles                    #    2.624 GHz                    
+ 6,428,334,216,678      instructions              #    1.52  insn per cycle         
+ 1,241,763,774,216      branches                  #  770.771 M/sec                  
+    26,346,173,190      branch-misses             #    2.12% of all branches        
+
+     745.328907400 seconds time elapsed
+
+     724.693272000 seconds user
+      17.400023000 seconds sys
+
+
+# started on Sun Jul 25 12:01:15 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000013.gbk -out search/BGC0000013_results -db database -distancekb 30 -from 1 -to 100000':
+
+        190,821.50 msec task-clock                #    3.412 CPUs utilized          
+           116,556      context-switches          #    0.611 K/sec                  
+               141      cpu-migrations            #    0.001 K/sec                  
+            76,314      page-faults               #    0.400 K/sec                  
+   496,435,058,829      cycles                    #    2.602 GHz                    
+   646,763,536,491      instructions              #    1.30  insn per cycle         
+   100,567,175,484      branches                  #  527.022 M/sec                  
+     3,663,898,818      branch-misses             #    3.64% of all branches        
+
+      55.918991141 seconds time elapsed
+
+      50.990534000 seconds user
+       4.328584000 seconds sys
+
+
+# started on Sun Jul 25 12:02:11 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000022.gbk -out search/BGC0000022_results -db database -distancekb 30 -from 1 -to 100000':
+
+        723,562.36 msec task-clock                #    4.429 CPUs utilized          
+           311,374      context-switches          #    0.430 K/sec                  
+               537      cpu-migrations            #    0.001 K/sec                  
+           105,392      page-faults               #    0.146 K/sec                  
+ 1,881,529,283,233      cycles                    #    2.600 GHz                    
+ 2,506,386,099,835      instructions              #    1.33  insn per cycle         
+   388,409,751,772      branches                  #  536.802 M/sec                  
+    12,639,085,964      branch-misses             #    3.25% of all branches        
+
+     163.380996024 seconds time elapsed
+
+     148.778707000 seconds user
+      10.928069000 seconds sys
+
+
+# started on Sun Jul 25 12:04:54 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000045.gbk -out search/BGC0000045_results -db database -distancekb 30 -from 1 -to 100000':
+
+        629,932.88 msec task-clock                #    5.723 CPUs utilized          
+           320,020      context-switches          #    0.508 K/sec                  
+               482      cpu-migrations            #    0.001 K/sec                  
+            92,019      page-faults               #    0.146 K/sec                  
+ 1,636,591,673,082      cycles                    #    2.598 GHz                    
+ 2,092,309,406,053      instructions              #    1.28  insn per cycle         
+   300,179,396,514      branches                  #  476.526 M/sec                  
+    10,893,249,825      branch-misses             #    3.63% of all branches        
+
+     110.073633510 seconds time elapsed
+
+      96.580437000 seconds user
+      10.435527000 seconds sys
+
+
+# started on Sun Jul 25 12:06:44 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000057.gbk -out search/BGC0000057_results -db database -distancekb 30 -from 1 -to 100000':
+
+        489,966.94 msec task-clock                #    4.192 CPUs utilized          
+           207,314      context-switches          #    0.423 K/sec                  
+               321      cpu-migrations            #    0.001 K/sec                  
+            96,830      page-faults               #    0.198 K/sec                  
+ 1,274,699,435,963      cycles                    #    2.602 GHz                    
+ 1,695,063,228,484      instructions              #    1.33  insn per cycle         
+   264,262,911,772      branches                  #  539.348 M/sec                  
+     8,827,434,464      branch-misses             #    3.34% of all branches        
+
+     116.890688533 seconds time elapsed
+
+     107.568413000 seconds user
+       8.609035000 seconds sys
+
+
+# started on Sun Jul 25 12:08:41 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000088.gbk -out search/BGC0000088_results -db database -distancekb 30 -from 1 -to 100000':
+
+        905,171.35 msec task-clock                #    3.520 CPUs utilized          
+           424,710      context-switches          #    0.469 K/sec                  
+               620      cpu-migrations            #    0.001 K/sec                  
+           125,906      page-faults               #    0.139 K/sec                  
+ 2,359,776,120,474      cycles                    #    2.607 GHz                    
+ 3,163,831,331,770      instructions              #    1.34  insn per cycle         
+   518,165,633,816      branches                  #  572.450 M/sec                  
+    15,212,443,382      branch-misses             #    2.94% of all branches        
+
+     257.164397287 seconds time elapsed
+
+     241.218535000 seconds user
+      12.729368000 seconds sys
+
+
+# started on Sun Jul 25 12:12:58 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000101.gbk -out search/BGC0000101_results -db database -distancekb 30 -from 1 -to 100000':
+
+        124,218.23 msec task-clock                #    2.186 CPUs utilized          
+            60,734      context-switches          #    0.489 K/sec                  
+               100      cpu-migrations            #    0.001 K/sec                  
+            79,666      page-faults               #    0.641 K/sec                  
+   325,365,659,927      cycles                    #    2.619 GHz                    
+   457,762,882,027      instructions              #    1.41  insn per cycle         
+    79,058,966,883      branches                  #  636.452 M/sec                  
+     2,257,538,719      branch-misses             #    2.86% of all branches        
+
+      56.828417082 seconds time elapsed
+
+      53.050566000 seconds user
+       3.581698000 seconds sys
+
+
+# started on Sun Jul 25 12:13:55 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000129.gbk -out search/BGC0000129_results -db database -distancekb 30 -from 1 -to 100000':
+
+        446,255.82 msec task-clock                #    3.963 CPUs utilized          
+           162,015      context-switches          #    0.363 K/sec                  
+               307      cpu-migrations            #    0.001 K/sec                  
+           103,061      page-faults               #    0.231 K/sec                  
+ 1,162,609,894,724      cycles                    #    2.605 GHz                    
+ 1,550,461,496,770      instructions              #    1.33  insn per cycle         
+   241,464,766,261      branches                  #  541.090 M/sec                  
+     7,697,277,361      branch-misses             #    3.19% of all branches        
+
+     112.599070446 seconds time elapsed
+
+     103.397966000 seconds user
+       7.796291000 seconds sys
+
+
+# started on Sun Jul 25 12:15:48 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000152.gbk -out search/BGC0000152_results -db database -distancekb 30 -from 1 -to 100000':
+
+        911,552.76 msec task-clock                #    3.160 CPUs utilized          
+           380,044      context-switches          #    0.417 K/sec                  
+               639      cpu-migrations            #    0.001 K/sec                  
+           132,318      page-faults               #    0.145 K/sec                  
+ 2,378,737,132,328      cycles                    #    2.610 GHz                    
+ 3,374,366,658,583      instructions              #    1.42  insn per cycle         
+   577,823,988,987      branches                  #  633.890 M/sec                  
+    15,350,912,016      branch-misses             #    2.66% of all branches        
+
+     288.493990150 seconds time elapsed
+
+     272.631154000 seconds user
+      12.243986000 seconds sys
+
+
+# started on Sun Jul 25 12:20:36 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000156.gbk -out search/BGC0000156_results -db database -distancekb 30 -from 1 -to 100000':
+
+        318,669.02 msec task-clock                #    4.228 CPUs utilized          
+           159,281      context-switches          #    0.500 K/sec                  
+               218      cpu-migrations            #    0.001 K/sec                  
+            82,744      page-faults               #    0.260 K/sec                  
+   829,663,561,840      cycles                    #    2.604 GHz                    
+ 1,069,570,626,403      instructions              #    1.29  insn per cycle         
+   162,582,694,289      branches                  #  510.193 M/sec                  
+     6,086,191,825      branch-misses             #    3.74% of all branches        
+
+      75.377162971 seconds time elapsed
+
+      68.541678000 seconds user
+       5.987881000 seconds sys
+
+
+# started on Sun Jul 25 12:21:52 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000160.gbk -out search/BGC0000160_results -db database -distancekb 30 -from 1 -to 100000':
+
+        446,291.19 msec task-clock                #    3.851 CPUs utilized          
+           214,908      context-switches          #    0.482 K/sec                  
+               320      cpu-migrations            #    0.001 K/sec                  
+            96,324      page-faults               #    0.216 K/sec                  
+ 1,161,838,575,902      cycles                    #    2.603 GHz                    
+ 1,562,466,480,550      instructions              #    1.34  insn per cycle         
+   245,091,453,315      branches                  #  549.174 M/sec                  
+     7,818,451,203      branch-misses             #    3.19% of all branches        
+
+     115.879690966 seconds time elapsed
+
+     106.739842000 seconds user
+       7.975401000 seconds sys
+
+
+# started on Sun Jul 25 12:23:48 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000161.gbk -out search/BGC0000161_results -db database -distancekb 30 -from 1 -to 100000':
+
+        525,744.97 msec task-clock                #    4.723 CPUs utilized          
+           242,860      context-switches          #    0.462 K/sec                  
+               347      cpu-migrations            #    0.001 K/sec                  
+            97,935      page-faults               #    0.186 K/sec                  
+ 1,368,031,038,180      cycles                    #    2.602 GHz                    
+ 1,766,120,105,780      instructions              #    1.29  insn per cycle         
+   263,795,567,168      branches                  #  501.756 M/sec                  
+     9,151,168,674      branch-misses             #    3.47% of all branches        
+
+     111.311631243 seconds time elapsed
+
+     100.860952000 seconds user
+       8.651137000 seconds sys
+
+
+# started on Sun Jul 25 12:25:39 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000170.gbk -out search/BGC0000170_results -db database -distancekb 30 -from 1 -to 100000':
+
+        473,677.65 msec task-clock                #    4.145 CPUs utilized          
+           213,015      context-switches          #    0.450 K/sec                  
+               349      cpu-migrations            #    0.001 K/sec                  
+            98,290      page-faults               #    0.208 K/sec                  
+ 1,233,458,336,563      cycles                    #    2.604 GHz                    
+ 1,634,317,114,655      instructions              #    1.32  insn per cycle         
+   252,144,719,213      branches                  #  532.313 M/sec                  
+     8,397,938,021      branch-misses             #    3.33% of all branches        
+
+     114.281508524 seconds time elapsed
+
+     104.285918000 seconds user
+       8.116723000 seconds sys
+
+
+# started on Sun Jul 25 12:27:33 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000292.gbk -out search/BGC0000292_results -db database -distancekb 30 -from 1 -to 100000':
+
+        451,475.97 msec task-clock                #    3.836 CPUs utilized          
+           171,364      context-switches          #    0.380 K/sec                  
+               349      cpu-migrations            #    0.001 K/sec                  
+            99,651      page-faults               #    0.221 K/sec                  
+ 1,176,812,790,792      cycles                    #    2.607 GHz                    
+ 1,561,407,319,626      instructions              #    1.33  insn per cycle         
+   244,066,166,622      branches                  #  540.596 M/sec                  
+     7,979,163,134      branch-misses             #    3.27% of all branches        
+
+     117.681411653 seconds time elapsed
+
+     108.627041000 seconds user
+       8.034601000 seconds sys
+
+
+# started on Sun Jul 25 12:29:31 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000293.gbk -out search/BGC0000293_results -db database -distancekb 30 -from 1 -to 100000':
+
+        258,075.21 msec task-clock                #    3.940 CPUs utilized          
+           140,646      context-switches          #    0.545 K/sec                  
+               153      cpu-migrations            #    0.001 K/sec                  
+            82,406      page-faults               #    0.319 K/sec                  
+   671,349,455,610      cycles                    #    2.601 GHz                    
+   867,826,179,318      instructions              #    1.29  insn per cycle         
+   129,441,106,145      branches                  #  501.564 M/sec                  
+     4,797,559,654      branch-misses             #    3.71% of all branches        
+
+      65.497481995 seconds time elapsed
+
+      59.139410000 seconds user
+       5.918721000 seconds sys
+
+
+# started on Sun Jul 25 12:30:37 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000355.gbk -out search/BGC0000355_results -db database -distancekb 30 -from 1 -to 100000':
+
+        479,447.36 msec task-clock                #    4.981 CPUs utilized          
+           219,482      context-switches          #    0.458 K/sec                  
+               343      cpu-migrations            #    0.001 K/sec                  
+            87,393      page-faults               #    0.182 K/sec                  
+ 1,246,507,099,053      cycles                    #    2.600 GHz                    
+ 1,599,602,610,858      instructions              #    1.28  insn per cycle         
+   226,853,443,890      branches                  #  473.156 M/sec                  
+     8,487,309,421      branch-misses             #    3.74% of all branches        
+
+      96.263686296 seconds time elapsed
+
+      84.239744000 seconds user
+       9.614506000 seconds sys
+
+
+# started on Sun Jul 25 12:32:13 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000356.gbk -out search/BGC0000356_results -db database -distancekb 30 -from 1 -to 100000':
+
+        502,103.79 msec task-clock                #    4.016 CPUs utilized          
+           218,246      context-switches          #    0.435 K/sec                  
+               372      cpu-migrations            #    0.001 K/sec                  
+            98,539      page-faults               #    0.196 K/sec                  
+ 1,307,569,923,820      cycles                    #    2.604 GHz                    
+ 1,753,934,578,451      instructions              #    1.34  insn per cycle         
+   265,648,258,586      branches                  #  529.070 M/sec                  
+     8,761,438,079      branch-misses             #    3.30% of all branches        
+
+     125.028191385 seconds time elapsed
+
+     113.085338000 seconds user
+       9.652244000 seconds sys
+
+
+# started on Sun Jul 25 12:34:18 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000361.gbk -out search/BGC0000361_results -db database -distancekb 30 -from 1 -to 100000':
+
+        555,766.58 msec task-clock                #    4.182 CPUs utilized          
+           321,599      context-switches          #    0.579 K/sec                  
+               358      cpu-migrations            #    0.001 K/sec                  
+           103,278      page-faults               #    0.186 K/sec                  
+ 1,446,349,140,202      cycles                    #    2.602 GHz                    
+ 1,924,171,529,850      instructions              #    1.33  insn per cycle         
+   297,402,572,564      branches                  #  535.121 M/sec                  
+     9,857,830,982      branch-misses             #    3.31% of all branches        
+
+     132.908871653 seconds time elapsed
+
+     121.917760000 seconds user
+       9.661735000 seconds sys
+
+
+# started on Sun Jul 25 12:36:31 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000372.gbk -out search/BGC0000372_results -db database -distancekb 30 -from 1 -to 100000':
+
+        433,518.37 msec task-clock                #    4.771 CPUs utilized          
+           189,835      context-switches          #    0.438 K/sec                  
+               307      cpu-migrations            #    0.001 K/sec                  
+            94,558      page-faults               #    0.218 K/sec                  
+ 1,127,435,565,886      cycles                    #    2.601 GHz                    
+ 1,457,442,533,116      instructions              #    1.29  insn per cycle         
+   211,743,043,624      branches                  #  488.429 M/sec                  
+     7,692,769,698      branch-misses             #    3.63% of all branches        
+
+      90.857636946 seconds time elapsed
+
+      80.883822000 seconds user
+       8.254202000 seconds sys
+
+
+# started on Sun Jul 25 12:38:02 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000442.gbk -out search/BGC0000442_results -db database -distancekb 30 -from 1 -to 100000':
+
+        221,408.75 msec task-clock                #    3.345 CPUs utilized          
+            76,784      context-switches          #    0.347 K/sec                  
+               162      cpu-migrations            #    0.001 K/sec                  
+            86,548      page-faults               #    0.391 K/sec                  
+   576,387,984,434      cycles                    #    2.603 GHz                    
+   760,376,561,282      instructions              #    1.32  insn per cycle         
+   119,348,820,482      branches                  #  539.043 M/sec                  
+     4,187,573,717      branch-misses             #    3.51% of all branches        
+
+      66.198076588 seconds time elapsed
+
+      60.712863000 seconds user
+       5.010492000 seconds sys
+
+
+# started on Sun Jul 25 12:39:08 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000627.gbk -out search/BGC0000627_results -db database -distancekb 30 -from 1 -to 100000':
+
+        456,970.87 msec task-clock                #    3.486 CPUs utilized          
+           170,824      context-switches          #    0.374 K/sec                  
+               285      cpu-migrations            #    0.001 K/sec                  
+           106,465      page-faults               #    0.233 K/sec                  
+ 1,191,448,451,115      cycles                    #    2.607 GHz                    
+ 1,630,744,505,543      instructions              #    1.37  insn per cycle         
+   266,686,560,958      branches                  #  583.596 M/sec                  
+     7,818,933,219      branch-misses             #    2.93% of all branches        
+
+     131.102699972 seconds time elapsed
+
+     122.096182000 seconds user
+       7.685688000 seconds sys
+
+
+# started on Sun Jul 25 12:41:19 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000673.gbk -out search/BGC0000673_results -db database -distancekb 30 -from 1 -to 100000':
+
+        171,380.30 msec task-clock                #    2.569 CPUs utilized          
+            61,234      context-switches          #    0.357 K/sec                  
+               131      cpu-migrations            #    0.001 K/sec                  
+            80,123      page-faults               #    0.468 K/sec                  
+   447,994,989,905      cycles                    #    2.614 GHz                    
+   616,048,044,633      instructions              #    1.38  insn per cycle         
+   103,610,527,742      branches                  #  604.565 M/sec                  
+     3,223,758,436      branch-misses             #    3.11% of all branches        
+
+      66.707023851 seconds time elapsed
+
+      61.501200000 seconds user
+       4.320284000 seconds sys
+
+
+# started on Sun Jul 25 12:42:26 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000682.gbk -out search/BGC0000682_results -db database -distancekb 30 -from 1 -to 100000':
+
+        410,240.27 msec task-clock                #    3.580 CPUs utilized          
+           189,951      context-switches          #    0.463 K/sec                  
+               276      cpu-migrations            #    0.001 K/sec                  
+            98,738      page-faults               #    0.241 K/sec                  
+ 1,068,824,330,131      cycles                    #    2.605 GHz                    
+ 1,455,363,583,141      instructions              #    1.36  insn per cycle         
+   233,663,310,222      branches                  #  569.577 M/sec                  
+     7,082,216,689      branch-misses             #    3.03% of all branches        
+
+     114.597239573 seconds time elapsed
+
+     104.765720000 seconds user
+       7.238585000 seconds sys
+
+
+# started on Sun Jul 25 12:44:21 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000684.gbk -out search/BGC0000684_results -db database -distancekb 30 -from 1 -to 100000':
+
+        375,082.34 msec task-clock                #    4.202 CPUs utilized          
+           168,856      context-switches          #    0.450 K/sec                  
+               261      cpu-migrations            #    0.001 K/sec                  
+            87,091      page-faults               #    0.232 K/sec                  
+   976,286,372,246      cycles                    #    2.603 GHz                    
+ 1,270,571,086,465      instructions              #    1.30  insn per cycle         
+   193,942,428,448      branches                  #  517.066 M/sec                  
+     6,742,985,593      branch-misses             #    3.48% of all branches        
+
+      89.264806848 seconds time elapsed
+
+      81.072689000 seconds user
+       6.567061000 seconds sys
+
+
+# started on Sun Jul 25 12:45:50 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000686.gbk -out search/BGC0000686_results -db database -distancekb 30 -from 1 -to 100000':
+
+        343,145.84 msec task-clock                #    4.804 CPUs utilized          
+           166,303      context-switches          #    0.485 K/sec                  
+               287      cpu-migrations            #    0.001 K/sec                  
+            91,057      page-faults               #    0.265 K/sec                  
+   891,685,336,696      cycles                    #    2.599 GHz                    
+ 1,121,737,942,270      instructions              #    1.26  insn per cycle         
+   161,273,266,427      branches                  #  469.985 M/sec                  
+     6,169,228,272      branch-misses             #    3.83% of all branches        
+
+      71.434225601 seconds time elapsed
+
+      64.399454000 seconds user
+       6.501560000 seconds sys
+
+
+# started on Sun Jul 25 12:47:01 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000811.gbk -out search/BGC0000811_results -db database -distancekb 30 -from 1 -to 100000':
+
+        371,642.91 msec task-clock                #    3.206 CPUs utilized          
+           145,647      context-switches          #    0.392 K/sec                  
+               283      cpu-migrations            #    0.001 K/sec                  
+           101,501      page-faults               #    0.273 K/sec                  
+   968,774,344,525      cycles                    #    2.607 GHz                    
+ 1,338,478,789,374      instructions              #    1.38  insn per cycle         
+   220,905,403,199      branches                  #  594.402 M/sec                  
+     6,397,657,692      branch-misses             #    2.90% of all branches        
+
+     115.916650053 seconds time elapsed
+
+     108.031880000 seconds user
+       7.080193000 seconds sys
+
+
+# started on Sun Jul 25 12:48:57 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000818.gbk -out search/BGC0000818_results -db database -distancekb 30 -from 1 -to 100000':
+
+        874,288.29 msec task-clock                #    2.894 CPUs utilized          
+           363,418      context-switches          #    0.416 K/sec                  
+               540      cpu-migrations            #    0.001 K/sec                  
+           118,912      page-faults               #    0.136 K/sec                  
+ 2,285,293,012,922      cycles                    #    2.614 GHz                    
+ 3,346,244,744,777      instructions              #    1.46  insn per cycle         
+   588,163,085,938      branches                  #  672.734 M/sec                  
+    14,499,270,212      branch-misses             #    2.47% of all branches        
+
+     302.080614707 seconds time elapsed
+
+     288.049511000 seconds user
+      11.767080000 seconds sys
+
+
+# started on Sun Jul 25 12:54:00 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000900.gbk -out search/BGC0000900_results -db database -distancekb 30 -from 1 -to 100000':
+
+        183,423.18 msec task-clock                #    3.086 CPUs utilized          
+            84,074      context-switches          #    0.458 K/sec                  
+               133      cpu-migrations            #    0.001 K/sec                  
+            77,181      page-faults               #    0.421 K/sec                  
+   478,132,187,685      cycles                    #    2.607 GHz                    
+   636,195,455,846      instructions              #    1.33  insn per cycle         
+    98,372,934,260      branches                  #  536.317 M/sec                  
+     3,563,404,891      branch-misses             #    3.62% of all branches        
+
+      59.446277140 seconds time elapsed
+
+      54.145501000 seconds user
+       4.888441000 seconds sys
+
+
+# started on Sun Jul 25 12:54:59 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000901.gbk -out search/BGC0000901_results -db database -distancekb 30 -from 1 -to 100000':
+
+        454,171.85 msec task-clock                #    5.065 CPUs utilized          
+           227,955      context-switches          #    0.502 K/sec                  
+               295      cpu-migrations            #    0.001 K/sec                  
+            78,856      page-faults               #    0.174 K/sec                  
+ 1,180,040,236,427      cycles                    #    2.598 GHz                    
+ 1,511,114,239,871      instructions              #    1.28  insn per cycle         
+   210,745,127,613      branches                  #  464.021 M/sec                  
+     8,204,798,810      branch-misses             #    3.89% of all branches        
+
+      89.665051838 seconds time elapsed
+
+      76.990684000 seconds user
+      10.428763000 seconds sys
+
+
+# started on Sun Jul 25 12:56:29 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000959.gbk -out search/BGC0000959_results -db database -distancekb 30 -from 1 -to 100000':
+
+        539,653.15 msec task-clock                #    4.880 CPUs utilized          
+           242,305      context-switches          #    0.449 K/sec                  
+               423      cpu-migrations            #    0.001 K/sec                  
+            95,790      page-faults               #    0.178 K/sec                  
+ 1,401,290,963,635      cycles                    #    2.597 GHz                    
+ 1,796,024,504,740      instructions              #    1.28  insn per cycle         
+   262,591,234,113      branches                  #  486.593 M/sec                  
+     9,423,827,712      branch-misses             #    3.59% of all branches        
+
+     110.576254250 seconds time elapsed
+
+      98.411259000 seconds user
+       9.443275000 seconds sys
+
+
+# started on Sun Jul 25 12:58:19 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000977.gbk -out search/BGC0000977_results -db database -distancekb 30 -from 1 -to 100000':
+
+        491,844.59 msec task-clock                #    4.647 CPUs utilized          
+           210,705      context-switches          #    0.428 K/sec                  
+               434      cpu-migrations            #    0.001 K/sec                  
+            91,878      page-faults               #    0.187 K/sec                  
+ 1,277,540,575,744      cycles                    #    2.597 GHz                    
+ 1,656,946,766,754      instructions              #    1.30  insn per cycle         
+   245,686,640,892      branches                  #  499.521 M/sec                  
+     8,511,976,839      branch-misses             #    3.46% of all branches        
+
+     105.833535345 seconds time elapsed
+
+      96.077360000 seconds user
+       8.636781000 seconds sys
+
+
+# started on Sun Jul 25 13:00:05 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0000983.gbk -out search/BGC0000983_results -db database -distancekb 30 -from 1 -to 100000':
+
+        701,004.70 msec task-clock                #    5.147 CPUs utilized          
+           358,991      context-switches          #    0.512 K/sec                  
+               519      cpu-migrations            #    0.001 K/sec                  
+           100,056      page-faults               #    0.143 K/sec                  
+ 1,820,127,644,266      cycles                    #    2.596 GHz                    
+ 2,329,274,755,814      instructions              #    1.28  insn per cycle         
+   342,644,711,840      branches                  #  488.791 M/sec                  
+    12,109,700,527      branch-misses             #    3.53% of all branches        
+
+     136.188034297 seconds time elapsed
+
+     121.798756000 seconds user
+      11.153877000 seconds sys
+
+
+# started on Sun Jul 25 13:02:21 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001037.gbk -out search/BGC0001037_results -db database -distancekb 30 -from 1 -to 100000':
+
+        399,844.80 msec task-clock                #    4.743 CPUs utilized          
+           206,964      context-switches          #    0.518 K/sec                  
+               268      cpu-migrations            #    0.001 K/sec                  
+            84,332      page-faults               #    0.211 K/sec                  
+ 1,038,212,125,025      cycles                    #    2.597 GHz                    
+ 1,319,312,370,648      instructions              #    1.27  insn per cycle         
+   191,830,218,365      branches                  #  479.762 M/sec                  
+     7,072,054,154      branch-misses             #    3.69% of all branches        
+
+      84.295260952 seconds time elapsed
+
+      75.685425000 seconds user
+       7.395626000 seconds sys
+
+
+# started on Sun Jul 25 13:03:46 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001067.gbk -out search/BGC0001067_results -db database -distancekb 30 -from 1 -to 100000':
+
+        679,311.76 msec task-clock                #    3.712 CPUs utilized          
+           285,654      context-switches          #    0.421 K/sec                  
+               502      cpu-migrations            #    0.001 K/sec                  
+           105,969      page-faults               #    0.156 K/sec                  
+ 1,765,207,276,601      cycles                    #    2.599 GHz                    
+ 2,412,305,461,199      instructions              #    1.37  insn per cycle         
+   390,707,468,225      branches                  #  575.152 M/sec                  
+    11,454,988,442      branch-misses             #    2.93% of all branches        
+
+     182.983667887 seconds time elapsed
+
+     169.959838000 seconds user
+      10.069883000 seconds sys
+
+
+# started on Sun Jul 25 13:06:49 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001084.gbk -out search/BGC0001084_results -db database -distancekb 30 -from 1 -to 100000':
+
+        891,535.15 msec task-clock                #    2.950 CPUs utilized          
+           329,600      context-switches          #    0.370 K/sec                  
+               622      cpu-migrations            #    0.001 K/sec                  
+           120,910      page-faults               #    0.136 K/sec                  
+ 2,328,528,794,543      cycles                    #    2.612 GHz                    
+ 3,388,719,161,700      instructions              #    1.46  insn per cycle         
+   590,951,257,340      branches                  #  662.847 M/sec                  
+    15,278,081,023      branch-misses             #    2.59% of all branches        
+
+     302.213330987 seconds time elapsed
+
+     286.517717000 seconds user
+      12.251986000 seconds sys
+
+
+# started on Sun Jul 25 13:11:51 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001118.gbk -out search/BGC0001118_results -db database -distancekb 30 -from 1 -to 100000':
+
+        403,436.84 msec task-clock                #    3.975 CPUs utilized          
+           190,069      context-switches          #    0.471 K/sec                  
+               260      cpu-migrations            #    0.001 K/sec                  
+            92,549      page-faults               #    0.229 K/sec                  
+ 1,049,934,031,987      cycles                    #    2.602 GHz                    
+ 1,376,678,625,447      instructions              #    1.31  insn per cycle         
+   214,442,519,347      branches                  #  531.539 M/sec                  
+     7,078,666,706      branch-misses             #    3.30% of all branches        
+
+     101.505496443 seconds time elapsed
+
+      92.949223000 seconds user
+       7.463420000 seconds sys
+
+
+# started on Sun Jul 25 13:13:33 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001122.gbk -out search/BGC0001122_results -db database -distancekb 30 -from 1 -to 100000':
+
+        794,115.89 msec task-clock                #    4.968 CPUs utilized          
+           333,882      context-switches          #    0.420 K/sec                  
+               618      cpu-migrations            #    0.001 K/sec                  
+           104,671      page-faults               #    0.132 K/sec                  
+ 2,065,538,553,010      cycles                    #    2.601 GHz                    
+ 2,745,434,458,223      instructions              #    1.33  insn per cycle         
+   413,132,541,106      branches                  #  520.242 M/sec                  
+    14,068,402,351      branch-misses             #    3.41% of all branches        
+
+     159.834526163 seconds time elapsed
+
+     143.538866000 seconds user
+      11.743096000 seconds sys
+
+
+# started on Sun Jul 25 13:16:12 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001123.gbk -out search/BGC0001123_results -db database -distancekb 30 -from 1 -to 100000':
+
+        817,015.52 msec task-clock                #    3.321 CPUs utilized          
+           337,716      context-switches          #    0.413 K/sec                  
+               550      cpu-migrations            #    0.001 K/sec                  
+           123,661      page-faults               #    0.151 K/sec                  
+ 2,131,354,008,589      cycles                    #    2.609 GHz                    
+ 3,011,163,260,832      instructions              #    1.41  insn per cycle         
+   507,413,442,303      branches                  #  621.057 M/sec                  
+    13,617,442,218      branch-misses             #    2.68% of all branches        
+
+     246.050602629 seconds time elapsed
+
+     231.584349000 seconds user
+      11.315910000 seconds sys
+
+
+# started on Sun Jul 25 13:20:19 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001143.gbk -out search/BGC0001143_results -db database -distancekb 30 -from 1 -to 100000':
+
+        790,623.20 msec task-clock                #    3.737 CPUs utilized          
+           329,445      context-switches          #    0.417 K/sec                  
+               586      cpu-migrations            #    0.001 K/sec                  
+           110,266      page-faults               #    0.139 K/sec                  
+ 2,060,019,058,123      cycles                    #    2.606 GHz                    
+ 2,846,911,569,240      instructions              #    1.38  insn per cycle         
+   462,997,485,333      branches                  #  585.611 M/sec                  
+    13,059,296,515      branch-misses             #    2.82% of all branches        
+
+     211.561502900 seconds time elapsed
+
+     197.427466000 seconds user
+      11.773918000 seconds sys
+
+
+# started on Sun Jul 25 13:23:50 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001238.gbk -out search/BGC0001238_results -db database -distancekb 30 -from 1 -to 100000':
+
+        131,037.96 msec task-clock                #    2.404 CPUs utilized          
+            48,064      context-switches          #    0.367 K/sec                  
+                96      cpu-migrations            #    0.001 K/sec                  
+            75,147      page-faults               #    0.573 K/sec                  
+   342,649,485,633      cycles                    #    2.615 GHz                    
+   466,129,455,767      instructions              #    1.36  insn per cycle         
+    78,773,975,893      branches                  #  601.154 M/sec                  
+     2,457,751,631      branch-misses             #    3.12% of all branches        
+
+      54.497760718 seconds time elapsed
+
+      50.378141000 seconds user
+       4.018715000 seconds sys
+
+
+# started on Sun Jul 25 13:24:45 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001239.gbk -out search/BGC0001239_results -db database -distancekb 30 -from 1 -to 100000':
+
+        151,419.93 msec task-clock                #    2.735 CPUs utilized          
+            60,015      context-switches          #    0.396 K/sec                  
+               118      cpu-migrations            #    0.001 K/sec                  
+            77,840      page-faults               #    0.514 K/sec                  
+   394,923,403,196      cycles                    #    2.608 GHz                    
+   528,732,528,220      instructions              #    1.34  insn per cycle         
+    86,604,346,131      branches                  #  571.948 M/sec                  
+     2,931,135,888      branch-misses             #    3.38% of all branches        
+
+      55.362477744 seconds time elapsed
+
+      50.812967000 seconds user
+       3.676069000 seconds sys
+
+
+# started on Sun Jul 25 13:25:40 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001290.gbk -out search/BGC0001290_results -db database -distancekb 30 -from 1 -to 100000':
+
+        719,496.62 msec task-clock                #    6.246 CPUs utilized          
+           329,820      context-switches          #    0.458 K/sec                  
+               532      cpu-migrations            #    0.001 K/sec                  
+            99,897      page-faults               #    0.139 K/sec                  
+ 1,867,677,470,066      cycles                    #    2.596 GHz                    
+ 2,332,311,014,276      instructions              #    1.25  insn per cycle         
+   319,365,497,457      branches                  #  443.874 M/sec                  
+    12,789,000,079      branch-misses             #    4.00% of all branches        
+
+     115.192628336 seconds time elapsed
+
+      99.191187000 seconds user
+      14.016599000 seconds sys
+
+
+# started on Sun Jul 25 13:27:35 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001304.gbk -out search/BGC0001304_results -db database -distancekb 30 -from 1 -to 100000':
+
+        266,414.04 msec task-clock                #    3.394 CPUs utilized          
+           125,052      context-switches          #    0.469 K/sec                  
+               161      cpu-migrations            #    0.001 K/sec                  
+            83,689      page-faults               #    0.314 K/sec                  
+   693,643,892,410      cycles                    #    2.604 GHz                    
+   926,879,824,136      instructions              #    1.34  insn per cycle         
+   146,617,565,590      branches                  #  550.337 M/sec                  
+     4,791,903,080      branch-misses             #    3.27% of all branches        
+
+      78.505087750 seconds time elapsed
+
+      72.337207000 seconds user
+       5.455367000 seconds sys
+
+
+# started on Sun Jul 25 13:28:54 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001306.gbk -out search/BGC0001306_results -db database -distancekb 30 -from 1 -to 100000':
+
+        152,105.51 msec task-clock                #    2.398 CPUs utilized          
+            73,349      context-switches          #    0.482 K/sec                  
+               110      cpu-migrations            #    0.001 K/sec                  
+            85,548      page-faults               #    0.562 K/sec                  
+   397,144,368,420      cycles                    #    2.611 GHz                    
+   553,095,375,750      instructions              #    1.39  insn per cycle         
+    94,134,353,730      branches                  #  618.875 M/sec                  
+     2,726,761,743      branch-misses             #    2.90% of all branches        
+
+      63.434852697 seconds time elapsed
+
+      59.180126000 seconds user
+       4.170731000 seconds sys
+
+
+# started on Sun Jul 25 13:29:57 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001371.gbk -out search/BGC0001371_results -db database -distancekb 30 -from 1 -to 100000':
+
+      1,014,863.93 msec task-clock                #    5.718 CPUs utilized          
+           524,576      context-switches          #    0.517 K/sec                  
+               689      cpu-migrations            #    0.001 K/sec                  
+           123,028      page-faults               #    0.121 K/sec                  
+ 2,635,585,130,434      cycles                    #    2.597 GHz                    
+ 3,376,693,867,126      instructions              #    1.28  insn per cycle         
+   485,259,000,316      branches                  #  478.152 M/sec                  
+    18,080,229,883      branch-misses             #    3.73% of all branches        
+
+     177.471411513 seconds time elapsed
+
+     157.177007000 seconds user
+      17.201781000 seconds sys
+
+
+# started on Sun Jul 25 13:32:55 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001399.gbk -out search/BGC0001399_results -db database -distancekb 30 -from 1 -to 100000':
+
+        275,647.04 msec task-clock                #    3.437 CPUs utilized          
+           136,821      context-switches          #    0.496 K/sec                  
+               192      cpu-migrations            #    0.001 K/sec                  
+            85,381      page-faults               #    0.310 K/sec                  
+   717,886,700,928      cycles                    #    2.604 GHz                    
+   956,052,161,881      instructions              #    1.33  insn per cycle         
+   150,354,318,618      branches                  #  545.460 M/sec                  
+     5,193,618,292      branch-misses             #    3.45% of all branches        
+
+      80.192830458 seconds time elapsed
+
+      73.541640000 seconds user
+       5.841437000 seconds sys
+
+
+# started on Sun Jul 25 13:34:15 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001400.gbk -out search/BGC0001400_results -db database -distancekb 30 -from 1 -to 100000':
+
+        299,919.10 msec task-clock                #    3.825 CPUs utilized          
+           130,435      context-switches          #    0.435 K/sec                  
+               207      cpu-migrations            #    0.001 K/sec                  
+            86,544      page-faults               #    0.289 K/sec                  
+   781,111,123,267      cycles                    #    2.604 GHz                    
+ 1,016,729,364,847      instructions              #    1.30  insn per cycle         
+   155,703,909,078      branches                  #  519.153 M/sec                  
+     5,399,084,873      branch-misses             #    3.47% of all branches        
+
+      78.417617579 seconds time elapsed
+
+      71.841305000 seconds user
+       6.164092000 seconds sys
+
+
+# started on Sun Jul 25 13:35:33 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001403.gbk -out search/BGC0001403_results -db database -distancekb 30 -from 1 -to 100000':
+
+        522,191.72 msec task-clock                #    3.574 CPUs utilized          
+           245,175      context-switches          #    0.470 K/sec                  
+               326      cpu-migrations            #    0.001 K/sec                  
+           105,111      page-faults               #    0.201 K/sec                  
+ 1,361,296,510,268      cycles                    #    2.607 GHz                    
+ 1,864,375,056,815      instructions              #    1.37  insn per cycle         
+   304,673,799,223      branches                  #  583.452 M/sec                  
+     8,837,899,646      branch-misses             #    2.90% of all branches        
+
+     146.097187577 seconds time elapsed
+
+     136.428119000 seconds user
+       8.390702000 seconds sys
+
+
+# started on Sun Jul 25 13:38:00 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001445.gbk -out search/BGC0001445_results -db database -distancekb 30 -from 1 -to 100000':
+
+        594,282.31 msec task-clock                #    4.398 CPUs utilized          
+           251,438      context-switches          #    0.423 K/sec                  
+               432      cpu-migrations            #    0.001 K/sec                  
+           101,918      page-faults               #    0.171 K/sec                  
+ 1,547,004,170,956      cycles                    #    2.603 GHz                    
+ 2,025,263,999,259      instructions              #    1.31  insn per cycle         
+   307,061,444,161      branches                  #  516.693 M/sec                  
+    10,341,408,194      branch-misses             #    3.37% of all branches        
+
+     135.111030174 seconds time elapsed
+
+     123.501739000 seconds user
+      10.146311000 seconds sys
+
+
+# started on Sun Jul 25 13:40:15 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001446.gbk -out search/BGC0001446_results -db database -distancekb 30 -from 1 -to 100000':
+
+        262,414.87 msec task-clock                #    3.579 CPUs utilized          
+            97,275      context-switches          #    0.371 K/sec                  
+               239      cpu-migrations            #    0.001 K/sec                  
+            79,650      page-faults               #    0.304 K/sec                  
+   683,381,440,016      cycles                    #    2.604 GHz                    
+   909,206,773,993      instructions              #    1.33  insn per cycle         
+   139,838,156,331      branches                  #  532.890 M/sec                  
+     4,832,237,282      branch-misses             #    3.46% of all branches        
+
+      73.321168783 seconds time elapsed
+
+      66.858860000 seconds user
+       5.673995000 seconds sys
+
+
+# started on Sun Jul 25 13:41:28 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001475.gbk -out search/BGC0001475_results -db database -distancekb 30 -from 1 -to 100000':
+
+        189,631.52 msec task-clock                #    3.018 CPUs utilized          
+            96,229      context-switches          #    0.507 K/sec                  
+               187      cpu-migrations            #    0.001 K/sec                  
+            83,685      page-faults               #    0.441 K/sec                  
+   493,902,979,381      cycles                    #    2.605 GHz                    
+   661,155,046,953      instructions              #    1.34  insn per cycle         
+   105,676,925,385      branches                  #  557.275 M/sec                  
+     3,546,030,741      branch-misses             #    3.36% of all branches        
+
+      62.843215970 seconds time elapsed
+
+      58.075626000 seconds user
+       4.564635000 seconds sys
+
+
+# started on Sun Jul 25 13:42:31 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001515.gbk -out search/BGC0001515_results -db database -distancekb 30 -from 1 -to 100000':
+
+      1,175,503.97 msec task-clock                #    4.750 CPUs utilized          
+           570,115      context-switches          #    0.485 K/sec                  
+               785      cpu-migrations            #    0.001 K/sec                  
+           108,448      page-faults               #    0.092 K/sec                  
+ 3,058,796,720,953      cycles                    #    2.602 GHz                    
+ 4,062,665,591,652      instructions              #    1.33  insn per cycle         
+   616,216,396,227      branches                  #  524.215 M/sec                  
+    19,590,856,759      branch-misses             #    3.18% of all branches        
+
+     247.461393034 seconds time elapsed
+
+     224.106258000 seconds user
+      18.111391000 seconds sys
+
+
+# started on Sun Jul 25 13:46:38 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001516.gbk -out search/BGC0001516_results -db database -distancekb 30 -from 1 -to 100000':
+
+        307,923.33 msec task-clock                #    3.466 CPUs utilized          
+           121,080      context-switches          #    0.393 K/sec                  
+               295      cpu-migrations            #    0.001 K/sec                  
+            88,621      page-faults               #    0.288 K/sec                  
+   802,632,663,916      cycles                    #    2.607 GHz                    
+ 1,081,626,037,123      instructions              #    1.35  insn per cycle         
+   170,733,494,705      branches                  #  554.468 M/sec                  
+     5,649,582,974      branch-misses             #    3.31% of all branches        
+
+      88.853396717 seconds time elapsed
+
+      82.018969000 seconds user
+       6.065705000 seconds sys
+
+
+# started on Sun Jul 25 13:48:07 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001517.gbk -out search/BGC0001517_results -db database -distancekb 30 -from 1 -to 100000':
+
+        259,615.15 msec task-clock                #    3.365 CPUs utilized          
+            99,529      context-switches          #    0.383 K/sec                  
+               195      cpu-migrations            #    0.001 K/sec                  
+            84,917      page-faults               #    0.327 K/sec                  
+   676,686,457,862      cycles                    #    2.606 GHz                    
+   904,579,349,799      instructions              #    1.34  insn per cycle         
+   139,811,848,522      branches                  #  538.535 M/sec                  
+     4,709,240,820      branch-misses             #    3.37% of all branches        
+
+      77.147680655 seconds time elapsed
+
+      70.317107000 seconds user
+       6.527799000 seconds sys
+
+
+# started on Sun Jul 25 13:49:25 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001518.gbk -out search/BGC0001518_results -db database -distancekb 30 -from 1 -to 100000':
+
+        417,383.78 msec task-clock                #    3.831 CPUs utilized          
+           160,384      context-switches          #    0.384 K/sec                  
+               356      cpu-migrations            #    0.001 K/sec                  
+           101,400      page-faults               #    0.243 K/sec                  
+ 1,087,825,264,565      cycles                    #    2.606 GHz                    
+ 1,451,847,501,469      instructions              #    1.33  insn per cycle         
+   223,557,773,614      branches                  #  535.617 M/sec                  
+     7,356,985,641      branch-misses             #    3.29% of all branches        
+
+     108.939484587 seconds time elapsed
+
+      99.288429000 seconds user
+       8.082490000 seconds sys
+
+
+# started on Sun Jul 25 13:51:14 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001544.gbk -out search/BGC0001544_results -db database -distancekb 30 -from 1 -to 100000':
+
+        480,856.44 msec task-clock                #    4.775 CPUs utilized          
+           230,928      context-switches          #    0.480 K/sec                  
+               339      cpu-migrations            #    0.001 K/sec                  
+            94,502      page-faults               #    0.197 K/sec                  
+ 1,250,794,290,736      cycles                    #    2.601 GHz                    
+ 1,599,908,659,516      instructions              #    1.28  insn per cycle         
+   235,575,176,352      branches                  #  489.908 M/sec                  
+     8,387,209,136      branch-misses             #    3.56% of all branches        
+
+     100.701387293 seconds time elapsed
+
+      90.261096000 seconds user
+       7.939393000 seconds sys
+
+
+# started on Sun Jul 25 13:52:54 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001547.gbk -out search/BGC0001547_results -db database -distancekb 30 -from 1 -to 100000':
+
+        376,892.42 msec task-clock                #    3.017 CPUs utilized          
+           140,891      context-switches          #    0.374 K/sec                  
+               212      cpu-migrations            #    0.001 K/sec                  
+           101,739      page-faults               #    0.270 K/sec                  
+   983,517,711,692      cycles                    #    2.610 GHz                    
+ 1,383,194,240,823      instructions              #    1.41  insn per cycle         
+   233,949,600,629      branches                  #  620.733 M/sec                  
+     6,578,685,667      branch-misses             #    2.81% of all branches        
+
+     124.932090902 seconds time elapsed
+
+     116.493066000 seconds user
+       6.704305000 seconds sys
+
+
+# started on Sun Jul 25 13:54:59 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001616.gbk -out search/BGC0001616_results -db database -distancekb 30 -from 1 -to 100000':
+
+        130,111.52 msec task-clock                #    2.102 CPUs utilized          
+            40,995      context-switches          #    0.315 K/sec                  
+               105      cpu-migrations            #    0.001 K/sec                  
+            82,576      page-faults               #    0.635 K/sec                  
+   340,234,760,349      cycles                    #    2.615 GHz                    
+   477,819,213,630      instructions              #    1.40  insn per cycle         
+    83,735,462,604      branches                  #  643.567 M/sec                  
+     2,319,190,886      branch-misses             #    2.77% of all branches        
+
+      61.895183200 seconds time elapsed
+
+      57.654444000 seconds user
+       4.139652000 seconds sys
+
+
+# started on Sun Jul 25 13:56:01 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001621.gbk -out search/BGC0001621_results -db database -distancekb 30 -from 1 -to 100000':
+
+        419,319.74 msec task-clock                #    3.547 CPUs utilized          
+           167,479      context-switches          #    0.399 K/sec                  
+               257      cpu-migrations            #    0.001 K/sec                  
+            98,106      page-faults               #    0.234 K/sec                  
+ 1,093,238,873,940      cycles                    #    2.607 GHz                    
+ 1,485,248,552,527      instructions              #    1.36  insn per cycle         
+   236,418,629,672      branches                  #  563.815 M/sec                  
+     7,396,625,680      branch-misses             #    3.13% of all branches        
+
+     118.229273513 seconds time elapsed
+
+     108.329100000 seconds user
+       8.074308000 seconds sys
+
+
+# started on Sun Jul 25 13:57:59 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001668.gbk -out search/BGC0001668_results -db database -distancekb 30 -from 1 -to 100000':
+
+        178,277.85 msec task-clock                #    2.921 CPUs utilized          
+            65,082      context-switches          #    0.365 K/sec                  
+               159      cpu-migrations            #    0.001 K/sec                  
+            80,737      page-faults               #    0.453 K/sec                  
+   464,499,871,118      cycles                    #    2.605 GHz                    
+   621,992,070,715      instructions              #    1.34  insn per cycle         
+   100,270,142,216      branches                  #  562.437 M/sec                  
+     3,478,345,333      branch-misses             #    3.47% of all branches        
+
+      61.033126253 seconds time elapsed
+
+      56.221850000 seconds user
+       4.437737000 seconds sys
+
+
+# started on Sun Jul 25 13:59:01 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001679.gbk -out search/BGC0001679_results -db database -distancekb 30 -from 1 -to 100000':
+
+        285,315.39 msec task-clock                #    4.155 CPUs utilized          
+           143,213      context-switches          #    0.502 K/sec                  
+               205      cpu-migrations            #    0.001 K/sec                  
+            82,058      page-faults               #    0.288 K/sec                  
+   741,998,969,352      cycles                    #    2.601 GHz                    
+   975,921,491,606      instructions              #    1.32  insn per cycle         
+   141,788,843,426      branches                  #  496.955 M/sec                  
+     4,844,169,057      branch-misses             #    3.42% of all branches        
+
+      68.673400927 seconds time elapsed
+
+      61.056596000 seconds user
+       6.880644000 seconds sys
+
+
+# started on Sun Jul 25 14:00:09 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001699.gbk -out search/BGC0001699_results -db database -distancekb 30 -from 1 -to 100000':
+
+        547,863.89 msec task-clock                #    5.215 CPUs utilized          
+           234,969      context-switches          #    0.429 K/sec                  
+               395      cpu-migrations            #    0.001 K/sec                  
+            84,387      page-faults               #    0.154 K/sec                  
+ 1,423,676,139,505      cycles                    #    2.599 GHz                    
+ 1,836,919,104,047      instructions              #    1.29  insn per cycle         
+   258,109,741,086      branches                  #  471.120 M/sec                  
+     9,576,411,682      branch-misses             #    3.71% of all branches        
+
+     105.062350669 seconds time elapsed
+
+      91.907266000 seconds user
+      11.056314000 seconds sys
+
+
+# started on Sun Jul 25 14:01:54 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001708.gbk -out search/BGC0001708_results -db database -distancekb 30 -from 1 -to 100000':
+
+        511,355.58 msec task-clock                #    3.032 CPUs utilized          
+           265,719      context-switches          #    0.520 K/sec                  
+               326      cpu-migrations            #    0.001 K/sec                  
+           110,352      page-faults               #    0.216 K/sec                  
+ 1,333,797,534,761      cycles                    #    2.608 GHz                    
+ 1,910,376,695,456      instructions              #    1.43  insn per cycle         
+   328,406,023,048      branches                  #  642.226 M/sec                  
+     8,440,159,422      branch-misses             #    2.57% of all branches        
+
+     168.630952437 seconds time elapsed
+
+     159.612547000 seconds user
+       8.120045000 seconds sys
+
+
+# started on Sun Jul 25 14:04:43 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001712.gbk -out search/BGC0001712_results -db database -distancekb 30 -from 1 -to 100000':
+
+        637,367.84 msec task-clock                #    3.434 CPUs utilized          
+           257,659      context-switches          #    0.404 K/sec                  
+               446      cpu-migrations            #    0.001 K/sec                  
+           110,909      page-faults               #    0.174 K/sec                  
+ 1,662,306,837,176      cycles                    #    2.608 GHz                    
+ 2,330,474,762,231      instructions              #    1.40  insn per cycle         
+   387,751,017,900      branches                  #  608.363 M/sec                  
+    10,401,890,740      branch-misses             #    2.68% of all branches        
+
+     185.626823013 seconds time elapsed
+
+     173.733003000 seconds user
+       9.860827000 seconds sys
+
+
+# started on Sun Jul 25 14:07:49 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001718.gbk -out search/BGC0001718_results -db database -distancekb 30 -from 1 -to 100000':
+
+        301,271.37 msec task-clock                #    3.560 CPUs utilized          
+           151,160      context-switches          #    0.502 K/sec                  
+               211      cpu-migrations            #    0.001 K/sec                  
+            87,330      page-faults               #    0.290 K/sec                  
+   784,781,523,302      cycles                    #    2.605 GHz                    
+ 1,037,800,961,605      instructions              #    1.32  insn per cycle         
+   159,642,023,057      branches                  #  529.894 M/sec                  
+     5,494,009,386      branch-misses             #    3.44% of all branches        
+
+      84.626367767 seconds time elapsed
+
+      76.926096000 seconds user
+       6.518675000 seconds sys
+
+
+# started on Sun Jul 25 14:09:13 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001722.gbk -out search/BGC0001722_results -db database -distancekb 30 -from 1 -to 100000':
+
+        353,213.36 msec task-clock                #    3.757 CPUs utilized          
+           171,043      context-switches          #    0.484 K/sec                  
+               327      cpu-migrations            #    0.001 K/sec                  
+            90,724      page-faults               #    0.257 K/sec                  
+   919,977,525,036      cycles                    #    2.605 GHz                    
+ 1,225,137,711,799      instructions              #    1.33  insn per cycle         
+   191,953,797,096      branches                  #  543.450 M/sec                  
+     6,349,282,719      branch-misses             #    3.31% of all branches        
+
+      94.005546443 seconds time elapsed
+
+      86.274221000 seconds user
+       6.889523000 seconds sys
+
+
+# started on Sun Jul 25 14:10:47 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001839.gbk -out search/BGC0001839_results -db database -distancekb 30 -from 1 -to 100000':
+
+        179,949.53 msec task-clock                #    2.845 CPUs utilized          
+            92,462      context-switches          #    0.514 K/sec                  
+               128      cpu-migrations            #    0.001 K/sec                  
+            81,129      page-faults               #    0.451 K/sec                  
+   469,250,802,865      cycles                    #    2.608 GHz                    
+   629,875,360,467      instructions              #    1.34  insn per cycle         
+   103,964,255,835      branches                  #  577.741 M/sec                  
+     3,472,912,285      branch-misses             #    3.34% of all branches        
+
+      63.247544019 seconds time elapsed
+
+      58.414883000 seconds user
+       4.595575000 seconds sys
+
+
+# started on Sun Jul 25 14:11:51 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001857.gbk -out search/BGC0001857_results -db database -distancekb 30 -from 1 -to 100000':
+
+        556,837.44 msec task-clock                #    4.192 CPUs utilized          
+           258,137      context-switches          #    0.464 K/sec                  
+               435      cpu-migrations            #    0.001 K/sec                  
+            98,567      page-faults               #    0.177 K/sec                  
+ 1,449,560,977,100      cycles                    #    2.603 GHz                    
+ 1,930,750,411,858      instructions              #    1.33  insn per cycle         
+   298,240,510,092      branches                  #  535.597 M/sec                  
+     9,678,358,045      branch-misses             #    3.25% of all branches        
+
+     132.848089585 seconds time elapsed
+
+     121.666313000 seconds user
+       9.523980000 seconds sys
+
+
+# started on Sun Jul 25 14:14:04 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001874.gbk -out search/BGC0001874_results -db database -distancekb 30 -from 1 -to 100000':
+
+        341,112.73 msec task-clock                #    4.456 CPUs utilized          
+           154,677      context-switches          #    0.453 K/sec                  
+               262      cpu-migrations            #    0.001 K/sec                  
+            83,422      page-faults               #    0.245 K/sec                  
+   887,469,580,304      cycles                    #    2.602 GHz                    
+ 1,138,050,494,112      instructions              #    1.28  insn per cycle         
+   167,141,483,269      branches                  #  489.989 M/sec                  
+     6,072,893,409      branch-misses             #    3.63% of all branches        
+
+      76.551266473 seconds time elapsed
+
+      68.448751000 seconds user
+       6.575815000 seconds sys
+
+
+# started on Sun Jul 25 14:15:20 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001988.gbk -out search/BGC0001988_results -db database -distancekb 30 -from 1 -to 100000':
+
+        676,980.80 msec task-clock                #    3.157 CPUs utilized          
+           243,327      context-switches          #    0.359 K/sec                  
+               425      cpu-migrations            #    0.001 K/sec                  
+           115,937      page-faults               #    0.171 K/sec                  
+ 1,767,015,726,241      cycles                    #    2.610 GHz                    
+ 2,491,554,462,918      instructions              #    1.41  insn per cycle         
+   425,901,058,942      branches                  #  629.118 M/sec                  
+    11,676,533,596      branch-misses             #    2.74% of all branches        
+
+     214.411958667 seconds time elapsed
+
+     202.123096000 seconds user
+       9.581364000 seconds sys
+
+
+# started on Sun Jul 25 14:18:55 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001990.gbk -out search/BGC0001990_results -db database -distancekb 30 -from 1 -to 100000':
+
+        235,077.84 msec task-clock                #    3.197 CPUs utilized          
+            95,186      context-switches          #    0.405 K/sec                  
+               180      cpu-migrations            #    0.001 K/sec                  
+            84,943      page-faults               #    0.361 K/sec                  
+   612,357,126,661      cycles                    #    2.605 GHz                    
+   816,374,628,699      instructions              #    1.33  insn per cycle         
+   130,992,910,466      branches                  #  557.232 M/sec                  
+     4,334,723,758      branch-misses             #    3.31% of all branches        
+
+      73.527837444 seconds time elapsed
+
+      68.263036000 seconds user
+       5.121684000 seconds sys
+
+
+# started on Sun Jul 25 14:20:08 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001995.gbk -out search/BGC0001995_results -db database -distancekb 30 -from 1 -to 100000':
+
+        412,847.98 msec task-clock                #    3.020 CPUs utilized          
+           161,806      context-switches          #    0.392 K/sec                  
+               331      cpu-migrations            #    0.001 K/sec                  
+           100,513      page-faults               #    0.243 K/sec                  
+ 1,077,929,123,482      cycles                    #    2.611 GHz                    
+ 1,533,824,156,468      instructions              #    1.42  insn per cycle         
+   258,789,741,717      branches                  #  626.840 M/sec                  
+     7,173,728,074      branch-misses             #    2.77% of all branches        
+
+     136.701655862 seconds time elapsed
+
+     128.901833000 seconds user
+       6.794849000 seconds sys
+
+
+# started on Sun Jul 25 14:22:25 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001996.gbk -out search/BGC0001996_results -db database -distancekb 30 -from 1 -to 100000':
+
+        766,202.16 msec task-clock                #    3.600 CPUs utilized          
+           307,824      context-switches          #    0.402 K/sec                  
+               618      cpu-migrations            #    0.001 K/sec                  
+           114,316      page-faults               #    0.149 K/sec                  
+ 1,997,860,997,966      cycles                    #    2.607 GHz                    
+ 2,786,110,177,087      instructions              #    1.39  insn per cycle         
+   459,118,879,669      branches                  #  599.214 M/sec                  
+    12,807,238,605      branch-misses             #    2.79% of all branches        
+
+     212.826351600 seconds time elapsed
+
+     200.358767000 seconds user
+      10.796150000 seconds sys
+
+
+# started on Sun Jul 25 14:25:58 2021
+
+
+ Performance counter stats for 'python2.7 multigeneblast.py -in ../../queries/BGC0001998.gbk -out search/BGC0001998_results -db database -distancekb 30 -from 1 -to 100000':
+
+        284,798.20 msec task-clock                #    3.770 CPUs utilized          
+           130,234      context-switches          #    0.457 K/sec                  
+               189      cpu-migrations            #    0.001 K/sec                  
+            84,675      page-faults               #    0.297 K/sec                  
+   741,782,560,864      cycles                    #    2.605 GHz                    
+   977,298,825,795      instructions              #    1.32  insn per cycle         
+   149,506,682,292      branches                  #  524.957 M/sec                  
+     5,065,019,585      branch-misses             #    3.39% of all branches        
+
+      75.533602131 seconds time elapsed
+
+      68.387453000 seconds user
+       5.987827000 seconds sys
+
+
