@@ -40,7 +40,11 @@ This resulted in an additional 90 records.
 
 ## Download Aspergillus BGCs from the MIBiG database
 As of version 2.0, the MIBiG database contains 88 clusters found in Aspergillus genomes.
-The GenBank files for each of these clusters were retrieved from the database to be used as queries.
+The GenBank files for each of these clusters were retrieved from MIBiG to be used as queries:
+
+	wget https://dl.secondarymetabolites.org/mibig/mibig_gbk_2.0.tar.gz
+	tar xzvf mibig_gbk_2.0.tar.gz
+
 Duplicates, as well as files containing less than two genes were discarded from the dataset, resulting in a final set of 80 query clusters:
 
 	BGC0000004 BGC0000006 BGC0000007 BGC0000008
