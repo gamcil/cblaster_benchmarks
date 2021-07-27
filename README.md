@@ -73,8 +73,8 @@ Duplicates, as well as files containing less than two genes were discarded from 
 	BGC0001990 BGC0001995 BGC0001996 BGC0001998
 
 Notably, the clusters for cyclopiazonic acid in A. oryzae (BGC0000977) and notoamide A in A. sp. MF297-2 (BGC0001084) were not caught by the queries above for building the search database.
-These were manually obtained from the NCBI and added to the database.
-Additionally, the regions containing clusters for ferrichrome in A. oryzae (BGC0000900) and A. niger (BGC0000901), and squalestatin S1 in A. sp. Z5 (BGC0001839), lacked any sequence feature annotations on the NCBI, so annotated MIBiG entries were used instead.
+These were manually obtained from the NCBI and added to the database (NCBI accessions AB506492.1 and HM622670.1, respectively).
+Additionally, the regions containing clusters for ferrichrome in A. oryzae (BGC0000900) and A. niger (BGC0000901), and squalestatin S1 in A. sp. Z5 (BGC0001839), lacked any sequence feature annotations on the NCBI; annotated MIBiG GenBank files were used instead.
 
 In total, 243 sequence records were used to build each search database.
 
